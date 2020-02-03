@@ -1,0 +1,2630 @@
+Timestamp,Which do you hear in the original version?,Does it change for you when speeding up?,What number is shown on the screen when it changes while speeding up?,Does it change for you when slowing down?,What number is shown on the screen when it changes while slowing down?,What gender do you identify with?,How old are you?,Where are you from?,"If you're in the US, what region?"
+5/15/2018 17:15:44,Yanney,Yes,40,No,,Male,25-30,,
+5/15/2018 17:16:05,Yanney,Yes,48,Yes,44,Female,25-30,,
+5/15/2018 17:16:06,Yanney,Yes,,Yes,64,Male,25-30,,
+5/15/2018 17:18:45,Yanney,No,,No,,Male,18-25,,
+5/15/2018 17:20:13,Laurel,Yes,42,Yes,38,Male,18-25,,
+5/15/2018 17:23:47,Laurel,No,,Yes,40,Female,25-30,,
+5/15/2018 17:29:37,Yanney,Yes,48,Yes,40,Female,30-35,US,Midwest
+5/15/2018 17:32:21,Laurel,Yes,38,Yes,32,Male,18-25,Georgia,Southeast
+5/15/2018 17:32:29,Yanney,No,,No,,Female,25-30, Ohio,Northeast
+5/15/2018 17:33:11,Laurel,Yes,38,Yes,38,Male,25-30,US,Southwest
+5/15/2018 17:35:36,Laurel,Yes,30,Yes,62,Male,18-25,England,
+5/15/2018 17:35:43,Laurel,Yes,56,Yes,34,Male,18-25,"Tampa, Florida",Southeast
+5/15/2018 17:37:03,Laurel,Yes,44,Yes,44,Female,35-40,canada,
+5/15/2018 17:39:24,Laurel,Yes,30,,,Male,,,
+5/15/2018 17:39:46,Laurel,Yes,46,Yes,36,Female,25-30,,Northeast
+5/15/2018 17:40:12,Laurel,Yes,30,Yes,42,Female,30-35,,Northeast
+5/15/2018 17:41:36,Laurel,Yes,40,Yes,36,Male,30-35,USA,Northeast
+5/15/2018 17:41:52,Yanney,Yes,64,No,,Female,25-30,Ky,Southeast
+5/15/2018 17:43:30,Laurel,No,30,Yes,66,Female,25-30,US,Southeast
+5/15/2018 17:45:07,Laurel,No,46,Yes,46,Male,30-35,,Southwest
+5/15/2018 17:46:06,Laurel,Yes,36,Yes,64,Male,25-30,Mexico City ,Southeast
+5/15/2018 17:46:30,Laurel,Yes,46,No,,Male,18-25,US,Southwest
+5/15/2018 17:46:36,Yanney,Yes,50,Yes,42,Female,50-55,,Southwest
+5/15/2018 17:46:50,Laurel,Yes,48,Yes,42,Male,25-30,USA,Midwest
+5/15/2018 17:46:53,Laurel,Yes,34,Yes,60,Female,25-30,Us,Southwest
+5/15/2018 17:48:58,Laurel,Yes,42,Yes,34,Male,18-25,canada,
+5/15/2018 17:49:48,Yanney,Yes,66,Yes,44,Male,25-30,Boston ,Northeast
+5/15/2018 17:51:43,Yanney,No,,,,Female,18-25,connecticut,Northeast
+5/15/2018 17:52:09,Yanney,No,64,Yes,54,Female,18-25,Texas,Southeast
+5/15/2018 17:52:28,Laurel,Yes,38,Yes,38,Female,45-50,Texas,Southeast
+5/15/2018 17:54:43,Laurel,No,,No,,Male,45-50,,Southeast
+5/15/2018 17:56:25,Yanney,Yes,50,Yes,36,Male,18-25,USA,Midwest
+5/15/2018 17:57:45,Laurel,Yes,30,Yes,54,Female,18-25,PA,Northeast
+5/15/2018 17:58:37,Yanney,No,,No,,Male,18-25,US,Northeast
+5/15/2018 18:00:07,Yanney,,,,,Male,,,
+5/15/2018 18:01:37,Yanney,No,,No,,Male,18-25,,Northeast
+5/15/2018 18:01:39,Laurel,Yes,30,Yes,46,Female,18-25,Connecticut,Northeast
+5/15/2018 18:02:47,Laurel,Yes,34,Yes,54,Male,25-30,Florida,Southeast
+5/15/2018 18:04:08,Laurel,Yes,44,Yes,40,Male,40-45,USA,Northeast
+5/15/2018 18:05:00,Laurel,,44,Yes,38,Male,25-30,z,Midwest
+5/15/2018 18:06:20,Laurel,Yes,42,Yes,36,Male,45-50,Earth,Southwest
+5/15/2018 18:06:59,Yanney,No,,No,,Female,<18,Mars,Southwest
+5/15/2018 18:09:28,Laurel,No,,Yes,40,Male,35-40,US,Southwest
+5/15/2018 18:15:35,Laurel,Yes,46,Yes,36,Male,18-25,Canada,
+5/15/2018 18:16:13,Laurel,Yes,30,Yes,32,Male,50-55,,Southwest
+5/15/2018 18:17:59,Laurel,Yes,56,Yes,34,Male,18-25,California,Midwest
+5/15/2018 18:19:54,Laurel,Yes,48,Yes,40,Male,18-25,USA,Southwest
+5/15/2018 18:20:26,Yanney,No,,No,,Female,18-25,,Midwest
+5/15/2018 18:21:55,Laurel,Yes,46,Yes,34,Male,45-50,usa,Southeast
+5/15/2018 18:25:46,Yanney,Yes,54,Yes,46,Female,25-30,New York,Northeast
+5/15/2018 18:29:28,Yanney,No,,Yes,40,Female,25-30,Pittsburgh ,Northeast
+5/15/2018 18:29:48,Yanney,Yes,50,Yes,50,Male,30-35,Usa,Southwest
+5/15/2018 18:33:23,Laurel,No,,No,,Male,30-35,California,
+5/15/2018 18:34:49,Yanney,Yes,,Yes,38,Female,25-30,USA,Northeast
+5/15/2018 18:35:47,Yanney,Yes,,No,,,,,
+5/15/2018 18:37:50,Laurel,Yes,40,No,32,Male,40-45,San Diego,Southwest
+5/15/2018 18:37:54,Laurel,No,,Yes,32,Male,25-30,956,Southwest
+5/15/2018 18:38:22,Laurel,Yes,46,No,,Male,25-30,Nebraska,Midwest
+5/15/2018 18:38:55,Laurel,No,,,,,,,Northeast
+5/15/2018 18:39:20,Laurel,Yes,34,Yes,36,Male,25-30,US,Northeast
+5/15/2018 18:39:26,Yanney,No,,No,,Female,25-30,,Southeast
+5/15/2018 18:39:36,Yanney,Yes,30,Yes,50,Female,30-35,Arizona,Southwest
+5/15/2018 18:40:12,Yanney,Yes,60,Yes,50,Male,18-25,Norway,
+5/15/2018 18:40:52,Laurel,Yes,44,No,,Male,25-30,US,Midwest
+5/15/2018 18:43:05,Laurel,Yes,46,Yes,42,Male,18-25,Canada,
+5/15/2018 18:45:15,Laurel,Yes,46,Yes,36,Male,25-30,West Virginia,Northeast
+5/15/2018 18:46:46,Laurel,Yes,66,Yes,54,Male,18-25,United States,Midwest
+5/15/2018 18:47:02,Yanney,Yes,56,Yes,36,Female,18-25,USA,Southwest
+5/15/2018 18:47:42,Laurel,No,,Yes,42,Female,25-30,USA,Southeast
+5/15/2018 18:47:44,Yanney,No,,No,,Female,18-25,"Florida, US",Southeast
+5/15/2018 18:47:55,Yanney,No,,No,,Male,25-30,Columbus,Midwest
+5/15/2018 18:49:35,Yanney,No,,No,,Male,30-35,"Boston, MA USA",Northeast
+5/15/2018 18:51:38,Laurel,Yes,46,Yes,44,Male,25-30,US,Southwest
+5/15/2018 18:54:32,Yanney,,,,,Male,18-25,,Northeast
+5/15/2018 18:55:36,Yanney,Yes,,,,Male,30-35,,Midwest
+5/15/2018 18:56:05,Laurel,Yes,42,Yes,42,Male,25-30,"Florida, USA",Southeast
+5/15/2018 18:58:07,Laurel,Yes,40,Yes,32,Male,18-25,,Northeast
+5/15/2018 18:59:17,Yanney,No,,No,,Female,35-40,Us,Southeast
+5/15/2018 18:59:49,Yanney,No,,No,,Female,30-35,canada,
+5/15/2018 19:01:41,Yanney,Yes,64,Yes,46,Female,30-35,US,Southeast
+5/15/2018 19:02:19,Laurel,No,,Yes,,Male,25-30,,Northeast
+5/15/2018 19:05:27,Laurel,Yes,,No,,Male,25-30,,Southwest
+5/15/2018 19:05:47,Yanney,Yes,54,Yes,36,Male,30-35,USA ,Southeast
+5/15/2018 19:06:25,Laurel,,,,,,,,
+5/15/2018 19:06:44,Laurel,Yes,36,Yes,38,Male,<18,US,
+5/15/2018 19:07:31,,,,,,,,,
+5/15/2018 19:09:30,Yanney,Yes,60,Yes,46,Female,40-45,Texas,Southwest
+5/15/2018 19:09:33,Laurel,No,36,Yes,36,,,,
+5/15/2018 19:10:46,Yanney,No,,No,,Female,25-30,"Pittsburgh, PA",Northeast
+5/15/2018 19:11:30,Laurel,Yes,,,,Male,25-30,Austria,
+5/15/2018 19:12:20,Laurel,Yes,,No,,Male,25-30,,
+5/15/2018 19:12:35,Laurel,No,34,Yes,42,Male,18-25,USA,Southeast
+5/15/2018 19:12:58,,,,,,,,,
+5/15/2018 19:13:30,Yanney,No,,Yes,56,Male,18-25,US,Southeast
+5/15/2018 19:13:58,Yanney,No,,No,,Male,25-30,,West
+5/15/2018 19:14:03,Yanney,No,,No,,Female,30-35,,Northeast
+5/15/2018 19:14:31,Laurel,Yes,30,Yes,40,Male,25-30,Pa,Northeast
+5/15/2018 19:14:38,Laurel,Yes,44,Yes,34,Male,18-25,,Northeast
+5/15/2018 19:14:55,Laurel,Yes,42,Yes,42,Male,30-35,,Southeast
+5/15/2018 19:15:18,Yanney,Yes,38,Yes,40,Male,18-25,USA,West
+5/15/2018 19:15:24,Laurel,Yes,44,Yes,36,Female,45-50,Philadelphia,Midwest
+5/15/2018 19:16:42,Laurel,Yes,38,Yes,38,Female,18-25,Canada,
+5/15/2018 19:16:54,Laurel,Yes,30,Yes,50,Female,18-25,Florida,Southeast
+5/15/2018 19:17:38,Laurel,No,40,Yes,40,Male,18-25,Canada,
+5/15/2018 19:17:38,Laurel,Yes,60,Yes,60,Male,25-30,Alberta,
+5/15/2018 19:19:42,Yanney,Yes,48,Yes,60,Male,30-35,,Midwest
+5/15/2018 19:21:23,Yanney,Yes,58,Yes,48,Female,25-30,england,
+5/15/2018 19:21:24,Yanney,Yes,42,Yes,54,Female,<18,Florida,Southeast
+5/15/2018 19:22:35,Yanney,Yes,54,No,,Female,25-30,Georgia,Southeast
+5/15/2018 19:22:38,Laurel,No,,No,,Male,<18,Canada,
+5/15/2018 19:22:49,Laurel,No,,Yes,32,Male,,,
+5/15/2018 19:22:53,Laurel,Yes,42,Yes,36,Male,18-25,US,Southeast
+5/15/2018 19:23:51,Yanney,Yes,42,Yes,54,Male,25-30,Tennessee,Southeast
+5/15/2018 19:24:07,Yanney,Yes,66,No,,Male,18-25,,Midwest
+5/15/2018 19:24:21,Yanney,Yes,46,Yes,36,Male,<18,United States of America,West
+5/15/2018 19:24:28,Laurel,Yes,46,Yes,44,Male,18-25,,Northeast
+5/15/2018 19:25:34,Laurel,Yes,48,Yes,60,Male,18-25,,Northeast
+5/15/2018 19:25:53,Laurel,Yes,36,Yes,34,Male,25-30,USA,Midwest
+5/15/2018 19:26:39,Laurel,No,,No,,Male,30-35,,Midwest
+5/15/2018 19:26:45,Laurel,Yes,48,Yes,40,Female,<18,US,Southeast
+5/15/2018 19:27:04,Laurel,Yes,40,Yes,38,Male,18-25,USA,Midwest
+5/15/2018 19:27:48,Yanney,No,,Yes,34,Female,18-25,US,Southeast
+5/15/2018 19:28:03,Laurel,Yes,30,Yes,40,Male,35-40,USA,Southeast
+5/15/2018 19:29:17,Laurel,Yes,44,Yes,38,Female,18-25,USA,Midwest
+5/15/2018 19:29:19,Yanney,Yes,48,Yes,40,Female,25-30,Usa,Northeast
+5/15/2018 19:29:34,Laurel,Yes,42,Yes,44,Female,30-35,USA ,Southeast
+5/15/2018 19:29:34,Laurel,Yes,48,Yes,38,Male,18-25,Australia,
+5/15/2018 19:30:33,Yanney,No,,No,,Male,18-25,United States,Southeast
+5/15/2018 19:30:42,Laurel,Yes,30,Yes,38,Male,25-30,US,Southeast
+5/15/2018 19:31:01,Laurel,Yes,44,Yes,40,Female,25-30,,Northeast
+5/15/2018 19:31:03,Laurel,Yes,30,Yes,50,Male,30-35,arab,Northeast
+5/15/2018 19:31:50,Yanney,Yes,30,No,,Male,,,West
+5/15/2018 19:31:56,Laurel,Yes,52,Yes,48,Male,25-30,Usa,Midwest
+5/15/2018 19:32:03,Laurel,Yes,48,Yes,44,Male,25-30,,Southwest
+5/15/2018 19:32:38,Laurel,Yes,46,Yes,42,Female,30-35,"Kent, Ohio",Midwest
+5/15/2018 19:33:26,Yanney,Yes,60,Yes,38,Male,18-25,Virginia,Southeast
+5/15/2018 19:33:37,Laurel,Yes,50,Yes,36,Male,18-25,Atlanta Georgia,Southeast
+5/15/2018 19:35:02,Yanney,No,,No,,Female,25-30,,Southeast
+5/15/2018 19:35:38,Laurel,Yes,44,Yes,40,Male,18-25,England,
+5/15/2018 19:37:29,Laurel,Yes,30,Yes,44,Male,18-25,New york,Northeast
+5/15/2018 19:37:38,Laurel,Yes,40,Yes,50,Male,18-25,Us,Northeast
+5/15/2018 19:37:46,Yanney,No,38,No,48,Male,25-30,California,West
+5/15/2018 19:38:08,Laurel,Yes,30,Yes,40,Male,30-35,PNW,West
+5/15/2018 19:39:54,Laurel,Yes,52,Yes,42,Female,18-25,Usa,Midwest
+5/15/2018 19:40:52,Laurel,Yes,52,Yes,42,Female,18-25,Usa,Midwest
+5/15/2018 19:42:13,Laurel,Yes,52,Yes,42,Female,18-25,Usa,Midwest
+5/15/2018 19:42:13,Yanney,Yes,40,Yes,52,Male,25-30,USA,Northeast
+5/15/2018 19:43:20,Yanney,Yes,52,Yes,54,Male,18-25,United States,West
+5/15/2018 19:43:45,Laurel,No,44,Yes,44,Male,25-30,,Midwest
+5/15/2018 19:44:45,Yanney,No,,No,,Male,18-25,,Southeast
+5/15/2018 19:45:48,Laurel,Yes,42,Yes,36,Male,18-25,"Grand Rapids, MI",Midwest
+5/15/2018 19:46:57,Laurel,Yes,42,,40,Male,18-25,"Georgia, USA",Southeast
+5/15/2018 19:47:16,Laurel,,,,,,,,
+5/15/2018 19:47:52,Laurel,Yes,52,Yes,32,Male,25-30,,Northeast
+5/15/2018 19:47:58,Yanney,Yes,52,Yes,54,Male,25-30,Maryland,Northeast
+5/15/2018 19:48:59,Laurel,Yes,54,Yes,34,Male,40-45,UK,
+5/15/2018 19:49:06,Yanney,No,,No,,Female,18-25,"Georgia, USA",Southeast
+5/15/2018 19:49:07,Laurel,Yes,48,Yes,42,Female,18-25,Mississippi ,Southeast
+5/15/2018 19:49:24,Yanney,No,,No,,Male,30-35,US,Midwest
+5/15/2018 19:49:53,Yanney,No,,No,,Female,25-30,,Southeast
+5/15/2018 19:50:00,Laurel,Yes,30,Yes,44,Female,25-30,RI,Northeast
+5/15/2018 19:50:44,Yanney,Yes,42,Yes,40,Male,50-55,,Midwest
+5/15/2018 19:51:48,Yanney,Yes,30,Yes,36,Male,18-25,,
+5/15/2018 19:52:07,Laurel,Yes,44,No,,Male,18-25,NZ,
+5/15/2018 19:52:17,Laurel,Yes,36,Yes,36,Female,25-30,,Northeast
+5/15/2018 19:52:28,Yanney,No,,No,,Male,18-25,US,Northeast
+5/15/2018 19:52:36,Yanney,No,52,No,32,Male,18-25,,
+5/15/2018 19:52:46,Yanney,No,38,No,66,Female,25-30,Utah,West
+12/27/2018 11:57:49,Yanney,Yes,66,No,32,Male,18-25,US,"Hawaii, Alaska or other territory"
+5/15/2018 19:52:55,Yanney,No,,No,,Male,30-35,USA,Northeast
+5/15/2018 19:53:04,Laurel,Yes,40,Yes,56,Female,30-35,,West
+5/15/2018 19:53:36,Laurel,Yes,,Yes,,Male,18-25,,Northeast
+5/15/2018 19:54:04,Yanney,No,,Yes,32,Male,18-25,,
+5/15/2018 19:54:33,Laurel,Yes,38,Yes,32,Male,18-25,USA,Northeast
+5/15/2018 19:55:42,Yanney,Yes,60,Yes,52,Male,18-25,"Los Angeles, CA",Midwest
+5/15/2018 19:55:56,Laurel,No,,Yes,42,Male,25-30,"Pittsburgh, PA USA",Northeast
+5/15/2018 19:56:06,Laurel,Yes,46,Yes,40,Male,30-35,,Southeast
+5/15/2018 19:56:09,Laurel,Yes,36,No,,Female,25-30,Florida,Southeast
+5/15/2018 19:56:53,Laurel,Yes,40,Yes,40,Female,30-35,United States,Southeast
+5/15/2018 19:57:00,Laurel,Yes,36,No,,Female,25-30,Florida,Southeast
+5/15/2018 19:57:51,Laurel,Yes,60,Yes,40,Male,25-30,Usa,Northeast
+5/15/2018 19:58:03,Yanney,No,,No,,Male,18-25,Kentucky,Midwest
+5/15/2018 19:58:16,Laurel,Yes,42,Yes,44,Male,18-25,New York,Northeast
+5/15/2018 19:58:19,Laurel,No,42,Yes,40,Female,35-40,Canada,
+5/15/2018 19:58:39,Laurel,Yes,40,Yes,44,Female,30-35,TN/CT/NJ,Northeast
+5/15/2018 19:59:26,Laurel,Yes,46,Yes,44,Male,18-25,US,Midwest
+5/15/2018 19:59:34,Laurel,Yes,56,Yes,38,Female,18-25,USA,Midwest
+5/15/2018 20:00:01,Laurel,No,,Yes,42,Male,30-35,Vietnam,Southwest
+5/15/2018 20:01:14,Laurel,Yes,42,Yes,38,Male,25-30,SD153,West
+5/15/2018 20:02:44,Laurel,Yes,44,Yes,40,,,,
+5/15/2018 20:03:09,Yanney,No,,No,,Female,,"Boston, MA, USA",Northeast
+5/15/2018 20:03:19,Yanney,No,,No,,Female,18-25,United States,Midwest
+5/15/2018 20:04:02,Yanney,No,,No,,Male,40-45,,Midwest
+5/15/2018 20:04:33,Yanney,No,,No,,Female,30-35,,Southeast
+5/15/2018 20:05:18,Yanney,Yes,,,,,,,
+5/15/2018 20:09:35,Yanney,No,,No,,Female,25-30,Canada,
+5/15/2018 20:10:52,,Yes,62,Yes,66,Male,<18,United States,Midwest
+5/15/2018 20:11:08,Yanney,Yes,52,Yes,48,Female,18-25,USA,Northeast
+5/15/2018 20:11:13,Laurel,Yes,54,Yes,50,Male,,,
+5/15/2018 20:11:23,Laurel,Yes,52,Yes,56,Male,30-35,NYC,Northeast
+5/15/2018 20:11:27,Laurel,Yes,54,Yes,50,Male,,,
+5/15/2018 20:12:05,Laurel,Yes,30,Yes,32,Female,18-25,USA,Midwest
+5/15/2018 20:13:17,Yanney,Yes,52,Yes,48,Male,18-25,,Southeast
+5/15/2018 20:13:39,Yanney,Yes,36,Yes,36,Male,25-30,US,Southwest
+5/15/2018 20:14:59,Yanney,Yes,54,Yes,48,Male,18-25,Alabama,Southeast
+5/15/2018 20:15:26,Laurel,Yes,38,Yes,48,Male,<18,Alabama,Southeast
+5/15/2018 20:15:32,Laurel,Yes,46,,36,Male,35-40,united states,Southeast
+5/15/2018 20:15:47,Yanney,No,,No,,Female,30-35,US,Midwest
+5/15/2018 20:17:37,Laurel,No,64,No,46,Male,18-25,us,Southeast
+5/15/2018 20:18:03,Laurel,Yes,32,Yes,32,Female,25-30,Canada,
+5/15/2018 20:18:20,Laurel,No,,Yes,40,Male,18-25,"Omaha, NE",Midwest
+5/15/2018 20:18:24,Laurel,Yes,36,Yes,62,Male,18-25,,Midwest
+5/15/2018 20:18:25,,,,,,,,,
+5/15/2018 20:18:35,Laurel,No,,Yes,36,Male,25-30,new york,Northeast
+5/15/2018 20:18:36,Laurel,Yes,38,Yes,36,Female,30-35,USA,West
+5/15/2018 20:18:46,Laurel,Yes,46,Yes,44,Male,25-30,Savannah ga,Southeast
+5/15/2018 20:19:34,Laurel,Yes,48,Yes,40,Female,<18,,
+5/15/2018 20:19:40,Yanney,Yes,40,Yes,36,Male,18-25,uk,
+5/15/2018 20:21:12,Yanney,No,,No,,Male,18-25,United States,Northeast
+5/15/2018 20:21:46,Laurel,Yes,30,Yes,38,Female,30-35,Virginia,Southeast
+5/15/2018 20:21:49,Laurel,Yes,42,Yes,40,Male,30-35,,West
+5/15/2018 20:22:08,Laurel,Yes,44,Yes,42,Male,25-30,mexico,Southwest
+5/15/2018 20:22:49,Yanney,No,,No,,Male,18-25,US,West
+5/15/2018 20:24:06,Yanney,Yes,64,Yes,40,Female,18-25,USA,Midwest
+5/15/2018 20:24:24,Laurel,Yes,44,Yes,44,Male,25-30,Maryland,Northeast
+5/15/2018 20:24:24,Yanney,Yes,52,Yes,44,Female,18-25,Montreal,
+5/15/2018 20:25:04,Laurel,Yes,42,Yes,40,Male,25-30,saskatchewan,
+5/15/2018 20:25:24,Laurel,No,,No,,,,,
+5/15/2018 20:25:53,Laurel,Yes,46,Yes,36,Female,18-25,United States,Southeast
+5/15/2018 20:27:33,Laurel,No,,Yes,42,Male,25-30,,Southeast
+5/15/2018 20:27:39,Yanney,No,,No,,Male,25-30,,
+5/15/2018 20:27:40,Yanney,Yes,52,Yes,52,Female,25-30,,Southeast
+5/15/2018 20:27:52,Yanney,No,,No,,,,,
+5/15/2018 20:28:17,Yanney,Yes,56,Yes,46,Female,18-25,United States,Northeast
+5/15/2018 20:28:29,Laurel,Yes,44,Yes,36,Male,25-30,US,Southeast
+5/15/2018 20:28:38,Laurel,Yes,44,Yes,36,Male,18-25,United States,West
+5/15/2018 20:29:22,Laurel,Yes,30,Yes,44,Female,30-35,,Southwest
+5/15/2018 20:29:27,Yanney,Yes,62,Yes,42,Male,25-30,New york,Northeast
+5/15/2018 20:29:58,Yanney,No,,No,,Male,25-30,US,"Hawaii, Alaska or other territory"
+5/15/2018 20:30:15,Laurel,No,,No,,Male,25-30,USA,West
+5/15/2018 20:30:27,Laurel,Yes,48,Yes,42,Male,30-35,United States,Southwest
+5/15/2018 20:30:32,Yanney,Yes,46,Yes,40,Male,25-30,New York,Northeast
+5/15/2018 20:31:42,Laurel,Yes,48,Yes,42,Male,18-25,"Michigan, US",Southeast
+5/15/2018 20:32:42,Yanney,Yes,44,Yes,50,Male,30-35,US,Midwest
+5/15/2018 20:33:15,Yanney,No,,Yes,60,Male,18-25,Florida,Southeast
+5/15/2018 20:34:35,Laurel,Yes,46,Yes,56,Male,18-25,US,Southwest
+5/15/2018 20:34:43,Yanney,Yes,50,Yes,42,Female,25-30,New Zealand,
+5/15/2018 20:34:46,Laurel,No,,No,,Female,25-30,USA,Midwest
+5/15/2018 20:35:05,Laurel,No,,Yes,38,Male,30-35,"United States, midwest and baltimore",West
+5/15/2018 20:35:05,Laurel,Yes,32,Yes,38,Male,18-25,chicago,Midwest
+5/15/2018 20:35:53,Laurel,Yes,42,Yes,36,Male,25-30,California,West
+5/15/2018 20:35:55,Yanney,No,30,No,64,Prefer not to say,Prefer not to say,,Northeast
+5/15/2018 20:36:02,Yanney,No,,No,,Male,18-25,Us,Southwest
+5/15/2018 20:37:27,Laurel,No,,Yes,32,Male,18-25,Boston ,Northeast
+5/15/2018 20:37:29,Laurel,Yes,32,No,,Male,18-25,US,Midwest
+5/15/2018 20:37:34,Laurel,Yes,30,Yes,44,Female,30-35,,West
+5/15/2018 20:38:43,Yanney,Yes,46,Yes,46,Female,35-40,Minnesota,Midwest
+5/15/2018 20:39:07,Laurel,No,,Yes,,Female,18-25,,Midwest
+5/15/2018 20:39:46,Yanney,No,,Yes,60,Male,25-30,"Montréal, canada",
+5/15/2018 20:42:03,Laurel,Yes,42,Yes,48,Male,25-30,Michigan ,Midwest
+5/15/2018 20:43:01,Laurel,No,,Yes,32,Male,<18,France,
+5/15/2018 20:43:19,Yanney,Yes,48,Yes,44,Male,18-25,,Southeast
+5/15/2018 20:43:54,Laurel,Yes,42,Yes,40,Male,30-35,,Southeast
+5/15/2018 20:44:11,Laurel,Yes,50,Yes,38,Male,18-25,England,West
+5/15/2018 20:45:22,Laurel,Yes,44,Yes,44,Gender-fluid/Non-binary/Other,18-25,,Midwest
+5/15/2018 20:46:20,Laurel,Yes,44,Yes,42,Male,25-30,,Midwest
+5/15/2018 20:46:47,Laurel,Yes,46,Yes,46,Male,<18,"San Jose, CA",West
+5/15/2018 20:46:52,Yanney,Yes,,No,,Female,25-30,,Northeast
+5/15/2018 20:47:08,Yanney,No,,No,,Female,18-25,NC ,Southeast
+5/15/2018 20:47:14,Yanney,No,,No,,Female,25-30,australia,
+5/15/2018 20:47:15,Yanney,Yes,50,No,,Female,35-40,Mn,Midwest
+5/15/2018 20:47:35,Laurel,Yes,44,Yes,42,Male,25-30,,Midwest
+5/15/2018 20:47:53,Laurel,No,42,Yes,42,Male,18-25,KY,Southeast
+5/15/2018 20:47:57,Laurel,Yes,30,No,60,Female,30-35,Australia,
+5/15/2018 20:48:29,Yanney,No,44,No,42,Female,18-25,Canada,
+5/15/2018 20:48:37,Laurel,Yes,,,44,Female,18-25,,Southwest
+5/15/2018 20:50:14,Yanney,No,,No,,Male,35-40,USA,Northeast
+5/15/2018 20:50:17,Yanney,Yes,54,Yes,36,Male,18-25,United States ,Midwest
+5/15/2018 20:51:25,Yanney,No,,No,,Male,18-25,This is America,West
+5/15/2018 20:50:53,Yanney,No,,No,,Male,35-40,USA,Northeast
+5/15/2018 20:50:53,Yanney,Yes,50,Yes,66,Male,50-55,US,Southeast
+5/15/2018 20:50:57,Laurel,No,,Yes,40,Female,30-35,,Southeast
+5/15/2018 20:51:00,Laurel,Yes,48,Yes,40,Male,18-25,N/A,Southeast
+5/15/2018 20:51:01,Laurel,No,66,No,32,Male,18-25,United States,West
+5/15/2018 20:51:25,Laurel,Yes,46,Yes,42,Female,25-30,USA ,Midwest
+5/15/2018 20:51:30,Yanney,No,56,Yes,54,Male,30-35,Omaha NE,Midwest
+5/15/2018 20:51:35,Laurel,Yes,48,Yes,44,Prefer not to say,Prefer not to say,,West
+5/15/2018 20:51:38,Laurel,Yes,46,No,,Male,18-25,,Southeast
+5/15/2018 20:52:26,Laurel,No,,Yes,40,Female,30-35,,Southeast
+5/15/2018 20:52:57,Yanney,No,,No,,Male,18-25,Texas,Southeast
+5/15/2018 20:53:00,Laurel,No,,Yes,48,Male,30-35,San Luis Obispo,
+5/15/2018 20:53:30,Laurel,Yes,46,Yes,42,Female,<18,United states,Northeast
+5/15/2018 20:54:01,Yanney,No,66,No,32,Male,25-30,brooklyn,Northeast
+5/15/2018 20:54:13,Laurel,Yes,,Yes,,Male,30-35,,Northeast
+5/15/2018 20:55:22,Laurel,Yes,44,Yes,46,Female,30-35,California,West
+5/15/2018 20:55:38,,,,,,,,,
+5/15/2018 20:55:39,Yanney,No,,No,,Male,30-35,,West
+5/15/2018 20:55:46,Yanney,Yes,44,No,,Male,25-30,Bedroom studio,Midwest
+5/15/2018 20:55:47,Laurel,Yes,42,Yes,60,Male,25-30,United States,West
+5/15/2018 20:55:52,Laurel,No,56,Yes,34,Male,18-25,New York,Northeast
+5/15/2018 20:56:17,Yanney,No,,No,,Male,35-40,,Southwest
+5/15/2018 20:56:22,Yanney,No,,No,,Male,25-30,,Northeast
+5/15/2018 20:56:47,Laurel,Yes,44,Yes,38,Male,50-55,US,Northeast
+5/15/2018 20:56:55,Laurel,Yes,30,Yes,44,Female,30-35,United States ,West
+5/15/2018 20:56:56,Laurel,Yes,44,Yes,42,Female,35-40,US,"Hawaii, Alaska or other territory"
+5/15/2018 20:56:57,Laurel,Yes,58,Yes,58,Male,40-45,Earth,West
+5/15/2018 20:57:23,Yanney,Yes,52,Yes,48,Male,18-25,,
+5/15/2018 20:57:28,Laurel,No,,No,,Male,18-25,US,West
+5/15/2018 20:57:41,Yanney,Yes,42,Yes,38,Male,18-25,Maryland,Northeast
+5/15/2018 20:57:46,Laurel,Yes,42,Yes,42,Male,18-25,Canada,
+5/15/2018 20:57:49,Laurel,Yes,44,Yes,38,Male,50-55,US,Northeast
+5/15/2018 20:58:00,Laurel,No,,Yes,32,Male,30-35,United States,Midwest
+5/15/2018 20:58:15,Laurel,Yes,40,Yes,56,Female,18-25,Us,Midwest
+5/15/2018 20:58:23,Laurel,Yes,30,Yes,42,Female,18-25,US,Southeast
+5/15/2018 20:58:24,Laurel,Yes,30,Yes,44,Male,30-35,,West
+5/15/2018 20:59:19,Yanney,Yes,46,Yes,46,Prefer not to say,Prefer not to say,,West
+5/15/2018 20:59:27,Yanney,Yes,50,No,,Male,25-30,"Ontario, Canada",
+5/15/2018 20:59:46,Laurel,No,,No,36,Female,50-55,USA ,Northeast
+5/15/2018 21:00:06,Laurel,Yes,,,,,,,
+5/15/2018 21:00:14,Laurel,Yes,56,Yes,58,Male,30-35,,Midwest
+5/15/2018 21:00:27,Laurel,Yes,48,Yes,42,Male,30-35,USA,West
+5/15/2018 21:01:02,Laurel,No,,Yes,32,Female,30-35,West Virginia,Northeast
+5/15/2018 21:01:09,Yanney,Yes,44,Yes,50,Female,30-35,California ,West
+5/15/2018 21:02:15,Laurel,Yes,30,No,,Male,18-25,US,Northeast
+5/15/2018 21:02:30,Laurel,No,,No,,Male,25-30,Indiana,Northeast
+5/15/2018 21:02:43,Laurel,Yes,30,Yes,48,Male,25-30,,
+5/15/2018 21:02:46,Laurel,No,46,Yes,42,Male,35-40,"BC, Canada",
+5/15/2018 21:02:51,Yanney,Yes,32,Yes,42,Female,30-35,,West
+5/15/2018 21:03:05,Laurel,Yes,38,Yes,50,Male,18-25,Canada,
+5/15/2018 21:03:18,Yanney,Yes,56,Yes,40,Male,25-30,Canada,
+5/15/2018 21:03:25,Laurel,Yes,50,Yes,46,Female,18-25,wisconsin,Midwest
+5/15/2018 21:03:32,Laurel,Yes,38,Yes,34,Male,18-25,Chicago,Midwest
+5/15/2018 21:03:35,Laurel,Yes,30,No,56,Male,40-45,AZ,Southwest
+5/15/2018 21:03:55,Laurel,Yes,44,Yes,36,Gender-fluid/Non-binary/Other,30-35,Netherlands ,
+5/15/2018 21:03:55,Laurel,No,,Yes,44,Male,18-25,United States,
+5/15/2018 21:04:12,Laurel,No,,No,,Male,18-25,US,Southeast
+5/15/2018 21:04:24,Laurel,Yes,42,Yes,40,Male,30-35,California,West
+5/15/2018 21:04:36,Laurel,Yes,46,Yes,46,Female,18-25,Colombia,Southwest
+5/15/2018 21:04:40,Laurel,Yes,30,Yes,34,Male,40-45,us,Midwest
+5/15/2018 21:04:44,Laurel,Yes,46,Yes,46,Male,18-25,Florida ,Southeast
+5/15/2018 21:04:51,Yanney,No,,Yes,58,Female,18-25,USA,Southeast
+5/15/2018 21:05:04,Yanney,No,,No,,Male,18-25,US,West
+5/15/2018 21:05:31,Laurel,Yes,46,Yes,44,Male,18-25,,Southwest
+5/15/2018 21:05:42,Laurel,Yes,36,,34,Male,18-25,Michigan,Midwest
+5/15/2018 21:06:22,Laurel,Yes,34,Yes,34,,,,
+5/15/2018 21:07:00,Laurel,Yes,30,Yes,40,Male,25-30,United States,Southeast
+5/15/2018 21:07:10,Laurel,Yes,36,No,,Male,18-25,,Northeast
+5/15/2018 21:07:25,Laurel,No,,Yes,40,Male,30-35,Los Angeles,West
+5/15/2018 21:07:35,Yanney,Yes,62,Yes,46,Male,30-35,Arizona,Southwest
+5/15/2018 21:08:02,Laurel,No,,No,,Male,25-30,,Southwest
+5/15/2018 21:08:09,Laurel,Yes,44,Yes,38,Male,25-30,"Seattle, WA",West
+5/15/2018 21:08:34,Yanney,Yes,60,Yes,46,Female,<18,New Zealand,
+5/15/2018 21:08:51,Laurel,Yes,40,Yes,40,Male,30-35,Sacramento,West
+5/15/2018 21:09:03,Laurel,No,,Yes,32,Male,30-35,USA,Southeast
+5/15/2018 21:09:24,Laurel,Yes,44,Yes,40,Male,35-40,United States,Northeast
+5/15/2018 21:09:27,Laurel,Yes,44,Yes,38,Female,25-30,Canada,
+5/15/2018 21:09:34,Laurel,Yes,44,Yes,38,Female,25-30,Canada,
+5/15/2018 21:10:14,Yanney,Yes,48,Yes,46,Female,25-30,US,Southeast
+5/15/2018 21:10:16,Yanney,Yes,46,Yes,42,Male,25-30,US,Midwest
+5/15/2018 21:10:46,Laurel,No,,No,,Female,18-25,Australia,
+5/15/2018 21:11:14,Yanney,Yes,58,Yes,36,Female,30-35,New Zealand,
+5/15/2018 21:12:54,Yanney,Yes,,,,Male,25-30,,
+5/15/2018 21:13:46,Laurel,No,,Yes,38,Male,18-25,US,West
+5/15/2018 21:14:09,Yanney,Yes,42,Yes,38,Female,25-30,canada,
+5/15/2018 21:14:10,Yanney,No,,No,,Male,30-35,Baltimore,Northeast
+5/15/2018 21:14:23,Laurel,No,44,Yes,34,Male,18-25,United States,Midwest
+5/15/2018 21:14:45,Laurel,Yes,48,Yes,52,Male,25-30,Rochester,Northeast
+5/15/2018 21:14:48,Laurel,Yes,42,Yes,40,Male,25-30,,Southeast
+5/15/2018 21:14:58,Laurel,Yes,34,Yes,34,Male,18-25,Mexico,
+5/15/2018 21:14:59,Laurel,Yes,50,Yes,50,Male,25-30,Australia,
+5/15/2018 21:15:48,Laurel,Yes,48,Yes,42,Male,18-25,Canada - Ontario,
+5/15/2018 21:15:56,Laurel,Yes,44,Yes,34,Male,30-35,,Midwest
+5/15/2018 21:16:01,Laurel,Yes,,Yes,38,Male,18-25,New Jersey,Northeast
+5/15/2018 21:16:02,Laurel,Yes,42,Yes,40,Male,25-30,,Southeast
+5/15/2018 21:16:07,Laurel,No,,Yes,32,Male,30-35,USA,Southeast
+5/15/2018 21:16:19,Laurel,Yes,42,Yes,40,Male,25-30,Norway,
+5/15/2018 21:16:26,Yanney,Yes,40,No,,Male,18-25,US,Midwest
+5/15/2018 21:16:42,Yanney,No,,No,,Male,18-25,,Northeast
+5/15/2018 21:16:49,Yanney,No,62,No,34,Male,25-30,USA,West
+5/15/2018 21:16:53,Laurel,No,,Yes,32,Male,18-25,,Northeast
+5/15/2018 21:17:14,Yanney,No,,No,,Female,50-55,,West
+5/15/2018 21:17:19,Laurel,No,48,Yes,48,Female,18-25,california,West
+5/15/2018 21:17:30,Yanney,Yes,64,Yes,54,Male,30-35,philly,Northeast
+5/15/2018 21:17:36,,,,,,,,,
+5/15/2018 21:17:48,Laurel,Yes,42,Yes,40,Male,25-30,Norway,
+5/15/2018 21:17:52,Laurel,Yes,42,Yes,38,Male,30-35,Australia,
+5/15/2018 21:17:52,Yanney,Yes,48,Yes,50,Male,35-40,India,West
+5/15/2018 21:18:02,Yanney,No,,No,,Female,50-55,,West
+5/15/2018 21:18:08,Laurel,No,30,No,,Male,18-25,Oklahoma,Midwest
+5/15/2018 21:18:25,,,,,,,,,
+5/15/2018 21:18:45,Laurel,Yes,44,No,,Male,30-35,Alaska,"Hawaii, Alaska or other territory"
+5/15/2018 21:19:02,Yanney,No,,Yes,54,Male,30-35,Saskatchewan,
+5/15/2018 21:19:52,Yanney,Yes,54,Yes,54,Male,18-25,New Zealand,
+5/15/2018 21:20:07,Yanney,No,,No,,Male,30-35,usa,West
+5/15/2018 21:20:09,Laurel,No,,No,,,,,
+5/15/2018 21:21:15,Laurel,No,,No,,,,,
+5/15/2018 21:21:20,Laurel,Yes,52,Yes,44,Female,25-30,Us,West
+5/15/2018 21:21:21,Laurel,Yes,40,Yes,40,Male,25-30,,Northeast
+5/15/2018 21:21:26,Laurel,No,,No,,,,,
+5/15/2018 21:22:21,Laurel,No,38,Yes,32,Male,40-45,US,Northeast
+5/15/2018 21:24:03,Laurel,Yes,42,Yes,38,Female,35-40,Usa,Northeast
+5/15/2018 21:24:21,Laurel,Yes,44,Yes,34,Male,18-25,Canada,
+5/15/2018 21:24:46,Laurel,Yes,44,Yes,42,Male,35-40,Texas,Southwest
+5/15/2018 21:25:54,Laurel,Yes,30,Yes,50,Female,18-25,Oregon,West
+5/15/2018 21:26:49,Laurel,No,,Yes,34,Female,30-35,,West
+5/15/2018 21:26:49,Laurel,Yes,48,Yes,42,Male,25-30,California,West
+5/15/2018 21:26:53,Laurel,Yes,42,Yes,60,Male,<18,United States,Northeast
+5/15/2018 21:27:03,Laurel,No,,Yes,32,Female,35-40,,West
+5/15/2018 21:27:04,Yanney,No,,No,,Male,18-25,Washington,West
+5/15/2018 21:27:42,Laurel,No,,Yes,32,Female,35-40,,West
+5/15/2018 21:28:52,Laurel,Yes,34,Yes,32,Male,18-25,Vancouver,
+5/15/2018 21:28:53,Laurel,Yes,48,Yes,34,Male,18-25,MN,Midwest
+5/15/2018 21:29:18,Yanney,Yes,50,Yes,40,Female,25-30,,Southwest
+5/15/2018 21:29:20,Yanney,Yes,46,Yes,44,Male,30-35,California,West
+5/15/2018 21:30:41,Yanney,No,,No,,Female,35-40,,West
+5/15/2018 21:31:19,Laurel,Yes,56,Yes,44,Female,>60,Chicago,Midwest
+5/15/2018 21:31:20,Laurel,Yes,38,No,52,Male,30-35,,Southeast
+5/15/2018 21:33:02,Laurel,Yes,38,No,52,Male,30-35,,Southeast
+5/15/2018 21:33:05,Laurel,Yes,44,Yes,54,Female,35-40,,Southwest
+5/15/2018 21:33:12,Yanney,Yes,44,Yes,48,Male,<18,,
+5/15/2018 21:33:21,Laurel,No,,No,,Male,18-25,Canada,Northeast
+5/15/2018 21:33:57,Laurel,Yes,42,Yes,34,Male,18-25,United States,Northeast
+5/15/2018 21:34:09,Laurel,Yes,30,Yes,40,Male,18-25,United States,Southwest
+5/15/2018 21:34:21,Yanney,Yes,52,Yes,50,Male,18-25,United States,Midwest
+5/15/2018 21:34:40,Yanney,Yes,48,No,54,Male,40-45,,West
+5/15/2018 21:36:38,Laurel,Yes,32,Yes,48,Male,25-30,Houston Texas,Southeast
+5/15/2018 21:36:48,Laurel,No,,Yes,38,Male,35-40,,Midwest
+5/15/2018 21:37:36,Laurel,No,,No,,Male,<18,Ohio,Northeast
+5/15/2018 21:37:42,Laurel,Yes,46,Yes,38,Female,18-25,US,Northeast
+5/15/2018 21:38:51,Laurel,Yes,,Yes,,Male,25-30,US,Northeast
+5/15/2018 21:39:09,Yanney,Yes,44,Yes,34,Male,25-30,USA,West
+5/15/2018 21:39:36,Yanney,Yes,48,Yes,36,Male,<18,US,West
+5/15/2018 21:39:45,Laurel,Yes,46,Yes,58,Male,18-25,USA,Southeast
+5/15/2018 21:40:07,Laurel,No,,Yes,44,Female,18-25,,Midwest
+5/15/2018 21:40:08,Yanney,Yes,50,Yes,34,Male,25-30,Australia,
+5/15/2018 21:40:52,Laurel,Yes,50,Yes,50,Male,25-30,California,West
+5/15/2018 21:41:20,Yanney,Yes,,No,,Male,25-30,Chile,
+5/15/2018 21:41:35,Laurel,Yes,42,Yes,,Male,18-25,,Northeast
+5/15/2018 21:42:43,Laurel,Yes,38,Yes,38,Male,25-30,USA,Southwest
+5/15/2018 21:43:03,Laurel,Yes,40,Yes,38,Male,30-35,NZ,
+5/15/2018 21:43:34,Yanney,Yes,48,Yes,34,Male,30-35,,
+5/15/2018 21:45:28,Laurel,Yes,46,Yes,46,Male,25-30,Canada,
+5/15/2018 21:45:32,Laurel,No,,Yes,44,Male,18-25,California,West
+5/15/2018 21:45:32,Laurel,No,,Yes,36,Male,25-30,U.S.A.,Northeast
+5/15/2018 21:46:07,Yanney,No,,No,,Male,25-30,new york,Northeast
+5/15/2018 21:46:08,Laurel,Yes,,Yes,,Male,18-25,US,West
+5/15/2018 21:46:20,Laurel,Yes,44,Yes,38,Male,18-25,United States,Midwest
+5/15/2018 21:47:07,Laurel,No,,No,,Male,30-35,Canada,
+5/15/2018 21:47:44,Yanney,No,,No,,Male,25-30,US,Southeast
+5/15/2018 21:48:04,Laurel,No,,Yes,32,Gender-fluid/Non-binary/Other,18-25,England,West
+5/15/2018 21:48:11,Laurel,No,56,Yes,38,Male,25-30,n/a,Midwest
+5/15/2018 21:48:51,Laurel,Yes,48,Yes,40,Male,30-35,US,West
+5/15/2018 21:48:52,Laurel,Yes,48,Yes,42,Female,25-30,Ct,Northeast
+5/15/2018 21:49:20,Yanney,No,,No,,Male,25-30,US,Southeast
+5/15/2018 21:49:32,Yanney,Yes,60,Yes,50,Male,18-25,Canada,
+5/15/2018 21:49:43,Laurel,Yes,44,Yes,42,Male,18-25,USA,Southeast
+5/15/2018 21:50:53,Laurel,No,,Yes,40,Male,18-25,United States,Southeast
+5/15/2018 21:51:10,Laurel,Yes,40,Yes,40,Male,18-25,California ,West
+5/15/2018 21:51:16,Yanney,Yes,48,Yes,40,Male,18-25,fl,Southeast
+5/15/2018 21:51:34,Yanney,No,,No,,Male,18-25,,Southeast
+5/15/2018 21:52:06,Laurel,Yes,48,Yes,42,Female,25-30,Ct,Northeast
+5/15/2018 21:52:51,Laurel,Yes,46,Yes,42,Male,18-25,,
+5/15/2018 21:53:02,Yanney,Yes,54,Yes,46,Male,18-25,USA,Southwest
+5/15/2018 21:53:43,Laurel,Yes,42,No,42,Male,,,
+5/15/2018 21:54:05,Yanney,Yes,54,Yes,36,Male,30-35,Australia,
+5/15/2018 21:54:26,Laurel,Yes,46,Yes,36,Male,18-25,USA,West
+5/15/2018 21:55:11,Laurel,Yes,46,Yes,38,Male,30-35,US,West
+5/15/2018 21:55:54,Laurel,No,,Yes,34,Male,25-30,,Northeast
+5/15/2018 21:55:59,Laurel,Yes,40,Yes,36,Male,25-30,,"Hawaii, Alaska or other territory"
+5/15/2018 21:56:08,Yanney,Yes,54,Yes,46,Male,18-25,United States,Midwest
+5/15/2018 21:56:28,Laurel,No,,Yes,32,Male,30-35,USA,Southeast
+5/15/2018 21:57:58,Laurel,No,,Yes,46,Male,25-30,USA,West
+5/15/2018 21:58:04,Laurel,Yes,40,No,,Male,18-25,Arizona,West
+5/15/2018 21:58:13,Laurel,No,,No,,Male,35-40,US,West
+5/15/2018 21:59:14,Laurel,Yes,,,,,,,
+5/15/2018 21:59:30,Laurel,Yes,32,Yes,48,Female,,,
+5/15/2018 22:00:59,Laurel,Yes,64,Yes,34,Male,18-25,,
+5/15/2018 22:01:10,Laurel,No,,Yes,32,Male,18-25,"Oklahoma, USA ",Southwest
+5/15/2018 22:01:17,Laurel,Yes,60,Yes,40,Female,18-25,,West
+5/15/2018 22:01:22,Yanney,No,,Yes,40,Male,25-30,tx,Midwest
+5/15/2018 22:02:03,Yanney,No,,No,32,Male,18-25,California,
+5/15/2018 22:05:42,,,,,,,,,
+5/15/2018 22:05:47,Yanney,No,,No,,Female,25-30,,
+5/15/2018 22:05:56,Yanney,Yes,64,No,,Male,40-45,Asia,
+5/15/2018 22:07:04,Yanney,Yes,64,Yes,52,Female,25-30,Washington,West
+5/15/2018 22:07:30,Laurel,Yes,30,Yes,44,Male,18-25,USA,Midwest
+5/15/2018 22:07:41,Laurel,Yes,48,Yes,38,Female,25-30,usa,West
+5/15/2018 22:07:42,Laurel,Yes,42,Yes,42,Male,25-30,,Northeast
+5/15/2018 22:07:58,Yanney,No,,No,,Male,18-25,Mississauga,Northeast
+5/15/2018 22:08:19,Yanney,No,,No,,Male,18-25,Brazil,
+5/15/2018 22:08:25,Laurel,No,32,No,38,Male,25-30,,West
+5/15/2018 22:09:21,Yanney,Yes,54,Yes,54,Male,18-25,Netherlands,
+5/15/2018 22:10:19,Laurel,Yes,32,No,,Male,18-25,USA,West
+5/15/2018 22:10:30,Yanney,Yes,42,Yes,38,Male,18-25,,West
+5/15/2018 22:10:40,Yanney,Yes,44,Yes,50,Female,18-25,,Southeast
+5/15/2018 22:10:57,Yanney,,38,Yes,52,Male,35-40,,West
+5/15/2018 22:11:14,Yanney,Yes,54,Yes,46,Male,25-30,USA,Southeast
+5/15/2018 22:11:45,Laurel,No,36,No,,Male,18-25,Australia,
+5/15/2018 22:12:34,Yanney,No,,No,,Male,<18,,
+5/15/2018 22:13:08,Laurel,Yes,30,Yes,40,Female,<18,Florida,Southeast
+5/15/2018 22:13:15,Laurel,Yes,30,Yes,40,Female,<18,Florida,Southeast
+5/15/2018 22:14:50,Yanney,Yes,56,Yes,40,Male,35-40,Arizona,Southwest
+5/15/2018 22:15:13,Laurel,No,40,Yes,40,Male,25-30,Texas,Southeast
+5/15/2018 22:15:24,Yanney,Yes,58,Yes,56,Female,18-25,Arizona,Southwest
+5/15/2018 22:15:24,Yanney,Yes,50,Yes,46,Female,30-35,Chicago,Midwest
+5/15/2018 22:15:35,Laurel,Yes,30,Yes,66,Female,18-25,California,West
+5/15/2018 22:16:41,Yanney,Yes,46,Yes,38,Male,18-25,England,
+5/15/2018 22:16:47,Laurel,Yes,46,Yes,38,Male,18-25,US,West
+5/15/2018 22:17:04,Laurel,Yes,48,Yes,40,Male,30-35,,
+5/15/2018 22:18:13,Laurel,Yes,,Yes,,Male,18-25,,West
+5/15/2018 22:18:59,Laurel,Yes,40,Yes,38,Female,18-25,United States,West
+5/15/2018 22:19:38,Laurel,Yes,42,Yes,36,Male,18-25,america,West
+5/15/2018 22:20:02,Laurel,Yes,66,No,,Female,18-25,gh,West
+5/15/2018 22:20:20,Laurel,Yes,30,Yes,46,Male,25-30,Canada,
+5/15/2018 22:20:45,Laurel,Yes,42,Yes,34,Male,25-30,,Northeast
+5/15/2018 22:21:05,Laurel,Yes,38,Yes,36,Male,25-30,Grand Rapids MI,Midwest
+5/15/2018 22:21:37,Laurel,Yes,44,Yes,40,Male,18-25,US,Southwest
+5/15/2018 22:22:14,Laurel,No,,Yes,38,Male,18-25,Canada,
+5/15/2018 22:23:36,Laurel,Yes,40,Yes,32,Male,25-30,,
+5/15/2018 22:23:45,Yanney,No,,No,,Female,30-35,,West
+5/15/2018 22:23:46,Laurel,Yes,56,Yes,42,Female,25-30,Canada,
+5/15/2018 22:24:38,Yanney,No,,No,,Male,18-25,Canada,
+5/15/2018 22:24:40,Yanney,No,62,Yes,50,Male,25-30,Washington,West
+5/15/2018 22:24:43,Yanney,No,,No,,Female,25-30,china,
+5/15/2018 22:25:04,Yanney,No,,Yes,48,Male,30-35,,West
+5/15/2018 22:25:54,Laurel,Yes,46,Yes,34,Male,35-40,,Northeast
+5/15/2018 22:26:55,Laurel,Yes,44,Yes,38,Male,25-30,USA,West
+5/15/2018 22:27:02,Laurel,Yes,42,Yes,42,Male,25-30,California,West
+5/15/2018 22:27:31,Yanney,No,,No,,Female,25-30,Canada,
+5/15/2018 22:27:43,Yanney,Yes,48,Yes,38,,25-30,,Southeast
+5/15/2018 22:28:19,Laurel,Yes,60,Yes,40,Male,18-25,Canada,
+5/15/2018 22:28:34,Laurel,No,,No,,Male,35-40,portland,West
+5/15/2018 22:28:55,Laurel,Yes,44,Yes,42,Male,18-25,Canada,
+5/15/2018 22:29:03,Laurel,Yes,30,Yes,64,Male,35-40,,West
+5/15/2018 22:29:20,Yanney,No,,No,,Male,18-25,Cali,West
+5/15/2018 22:29:24,Laurel,Yes,40,Yes,38,Male,30-35,Australia,
+5/15/2018 22:30:47,Laurel,Yes,30,Yes,42,Female,<18,Canada,
+5/15/2018 22:30:56,Laurel,Yes,46,Yes,36,Male,18-25,Colorado,West
+5/15/2018 22:31:03,Yanney,Yes,60,Yes,50,,,,
+5/15/2018 22:32:48,Laurel,Yes,50,Yes,34,Male,25-30,"Syracuse, NY",Midwest
+5/15/2018 22:33:07,Laurel,Yes,48,Yes,40,Male,35-40,Kansas City,Midwest
+5/15/2018 22:34:50,Laurel,Yes,46,Yes,42,Male,25-30,,Northeast
+5/15/2018 22:34:58,Laurel,Yes,32,Yes,34,Male,25-30,,West
+5/15/2018 22:35:02,Yanney,No,,No,,Male,18-25,Australia,
+5/15/2018 22:35:13,Laurel,No,,No,,Female,45-50,Canada ,
+5/15/2018 22:35:31,Laurel,Yes,48,Yes,44,Male,18-25,Canada,
+5/15/2018 22:35:58,Yanney,No,,No,,Male,18-25,United States ,Midwest
+5/15/2018 22:37:19,Laurel,No,,No,,Male,25-30,canada,
+5/15/2018 22:38:53,Laurel,Yes,40,Yes,40,Female,25-30,Southern California,West
+5/15/2018 22:39:31,Laurel,Yes,44,No,,Male,18-25,,Midwest
+5/15/2018 22:40:09,Laurel,Yes,46,Yes,42,Male,40-45,New York,West
+5/15/2018 22:45:24,Laurel,Yes,52,Yes,56,Male,18-25,Dudeman Ohio,"Hawaii, Alaska or other territory"
+5/15/2018 22:43:25,Laurel,Yes,,Yes,,Male,25-30,,West
+5/15/2018 22:43:27,Laurel,Yes,44,Yes,36,Male,25-30,USA,Southwest
+5/15/2018 22:44:06,Laurel,No,42,Yes,38,Male,18-25,,Midwest
+5/15/2018 22:45:25,Yanney,Yes,44,Yes,36,Male,18-25,Canada,
+5/15/2018 22:45:32,Yanney,Yes,66,No,,Male,18-25,Canada,
+5/15/2018 22:46:27,Laurel,No,40,Yes,42,Male,35-40,,Midwest
+5/15/2018 22:46:38,Laurel,Yes,56,Yes,36,Male,18-25,Australia,
+5/15/2018 22:47:41,Yanney,No,,Yes,40,Male,18-25,US,Southeast
+5/15/2018 22:48:00,Yanney,No,44,,,,,,
+5/15/2018 22:48:09,Yanney,Yes,54,Yes,36,Male,18-25,Ontario,
+5/15/2018 22:48:29,Laurel,Yes,44,Yes,40,Male,18-25,US,West
+5/15/2018 22:50:28,Yanney,Yes,60,Yes,44,Male,25-30,uk,
+5/15/2018 22:50:32,Laurel,Yes,40,No,,Male,<18,New Zealand ,
+5/15/2018 22:50:49,Yanney,Yes,60,Yes,40,Female,18-25,US,West
+5/15/2018 22:51:06,Yanney,Yes,52,No,,Male,18-25,Turkey,
+5/15/2018 22:51:18,Yanney,No,,Yes,62,Male,18-25,WV,Northeast
+5/15/2018 22:52:19,Laurel,Yes,38,Yes,38,Female,25-30,usa,Southeast
+5/15/2018 22:52:59,Laurel,Yes,46,No,,Male,18-25,,
+5/15/2018 22:53:07,Laurel,No,30,Yes,40,Female,25-30,United States,Northeast
+5/15/2018 22:53:09,Laurel,No,,Yes,36,Male,18-25,,Midwest
+5/15/2018 22:54:15,Yanney,Yes,54,Yes,52,Male,18-25,,West
+5/15/2018 22:55:30,Yanney,No,66,No,44,Female,25-30,vancouver bc canada,
+5/15/2018 22:55:52,Laurel,Yes,32,Yes,40,Female,18-25,Washington,"Hawaii, Alaska or other territory"
+5/15/2018 22:57:47,Laurel,Yes,48,Yes,42,Male,18-25,US,Southwest
+5/15/2018 22:57:52,Laurel,Yes,42,Yes,40,Male,25-30,Australia,
+5/15/2018 22:57:59,Laurel,Yes,38,Yes,38,Male,18-25,,
+5/15/2018 22:58:14,Laurel,Yes,30,Yes,40,Male,25-30,Ohio,West
+5/15/2018 22:58:49,Laurel,Yes,44,Yes,46,Male,25-30,usa,Southwest
+5/15/2018 22:59:06,Laurel,Yes,50,Yes,42,Male,30-35,California,West
+5/15/2018 22:59:22,Yanney,Yes,58,Yes,54,Male,18-25,,
+5/15/2018 23:00:12,Laurel,Yes,30,Yes,40,Male,25-30,Ohio,West
+5/15/2018 23:00:47,Yanney,Yes,58,Yes,54,Male,18-25,,
+5/15/2018 23:01:04,Laurel,Yes,32,Yes,40,Female,18-25,Canada,
+5/15/2018 23:02:43,Laurel,Yes,50,Yes,50,Male,25-30,Uk,
+5/15/2018 23:03:31,Laurel,Yes,,Yes,,Male,<18,,West
+5/15/2018 23:03:53,Laurel,No,,No,,Male,18-25,Minnesota,Midwest
+5/15/2018 23:04:32,Yanney,Yes,54,Yes,50,Female,18-25,,
+5/15/2018 23:05:04,Yanney,No,,No,,Male,40-45,Canada,
+5/15/2018 23:05:40,Laurel,Yes,32,Yes,32,Male,18-25,,Southwest
+5/15/2018 23:06:02,Laurel,Yes,44,Yes,44,Male,25-30,,
+5/15/2018 23:06:08,Yanney,Yes,54,Yes,48,Female,18-25,California,West
+5/15/2018 23:06:22,Yanney,No,,No,,Male,18-25,Sweden,
+5/15/2018 23:06:26,Laurel,No,,Yes,36,Male,<18,United States,Northeast
+5/15/2018 23:06:51,Laurel,Yes,46,Yes,44,Male,25-30,,Midwest
+5/15/2018 23:08:06,Laurel,Yes,30,Yes,40,Male,18-25,Australia,
+5/15/2018 23:10:11,Yanney,Yes,56,No,,Male,<18,UK,
+5/15/2018 23:10:14,Laurel,No,,No,,Male,18-25,,Southwest
+5/15/2018 23:10:38,Laurel,Yes,44,Yes,34,Male,18-25,New York,Northeast
+5/15/2018 23:10:58,Laurel,Yes,44,Yes,38,Male,18-25,Canada,
+5/15/2018 23:11:27,Yanney,Yes,64,No,,Female,18-25,us,West
+5/15/2018 23:11:39,Laurel,Yes,30,Yes,64,Male,18-25,,Midwest
+5/15/2018 23:12:22,Laurel,No,,No,,Male,18-25,USA,Southwest
+5/15/2018 23:13:00,Laurel,Yes,42,Yes,38,Male,35-40,"MA, USA",Northeast
+5/15/2018 23:13:41,Laurel,No,,No,,Male,18-25,Mississippi ,Southeast
+5/15/2018 23:14:31,Laurel,No,,Yes,34,Male,18-25,,Midwest
+5/15/2018 23:16:52,Laurel,Yes,42,Yes,40,Male,18-25,US,West
+5/15/2018 23:17:16,Yanney,Yes,48,Yes,48,Male,<18,Australia,
+5/15/2018 23:17:36,Laurel,Yes,52,Yes,40,Male,50-55,Israel,
+5/15/2018 23:17:47,Yanney,No,,No,,Female,<18,United Kingdom,
+5/15/2018 23:18:12,Yanney,No,66,No,32,Male,25-30,US,Northeast
+5/15/2018 23:18:42,Laurel,No,,Yes,40,Male,18-25,florida,Southeast
+5/15/2018 23:19:33,Laurel,No,,Yes,44,Male,18-25,"Ottawa, Ontario",
+5/15/2018 23:19:51,Laurel,No,,Yes,,Male,25-30,,West
+5/15/2018 23:19:51,Laurel,Yes,40,Yes,60,Male,18-25,US,West
+5/15/2018 23:20:10,Yanney,No,,No,,Male,35-40,na,West
+5/15/2018 23:22:16,Laurel,Yes,30,Yes,46,Female,18-25,United States ,Southeast
+5/15/2018 23:22:23,Laurel,,42,,42,Male,18-25,"Cardiff, UK","Hawaii, Alaska or other territory"
+5/15/2018 23:23:15,Laurel,Yes,38,No,32,Male,18-25,Australia,
+5/15/2018 23:24:33,Yanney,No,,No,,Male,25-30,,
+5/15/2018 23:25:26,Yanney,Yes,54,Yes,48,Female,18-25,,Midwest
+5/15/2018 23:25:35,Yanney,No,,No,,Male,30-35,Saskatchewan,
+5/15/2018 23:26:40,Yanney,No,,No,,Female,18-25,Canada,
+5/15/2018 23:27:03,Laurel,Yes,42,Yes,40,Male,25-30,US,Northeast
+5/15/2018 23:27:13,Yanney,Yes,,Yes,32,Gender-fluid/Non-binary/Other,35-40,,Midwest
+5/15/2018 23:27:16,Yanney,No,,No,,Male,25-30,US,Midwest
+5/15/2018 23:28:38,Laurel,Yes,44,Yes,44,Male,30-35,,Southwest
+5/15/2018 23:28:55,Yanney,Yes,30,Yes,40,Male,35-40,West Virginia,Northeast
+5/15/2018 23:29:12,Laurel,Yes,44,Yes,34,Male,18-25,,Northeast
+5/15/2018 23:30:01,Yanney,Yes,30,Yes,40,Male,35-40,United States,Northeast
+5/15/2018 23:30:36,Laurel,No,46,Yes,40,Male,35-40,USA,Southwest
+5/15/2018 23:31:33,Yanney,Yes,50,Yes,32,Male,18-25,Serbia,
+5/15/2018 23:32:10,Yanney,Yes,42,,66,Male,18-25,USA,Northeast
+5/15/2018 23:32:56,Laurel,Yes,44,Yes,40,Male,18-25,US,Southwest
+5/15/2018 23:33:08,Laurel,Yes,48,Yes,40,Female,25-30,Germany,Midwest
+5/15/2018 23:33:12,Yanney,Yes,56,No,,Female,25-30,,Southwest
+5/15/2018 23:33:47,Laurel,Yes,30,Yes,44,Male,18-25,Ohio,Midwest
+5/15/2018 23:35:00,Yanney,Yes,58,Yes,50,Male,18-25,Vancouver,
+5/15/2018 23:35:59,Laurel,Yes,30,,52,Female,30-35,Grew up in Chicago suburbs,Southwest
+5/15/2018 23:36:24,Laurel,Yes,46,Yes,38,Prefer not to say,30-35,California ,Southwest
+5/15/2018 23:37:57,Laurel,Yes,46,Yes,34,Male,25-30,California ,West
+5/15/2018 23:38:10,Yanney,No,,No,,Male,18-25,Riyadh,
+5/15/2018 23:38:19,Laurel,Yes,30,Yes,42,Male,30-35,,Southeast
+5/15/2018 23:39:34,Laurel,Yes,46,,,Male,18-25,,West
+5/15/2018 23:39:35,Yanney,Yes,,,,Male,18-25,,
+5/15/2018 23:40:38,Yanney,No,,Yes,58,Male,25-30,Taiwan,
+5/15/2018 23:40:50,Laurel,No,40,Yes,36,Male,35-40,Arizona,Southwest
+5/15/2018 23:41:34,Yanney,Yes,54,Yes,48,Male,18-25,California,Midwest
+5/15/2018 23:42:16,Laurel,No,,No,,Male,25-30,New Jersey,Northeast
+5/15/2018 23:42:21,Laurel,Yes,,Yes,46,Male,25-30,,West
+5/15/2018 23:44:11,Laurel,Yes,34,Yes,42,Male,18-25,UK,
+5/15/2018 23:45:11,Laurel,Yes,42,Yes,38,Male,18-25,United States,West
+5/15/2018 23:45:23,Yanney,Yes,46,Yes,46,Female,30-35,Arizona,Southwest
+5/15/2018 23:46:29,Laurel,No,42,No,48,Male,Prefer not to say,Big,"Hawaii, Alaska or other territory"
+5/15/2018 23:46:29,Yanney,Yes,42,Yes,50,,,,
+5/15/2018 23:46:57,Laurel,Yes,44,Yes,,Male,,,
+5/15/2018 23:48:34,Yanney,No,,Yes,54,Male,18-25,kentucky,Midwest
+5/15/2018 23:49:04,Laurel,Yes,44,Yes,34,Male,18-25,,
+5/15/2018 23:49:31,Laurel,No,,No,,Male,25-30,Us,Northeast
+5/15/2018 23:50:06,Laurel,No,,No,,Male,18-25,Australia,
+5/15/2018 23:53:29,Laurel,Yes,36,Yes,40,Male,18-25,,Northeast
+5/15/2018 23:53:40,Laurel,Yes,60,Yes,40,Male,30-35,Colorado,West
+5/15/2018 23:53:52,Laurel,No,40,No,50,Male,30-35,,West
+5/15/2018 23:54:32,Yanney,No,,Yes,60,Female,18-25,Finland,
+5/15/2018 23:55:00,Yanney,No,,No,,Male,18-25,,
+5/15/2018 23:55:33,Laurel,Yes,,Yes,,Male,18-25,,
+5/15/2018 23:55:45,Laurel,Yes,38,Yes,32,Male,25-30,Australia,
+5/15/2018 23:56:23,Laurel,Yes,30,,,,,,
+5/15/2018 23:56:38,Laurel,No,,No,,,,,
+5/15/2018 23:56:57,Laurel,No,64,Yes,36,Male,,,
+5/15/2018 23:59:06,Laurel,No,,No,,Male,18-25,United States ,West
+5/15/2018 23:59:09,Laurel,Yes,30,Yes,32,Male,30-35,Canada,
+5/15/2018 23:59:15,Laurel,Yes,46,Yes,36,Male,25-30,,West
+5/15/2018 23:59:28,Yanney,Yes,52,Yes,50,Male,25-30,New Zealand,
+5/16/2018 0:01:59,Yanney,Yes,46,Yes,42,Male,18-25,USA,Southwest
+5/16/2018 0:02:48,Yanney,Yes,58,Yes,48,Male,,,West
+5/16/2018 0:02:53,Laurel,Yes,40,No,,Male,18-25,France,
+5/16/2018 0:03:09,Yanney,Yes,60,No,,Male,<18,,
+5/16/2018 0:03:52,Yanney,Yes,56,Yes,38,Male,<18,USA,West
+5/16/2018 0:04:13,,,,,,,,,West
+5/16/2018 0:04:26,Yanney,Yes,64,Yes,32,Male,35-40,Sweden,
+5/16/2018 0:04:32,Laurel,Yes,36,Yes,64,,18-25,us,West
+5/16/2018 0:05:24,Laurel,Yes,38,Yes,38,Male,<18,Ca,West
+5/16/2018 0:05:31,Laurel,Yes,42,Yes,36,Male,18-25,US,West
+5/16/2018 0:05:47,Yanney,,40,Yes,34,Male,25-30,California,West
+5/16/2018 0:06:14,Yanney,Yes,30,Yes,36,Male,25-30,New York,Northeast
+5/16/2018 0:06:28,Yanney,Yes,62,Yes,58,Female,25-30,US,West
+5/16/2018 0:06:30,Yanney,Yes,42,Yes,42,Male,18-25,New Zealand,
+5/16/2018 0:06:56,Laurel,No,,Yes,40,Male,18-25,cALIFORNIA,West
+5/16/2018 0:07:26,Yanney,No,40,No,32,Male,25-30,,Southwest
+5/16/2018 0:07:44,Laurel,Yes,30,Yes,32,Male,18-25,,
+5/16/2018 0:08:03,Yanney,Yes,44,Yes,44,Male,18-25,Canada,
+5/16/2018 0:10:55,Laurel,Yes,42,Yes,42,Male,18-25,california,West
+5/16/2018 0:11:09,Yanney,Yes,60,No,,Male,25-30,california,West
+5/16/2018 0:11:31,Yanney,No,,,,,,,West
+5/16/2018 0:13:13,Yanney,No,58,Yes,,Male,18-25,Canada,West
+5/16/2018 0:13:17,Laurel,Yes,40,Yes,40,Male,30-35,US,Northeast
+5/16/2018 0:14:02,Laurel,Yes,38,Yes,40,Male,30-35,,Southeast
+5/16/2018 0:14:09,Laurel,Yes,30,No,,Male,18-25,,Midwest
+5/16/2018 0:14:34,Yanney,No,,No,,Male,,,West
+5/16/2018 0:14:45,Yanney,No,,No,,Male,18-25,,West
+5/16/2018 0:16:17,Yanney,No,66,No,66,Prefer not to say,Prefer not to say,Satly Springs,Midwest
+5/16/2018 0:16:25,Yanney,No,,No,,Male,40-45,,"Hawaii, Alaska or other territory"
+5/16/2018 0:17:33,Yanney,No,,No,,Female,25-30,australia,
+5/16/2018 0:17:52,Yanney,No,,No,,Male,18-25,,Southeast
+5/16/2018 0:20:39,Yanney,Yes,38,Yes,66,Male,18-25,New Jersey,Northeast
+5/16/2018 0:21:12,Laurel,Yes,44,Yes,36,Male,18-25,US,Northeast
+5/16/2018 0:21:53,Laurel,No,,Yes,32,Male,18-25,,West
+5/16/2018 0:23:30,Laurel,Yes,44,Yes,38,Male,25-30,AUS,
+5/16/2018 0:23:31,Laurel,Yes,40,Yes,38,Male,18-25,,
+5/16/2018 0:26:44,Yanney,Yes,54,Yes,40,Prefer not to say,,,
+5/16/2018 0:26:59,Yanney,No,,No,,Male,18-25,"california, US",West
+5/16/2018 0:29:17,Yanney,Yes,44,Yes,50,Male,25-30,US,Northeast
+5/16/2018 0:29:31,Laurel,Yes,44,Yes,34,Male,18-25,canada,
+5/16/2018 0:31:09,Yanney,Yes,52,Yes,50,Female,25-30,LA,West
+5/16/2018 0:31:53,Yanney,Yes,52,Yes,50,Female,25-30,LA,West
+5/16/2018 0:32:20,Laurel,No,,Yes,38,Male,18-25,,West
+5/16/2018 0:32:32,Laurel,Yes,42,Yes,36,Male,25-30,Canada,
+5/16/2018 0:32:41,Laurel,Yes,50,Yes,32,Male,18-25,,Southeast
+5/16/2018 0:32:46,Laurel,No,,Yes,32,Female,25-30,Ireland,
+5/16/2018 0:33:00,Yanney,No,,Yes,46,Male,25-30,New Zealand,
+5/16/2018 0:34:51,Laurel,No,,No,,Male,18-25,Norway,
+5/16/2018 0:35:15,Yanney,Yes,52,Yes,42,Female,25-30,United States ,West
+5/16/2018 0:35:48,Laurel,No,,Yes,40,Male,18-25,Canada,
+5/16/2018 0:36:13,Laurel,No,,No,,Male,18-25,,West
+5/16/2018 0:37:23,Laurel,Yes,30,Yes,44,Male,18-25,,West
+5/16/2018 0:37:31,Laurel,Yes,38,Yes,36,Male,30-35,,Northeast
+5/16/2018 0:43:24,Yanney,Yes,44,Yes,42,Female,18-25,Canada,
+5/16/2018 0:43:37,Laurel,Yes,30,Yes,42,Female,35-40,tx,Southwest
+5/16/2018 0:44:22,Laurel,,,,,,,,
+5/16/2018 0:46:15,Laurel,Yes,30,Yes,34,Male,35-40,,West
+5/16/2018 0:46:29,Laurel,Yes,30,Yes,62,Male,30-35,england,
+5/16/2018 0:47:50,Yanney,Yes,50,No,,Male,25-30,Aust,
+5/16/2018 0:48:22,Laurel,Yes,46,No,46,Male,25-30,Slovenia,
+5/16/2018 0:49:31,Laurel,Yes,66,Yes,32,Male,45-50,Au,
+5/16/2018 0:49:57,Laurel,No,,Yes,32,Male,30-35,Sweden,
+5/16/2018 0:50:27,Laurel,Yes,44,Yes,40,Male,18-25,,West
+5/16/2018 0:51:18,Yanney,No,,No,,Male,,,
+5/16/2018 0:54:02,Laurel,No,,Yes,36,Female,25-30,Australia,
+5/16/2018 0:54:12,Laurel,Yes,46,Yes,36,Female,18-25,"California, USA",West
+5/16/2018 0:54:12,Laurel,Yes,42,Yes,42,Male,18-25,,West
+5/16/2018 0:54:49,Laurel,Yes,66,Yes,54,Male,25-30,,West
+5/16/2018 0:55:35,Yanney,No,,No,,Male,25-30, Australia,
+5/16/2018 0:57:47,Laurel,No,66,No,,Male,18-25,Norway,
+5/16/2018 0:58:52,Yanney,Yes,58,Yes,46,Male,18-25,USA,West
+5/16/2018 0:59:27,Yanney,Yes,54,Yes,32,Male,18-25,,
+5/16/2018 0:59:35,Laurel,Yes,42,Yes,50,Male,18-25,Canada,
+5/16/2018 1:00:44,Laurel,No,,Yes,44,Male,25-30,Usa,Midwest
+5/16/2018 1:01:32,Laurel,Yes,48,Yes,52,Male,25-30,EU,"Hawaii, Alaska or other territory"
+5/16/2018 1:03:15,Laurel,Yes,36,Yes,40,Male,18-25,Houston ,Southeast
+5/16/2018 1:09:16,Laurel,No,,Yes,32,Male,25-30,Philippines,
+5/16/2018 1:09:34,Laurel,Yes,38,Yes,34,Male,18-25,Canada,
+5/16/2018 1:10:26,Laurel,No,,No,,Male,18-25,,Midwest
+5/16/2018 1:11:19,Laurel,Yes,36,No,,Male,45-50,india,West
+5/16/2018 1:13:48,Laurel,No,,Yes,38,Male,25-30,USA,West
+5/16/2018 1:14:42,Yanney,Yes,44,Yes,42,Male,25-30,Australia,
+5/16/2018 1:15:09,Laurel,Yes,48,Yes,46,Male,18-25,US,Southwest
+5/16/2018 1:15:23,Laurel,Yes,44,Yes,42,Male,35-40,UK,"Hawaii, Alaska or other territory"
+5/16/2018 1:15:39,Laurel,Yes,44,Yes,46,Male,18-25,,Midwest
+5/16/2018 1:15:48,Laurel,Yes,30,Yes,44,Male,18-25,,
+5/16/2018 1:16:06,Yanney,No,42,,40,Male,30-35,minnesota,Midwest
+5/16/2018 1:16:52,Yanney,Yes,60,Yes,48,Male,25-30,India,
+5/16/2018 1:21:40,Yanney,No,66,No,66,Male,18-25,,West
+5/16/2018 1:23:02,,Yes,50,No,,Male,25-30,Australia,
+5/16/2018 1:23:14,Yanney,No,,Yes,32,Male,30-35,Romania,
+5/16/2018 1:23:20,Yanney,Yes,38,Yes,64,Male,25-30,California,Southwest
+5/16/2018 1:23:27,Laurel,Yes,44,Yes,38,Male,18-25,California,West
+5/16/2018 1:23:55,Laurel,No,30,No,,Male,18-25,Alabama,Southeast
+5/16/2018 1:24:16,Yanney,Yes,50,Yes,48,Male,18-25,Philippines,
+5/16/2018 1:25:34,Laurel,Yes,44,Yes,44,Male,25-30,Norway,
+5/16/2018 1:25:47,Laurel,,42,Yes,36,Male,25-30,"Los Angeles, CA",West
+5/16/2018 1:26:32,Laurel,Yes,36,Yes,32,Male,25-30,Ur mom gay,"Hawaii, Alaska or other territory"
+5/16/2018 1:27:00,Laurel,Yes,40,Yes,40,Male,18-25,Australia,
+5/16/2018 1:27:23,Yanney,Yes,48,Yes,38,Male,30-35,"Manchester, UK",
+5/16/2018 1:27:35,Yanney,Yes,48,Yes,34,Male,25-30,BE,
+5/16/2018 1:28:53,Laurel,Yes,30,Yes,40,Male,<18,Aus,
+5/16/2018 1:29:37,Yanney,Yes,58,Yes,44,Male,18-25,"Born in the states, raised in India living in the UK.",Southeast
+5/16/2018 1:29:43,Yanney,No,,No,,Male,45-50,,
+5/16/2018 1:30:24,Yanney,No,,,,Male,25-30,Kuwait,
+5/16/2018 1:30:31,Laurel,Yes,44,Yes,40,Male,18-25,Europe,
+5/16/2018 1:31:07,Laurel,Yes,30,Yes,40,Male,18-25,Romania,
+5/16/2018 1:31:58,Laurel,Yes,46,Yes,42,Male,30-35,Seattle,West
+5/16/2018 1:33:10,Yanney,Yes,,No,,Male,30-35,Sweden,
+5/16/2018 1:34:04,Laurel,Yes,40,Yes,36,Male,18-25,Ireland,
+5/16/2018 1:35:27,Yanney,No,,No,,Male,18-25,,West
+5/16/2018 1:39:40,Laurel,Yes,44,Yes,34,Male,18-25,,West
+5/16/2018 1:41:39,Laurel,Yes,40,No,38,Male,18-25,United States,West
+5/16/2018 1:42:11,Laurel,Yes,30,Yes,46,Male,30-35,Australia ,
+5/16/2018 1:42:20,Laurel,Yes,32,Yes,44,Male,25-30,Uk,
+5/16/2018 1:42:28,Laurel,No,,No,,Female,18-25,Belgium,
+5/16/2018 1:42:52,Laurel,Yes,48,Yes,54,Male,18-25,Poland,
+5/16/2018 1:43:02,Laurel,Yes,30,Yes,46,Male,30-35,Australia ,
+5/16/2018 1:43:38,Laurel,Yes,36,Yes,,Male,<18,Serbia ,
+5/16/2018 1:43:43,,,,,,,,,
+5/16/2018 1:44:33,Yanney,No,,No,,Prefer not to say,Prefer not to say,,
+5/16/2018 1:45:19,Laurel,Yes,44,Yes,44,Male,25-30,Australia,
+5/16/2018 1:45:33,Laurel,Yes,46,Yes,,,,,
+5/16/2018 1:46:17,Yanney,Yes,64,Yes,50,Female,25-30,UK,
+5/16/2018 1:46:32,Yanney,Yes,54,Yes,54,Female,30-35,West Covina,West
+5/16/2018 1:47:18,Yanney,Yes,52,Yes,52,Male,18-25,,West
+5/16/2018 1:47:22,Yanney,Yes,54,Yes,66,Male,18-25,New Zealand,
+5/16/2018 1:48:06,Yanney,No,,No,,Male,18-25,,
+5/16/2018 1:51:51,Yanney,Yes,50,Yes,50,Male,25-30,Venezuela,Northeast
+5/16/2018 1:51:55,Laurel,Yes,40,Yes,38,Male,25-30,Netherlands,
+5/16/2018 1:52:41,Laurel,Yes,44,Yes,44,Female,25-30,nyc,Northeast
+5/16/2018 1:53:01,Yanney,Yes,30,Yes,54,Male,18-25,New York,Northeast
+5/16/2018 1:53:31,Yanney,Yes,46,Yes,46,Male,25-30,,Southwest
+5/16/2018 1:53:55,Laurel,Yes,40,Yes,32,Male,25-30,"Adelaide, Australia",
+5/16/2018 1:54:19,Yanney,No,,No,,Male,25-30,Australia,
+5/16/2018 1:54:21,Laurel,Yes,60,No,,Male,,,
+5/16/2018 1:54:25,Laurel,Yes,60,No,,Male,,,
+5/16/2018 1:54:38,Yanney,No,,No,,Male,18-25,US,Midwest
+5/16/2018 1:54:40,Laurel,Yes,46,Yes,34,Male,25-30,Sweden,
+5/16/2018 1:55:49,Yanney,No,,No,,,,,
+5/16/2018 1:56:45,,,,,,,,,
+5/16/2018 1:59:13,Yanney,No,,No,,Male,18-25,US,Southeast
+5/16/2018 2:04:12,Yanney,No,,No,,Male,25-30,Australia,
+5/16/2018 2:05:01,Yanney,Yes,62,Yes,60,Male,18-25,USA,Northeast
+5/16/2018 2:07:00,Laurel,Yes,42,Yes,44,Male,18-25,,Northeast
+5/16/2018 2:07:36,Laurel,No,,No,,Male,18-25,India,
+5/16/2018 2:08:40,,Yes,58,Yes,44,Male,25-30,England,
+5/16/2018 2:11:26,Yanney,Yes,52,Yes,38,Male,25-30,USA ,West
+5/16/2018 2:11:50,Yanney,Yes,,,32,Male,18-25,Finland,
+5/16/2018 2:13:08,Yanney,No,,No,,Male,35-40,Australia,
+5/16/2018 2:14:10,Yanney,No,,No,,Male,30-35,norway,
+5/16/2018 2:16:21,Yanney,No,,No,,Male,35-40,Netherlands,
+5/16/2018 2:16:34,Laurel,No,,Yes,38,Male,18-25,Norway,
+5/16/2018 2:17:36,Yanney,,,,,,,,
+5/16/2018 2:18:27,Yanney,Yes,56,Yes,54,Male,18-25,yug,Midwest
+5/16/2018 2:19:01,Laurel,No,,,,Female,35-40,,Northeast
+5/16/2018 2:19:27,Laurel,Yes,44,Yes,38,Male,25-30,Somwhere,
+5/16/2018 2:20:20,Yanney,Yes,50,Yes,42,Male,18-25,Uk,
+5/16/2018 2:20:59,Yanney,No,,No,,Male,18-25,Europe,
+5/16/2018 2:21:34,Yanney,Yes,50,Yes,44,Male,18-25,Arkansas ,Southeast
+5/16/2018 2:21:55,Yanney,Yes,58,Yes,32,Male,30-35,US,West
+5/16/2018 2:22:05,Laurel,Yes,50,Yes,34,Male,18-25,us,Midwest
+5/16/2018 2:23:10,Laurel,Yes,44,Yes,34,Female,30-35,Netherlands,
+5/16/2018 2:23:44,Yanney,Yes,50,Yes,54,Male,18-25,United Kingdom,
+5/16/2018 2:23:50,Laurel,No,,Yes,36,Male,25-30,U.S.,Midwest
+5/16/2018 2:24:22,Laurel,Yes,50,Yes,36,Male,30-35,Portugal,
+5/16/2018 2:26:28,Laurel,Yes,42,Yes,46,Female,25-30,Australia,
+5/16/2018 2:27:13,Yanney,Yes,52,Yes,44,Male,18-25,Nj,Northeast
+5/16/2018 2:27:23,Yanney,Yes,46,Yes,38,Prefer not to say,Prefer not to say,,West
+5/16/2018 2:27:42,Laurel,No,,Yes,32,Male,18-25,canada,
+5/16/2018 2:28:04,Laurel,Yes,44,Yes,40,Male,18-25,Central Canada,
+5/16/2018 2:28:18,Yanney,No,,No,,Male,18-25,Did you just categorise my gender with gender-fluid and non-binary?,
+5/16/2018 2:29:10,Yanney,No,,No,58,Male,40-45,Australia,
+5/16/2018 2:29:15,Laurel,Yes,42,Yes,38,Male,25-30,Los Angeles,West
+5/16/2018 2:30:12,Yanney,Yes,50,No,,Male,25-30,Denmark,
+5/16/2018 2:30:37,Laurel,Yes,30,Yes,36,Male,30-35,Malaysia,
+5/16/2018 2:30:52,Yanney,Yes,50,Yes,34,Male,25-30,Malaysia,
+5/16/2018 2:30:54,Laurel,Yes,30,Yes,32,Male,25-30,Australia,
+5/16/2018 2:31:48,Yanney,Yes,56,Yes,56,Female,<18,Bangladesh,
+5/16/2018 2:32:00,Laurel,Yes,40,Yes,40,Male,35-40,,
+5/16/2018 2:36:33,Yanney,No,42,No,,Male,30-35,,Northeast
+5/16/2018 2:36:48,Yanney,Yes,62,No,,Male,35-40,,
+5/16/2018 2:41:01,Yanney,Yes,46,Yes,48,Male,25-30,Sweden,
+5/16/2018 2:42:40,Yanney,Yes,50,Yes,50,Male,30-35,Hawaii,"Hawaii, Alaska or other territory"
+5/16/2018 2:43:34,Laurel,Yes,,,46,Male,18-25,Sweden,
+5/16/2018 2:44:56,Yanney,Yes,60,Yes,40,Male,25-30,New Zealand ,
+5/16/2018 2:45:16,Yanney,Yes,66,Yes,50,Male,18-25,South west Uk,
+5/16/2018 2:48:41,Laurel,Yes,46,Yes,46,Male,25-30,Australia,
+5/16/2018 2:48:49,Yanney,No,,No,,Male,,,
+5/16/2018 2:50:01,Yanney,No,,No,,Male,18-25,United States,Southwest
+5/16/2018 2:50:06,Yanney,No,30,No,66,Female,25-30,australia,
+5/16/2018 2:50:50,Laurel,Yes,44,Yes,42,Male,18-25,Netherlands,
+5/16/2018 2:50:54,Yanney,No,30,No,40,Male,18-25,US,Northeast
+5/16/2018 2:52:52,Laurel,Yes,30,Yes,60,Male,30-35,New Zealand,
+5/16/2018 2:53:22,Yanney,No,,No,,Male,18-25,sweden,
+5/16/2018 2:55:07,Laurel,Yes,66,No,,Male,18-25,Kansas,Midwest
+5/16/2018 2:56:00,Yanney,No,,No,,Male,30-35,finland,
+5/16/2018 2:58:21,Yanney,Yes,54,Yes,50,Male,30-35,USA,Southeast
+5/16/2018 2:58:58,Laurel,Yes,44,Yes,38,Male,30-35,Ohio,Midwest
+5/16/2018 2:58:59,Laurel,Yes,,,32,Male,18-25,,Southwest
+5/16/2018 2:59:17,Laurel,No,,Yes,38,Female,30-35,,
+5/16/2018 3:00:17,Yanney,Yes,54,No,,Male,18-25,Netherlands,
+5/16/2018 3:00:32,Yanney,Yes,56,Yes,40,Female,18-25,Germany,
+5/16/2018 3:00:51,Laurel,Yes,42,Yes,38,Female,Prefer not to say,Australia,
+5/16/2018 3:01:14,Yanney,No,,No,,Male,25-30,Denmark,
+5/16/2018 3:02:10,Yanney,No,,Yes,42,,18-25,,
+5/16/2018 3:03:04,Laurel,Yes,40,Yes,40,Male,18-25,Vienna,
+5/16/2018 3:03:22,Laurel,Yes,30,Yes,40,Gender-fluid/Non-binary/Other,18-25,UK,
+5/16/2018 3:04:57,Laurel,No,52,Yes,40,Male,35-40,Australia,
+5/16/2018 3:05:26,Yanney,Yes,52,Yes,48,Male,18-25,Canada,
+5/16/2018 3:05:26,Laurel,No,,Yes,38,Male,18-25,Australia,
+5/16/2018 3:07:09,Yanney,No,,No,,Male,18-25,Germany,
+5/16/2018 3:07:31,Yanney,No,,Yes,48,Male,25-30,Poland,
+5/16/2018 3:07:50,Yanney,No,,No,,Male,18-25,australia,
+5/16/2018 3:09:23,Yanney,Yes,48,Yes,32,Male,18-25,UK,
+5/16/2018 3:09:30,Laurel,No,,Yes,38,Male,18-25,Oceanic region,
+5/16/2018 3:09:42,Yanney,No,,Yes,40,Male,25-30,,
+5/16/2018 3:09:57,Yanney,No,,No,,Male,40-45,United states,Midwest
+5/16/2018 3:10:12,Yanney,Yes,40,Yes,40,Male,25-30,charlotte,Southeast
+5/16/2018 3:10:36,Laurel,Yes,42,Yes,34,Female,25-30,United States,West
+5/16/2018 3:11:16,Laurel,Yes,50,Yes,34,Male,Prefer not to say,,
+5/16/2018 3:14:25,Laurel,No,,,42,Female,18-25,New Jersey,Northeast
+5/16/2018 3:14:49,Yanney,No,,No,,Male,18-25,Sweden,
+5/16/2018 3:15:11,Yanney,Yes,50,Yes,48,Male,30-35,India,
+5/16/2018 3:15:15,Laurel,Yes,52,Yes,52,Male,18-25,NZ,
+5/16/2018 3:18:14,Laurel,Yes,36,Yes,36,,18-25,,
+5/16/2018 3:21:00,Laurel,No,30,Yes,44,Male,25-30,PA,Northeast
+5/16/2018 3:22:05,Laurel,Yes,40,Yes,40,Male,18-25,Sweden,
+5/16/2018 3:22:55,Laurel,Yes,40,Yes,40,Male,18-25,Sweden,
+5/16/2018 3:24:30,Yanney,No,,No,,Male,30-35,United States,Southeast
+5/16/2018 3:25:23,Yanney,Yes,42,Yes,48,Male,30-35,Australia,
+5/16/2018 3:25:45,Laurel,No,,No,,Gender-fluid/Non-binary/Other,18-25,,
+5/16/2018 3:25:46,Laurel,No,66,No,66,Male,18-25,America ,Northeast
+5/16/2018 3:26:14,Laurel,No,,No,40,Male,18-25,Australia,
+5/16/2018 3:27:24,Yanney,Yes,56,,36,Male,18-25,Germany,
+5/16/2018 3:27:51,Laurel,Yes,30,Yes,40,Male,25-30,Belgium,
+5/16/2018 3:30:43,Laurel,Yes,44,Yes,40,Male,<18,Australia ,
+5/16/2018 3:31:48,Yanney,No,,No,,Male,35-40,New Zealand,
+5/16/2018 3:32:20,Laurel,Yes,44,Yes,38,Male,18-25,Netherlands,
+5/16/2018 3:32:42,Laurel,Yes,44,Yes,40,Male,<18,Australia ,
+5/16/2018 3:32:59,Yanney,No,60,Yes,40,Male,<18,Uk,
+5/16/2018 3:33:00,Laurel,Yes,44,Yes,34,Male,25-30,Europe,
+5/16/2018 3:34:35,Laurel,No,,Yes,32,Male,25-30,Australia,
+5/16/2018 3:37:00,Laurel,Yes,30,Yes,46,Female,45-50,Australia ,
+5/16/2018 3:37:35,Yanney,No,,No,,Male,18-25,Australia,
+5/16/2018 3:37:52,Laurel,Yes,30,Yes,42,Male,18-25,United States,Northeast
+5/16/2018 3:40:15,Yanney,Yes,60,Yes,50,Male,25-30,canada,West
+5/16/2018 3:40:17,Laurel,Yes,44,Yes,34,Female,25-30,US,Northeast
+5/16/2018 3:41:21,Yanney,Yes,64,Yes,54,Male,25-30,Australia,
+5/16/2018 3:41:42,Laurel,No,58,,,,,,
+5/16/2018 3:42:10,Yanney,Yes,46,Yes,42,Male,18-25,US,Southwest
+5/16/2018 3:46:03,Yanney,Yes,50,Yes,38,Male,18-25,United States,Southeast
+5/16/2018 3:47:12,,,,,,,,,
+5/16/2018 3:47:26,Laurel,Yes,32,Yes,32,Male,25-30,Holland,
+5/16/2018 3:49:07,Yanney,No,,No,,Male,35-40,US,Northeast
+5/16/2018 3:51:22,Yanney,No,,No,,Male,25-30,Cali,West
+5/16/2018 3:51:37,Yanney,No,,Yes,56,Male,18-25,London,
+5/16/2018 3:52:28,Yanney,Yes,40,Yes,44,Male,18-25,,
+5/16/2018 3:52:56,Laurel,No,,Yes,34,Male,35-40,,Midwest
+5/16/2018 3:53:11,Laurel,No,,Yes,38,Female,30-35,"Brisbane, Australia",
+5/16/2018 3:53:37,Yanney,Yes,60,Yes,40,Male,25-30,USA,Northeast
+5/16/2018 3:55:04,Yanney,No,,No,,Male,40-45,USA,Southeast
+5/16/2018 3:55:38,Yanney,Yes,44,Yes,36,Male,25-30,Norway,
+5/16/2018 3:56:32,Yanney,No,,No,,Male,30-35,Europe,
+5/16/2018 3:56:58,Laurel,Yes,30,Yes,36,Male,25-30,,Northeast
+5/16/2018 3:58:27,Laurel,Yes,46,Yes,40,Male,25-30,Australia,
+5/16/2018 4:00:48,Laurel,No,,Yes,36,Male,30-35,Sweden,
+5/16/2018 4:01:15,Yanney,No,,No,,Male,25-30,Wisconsin,Midwest
+5/16/2018 4:02:43,Yanney,Yes,52,Yes,44,Male,30-35,US,Northeast
+5/16/2018 4:02:57,Laurel,Yes,30,Yes,42,Male,40-45,Earth ,West
+5/16/2018 4:03:16,Laurel,Yes,44,Yes,34,Male,25-30,Lithuania,
+5/16/2018 4:03:39,Laurel,Yes,46,,44,Female,25-30,Sweden,
+5/16/2018 4:03:49,,,,,,,,,
+5/16/2018 4:05:28,Laurel,No,32,No,32,Female,18-25,US,West
+5/16/2018 4:05:49,Laurel,Yes,30,No,44,Male,25-30,The Netherlands,
+5/16/2018 4:06:16,Yanney,Yes,50,Yes,48,Male,18-25,Sydney Australia,
+5/16/2018 4:06:50,Laurel,Yes,66,Yes,46,Prefer not to say,18-25,,"Hawaii, Alaska or other territory"
+5/16/2018 4:07:31,Yanney,No,,,,Male,18-25,UK,
+5/16/2018 4:09:30,Laurel,Yes,38,Yes,56,Male,18-25,nigger,
+5/16/2018 4:10:11,Yanney,No,54,Yes,44,Male,25-30,US,Northeast
+5/16/2018 4:11:35,Laurel,Yes,30,Yes,38,Male,18-25,Venezuela,"Hawaii, Alaska or other territory"
+5/16/2018 4:11:44,Yanney,Yes,64,Yes,42,Male,35-40,Sweden,
+5/16/2018 4:13:48,Yanney,Yes,58,Yes,44,Female,<18,,
+5/16/2018 4:16:46,Yanney,Yes,50,Yes,56,Male,18-25,,
+5/16/2018 4:17:56,Yanney,No,,No,,Female,<18,England,
+5/16/2018 4:17:57,Laurel,Yes,44,Yes,36,Male,30-35,usa,West
+5/16/2018 4:18:05,Yanney,No,,No,,Male,30-35,US,Midwest
+5/16/2018 4:18:23,Laurel,Yes,44,Yes,44,Male,<18,US,Northeast
+5/16/2018 4:19:32,Yanney,Yes,60,Yes,48,Male,<18,Indiana,Midwest
+5/16/2018 4:19:34,Yanney,Yes,66,Yes,62,Male,18-25,united kingdom,
+5/16/2018 4:20:00,Yanney,Yes,60,Yes,48,Male,<18,Indiana,Midwest
+5/16/2018 4:21:50,Laurel,No,,Yes,34,Male,25-30,,Southwest
+5/16/2018 4:23:56,Laurel,No,,No,,Male,25-30,Canada,
+5/16/2018 4:24:58,Yanney,Yes,60,,50,Male,25-30,Denmark,
+5/16/2018 4:26:34,Yanney,No,,No,,Prefer not to say,Prefer not to say,Ur mum,"Hawaii, Alaska or other territory"
+5/16/2018 4:26:35,Yanney,No,,No,,Male,18-25,USA,Northeast
+5/16/2018 4:27:10,Laurel,No,40,No,40,Male,18-25,Germany,
+5/16/2018 4:27:31,Yanney,No,66,Yes,32,Male,<18,USA ,Southeast
+5/16/2018 4:27:43,Laurel,Yes,42,Yes,44,Male,30-35,Australia,
+5/16/2018 4:27:53,Yanney,Yes,60,Yes,54,Male,18-25,Australia,
+5/16/2018 4:29:16,Laurel,Yes,48,Yes,40,Male,25-30,Sweden,
+5/16/2018 4:29:24,Laurel,Yes,42,Yes,34,Male,40-45,"Denver, CO",Midwest
+5/16/2018 4:29:36,Yanney,Yes,50,Yes,36,Male,18-25,,
+5/16/2018 4:29:52,Laurel,No,,Yes,,,,,
+5/16/2018 4:30:59,Laurel,Yes,44,Yes,50,Male,25-30,,
+5/16/2018 4:32:51,Yanney,No,,No,,Female,30-35,Australia ,
+5/16/2018 4:32:53,Yanney,Yes,52,Yes,38,Male,25-30,New Zealand,
+5/16/2018 4:39:54,Yanney,No,,No,,Male,<18,Hong Kong,
+5/16/2018 4:40:24,Yanney,Yes,44,Yes,32,Male,18-25,AU,
+5/16/2018 4:41:33,Laurel,No,,Yes,40,Male,25-30,,
+5/16/2018 4:42:42,Laurel,No,32,No,66,Male,<18,Norway,
+5/16/2018 4:42:42,Yanney,Yes,64,Yes,42,Female,50-55,geogia,Southeast
+5/16/2018 4:43:40,Laurel,Yes,42,Yes,36,Male,18-25,Portugal,
+5/16/2018 4:44:02,Laurel,No,,Yes,32,Male,30-35,Northeast,Northeast
+5/16/2018 4:44:10,Yanney,Yes,42,Yes,42,Male,25-30,Ireland,
+5/16/2018 4:46:43,Laurel,Yes,60,Yes,40,Female,<18,,
+5/16/2018 4:46:51,Laurel,No,,No,,Male,18-25,UK,
+5/16/2018 4:47:09,Yanney,No,,Yes,50,Male,<18,x,
+5/16/2018 4:47:47,Laurel,Yes,40,Yes,40,Male,25-30,Texas,Southwest
+5/16/2018 4:47:59,Laurel,No,,Yes,38,Male,18-25,Holland,West
+5/16/2018 4:49:23,Laurel,Yes,40,Yes,34,Male,18-25,Denmark,
+5/16/2018 4:49:36,Laurel,Yes,46,Yes,36,Male,35-40,Switzerland,
+5/16/2018 4:50:54,Laurel,No,,Yes,,Male,18-25,,
+5/16/2018 4:51:36,Laurel,Yes,42,Yes,32,Male,18-25,,
+5/16/2018 4:52:41,Laurel,No,30,No,38,Male,18-25,pakistan,
+5/16/2018 4:53:19,Yanney,No,,,,Male,25-30,,Northeast
+5/16/2018 4:54:25,Laurel,Yes,,No,40,Female,30-35,No where (military),
+5/16/2018 4:57:42,Laurel,No,32,No,64,Male,25-30,Buffalo,Northeast
+5/16/2018 4:57:51,Yanney,Yes,50,Yes,52,Male,25-30,Belgium,
+5/16/2018 4:58:10,Yanney,No,,No,,Female,25-30,Ny,Northeast
+5/16/2018 4:58:46,Yanney,Yes,50,Yes,52,Male,25-30,UK,
+5/16/2018 4:59:04,Laurel,Yes,48,No,,Male,25-30,UK,
+5/16/2018 4:59:28,Yanney,No,40,No,60,Female,<18,Chicago,Midwest
+5/16/2018 4:59:54,Laurel,Yes,42,Yes,44,Male,18-25,Netherlands,
+5/16/2018 5:00:34,Laurel,No,,,,Male,30-35,Boston MA,Northeast
+5/16/2018 5:00:36,Yanney,No,,No,,Male,40-45,US - Northeast originally,Midwest
+5/16/2018 5:01:06,Yanney,Yes,64,Yes,56,Female,25-30,"Washington State, USA",West
+5/16/2018 5:03:45,Laurel,Yes,42,Yes,36,Male,35-40,,
+5/16/2018 5:03:46,Laurel,No,,Yes,38,Male,25-30,New zealand,
+5/16/2018 5:05:37,Laurel,Yes,42,Yes,48,Male,18-25,Philippines,West
+5/16/2018 5:06:06,Laurel,Yes,30,Yes,38,Male,25-30,Tennessee,Southeast
+5/16/2018 5:07:20,Laurel,No,,Yes,38,Female,30-35,Tennessee,Southeast
+5/16/2018 5:07:25,Yanney,Yes,50,Yes,40,Male,25-30,Australia,
+5/16/2018 5:09:03,Laurel,No,30,Yes,36,Female,18-25,,
+5/16/2018 5:09:23,Yanney,No,,No,,Male,25-30,Ohio,Midwest
+5/16/2018 5:09:37,Laurel,Yes,44,Yes,40,Male,18-25,Germany,
+5/16/2018 5:10:15,Laurel,No,,Yes,38,Male,25-30,italy,
+5/16/2018 5:10:24,Yanney,No,,Yes,54,Male,18-25,Guyana,
+5/16/2018 5:10:35,Yanney,Yes,50,Yes,66,Male,30-35,,Southwest
+5/16/2018 5:13:09,Laurel,No,,No,,Male,35-40,usa,Southeast
+5/16/2018 5:13:11,Laurel,No,,Yes,44,Male,35-40,UK,
+5/16/2018 5:13:12,Yanney,No,,No,,Male,25-30,,
+5/16/2018 5:13:23,Yanney,No,44,Yes,40,Male,18-25,Brooklyn,Northeast
+5/16/2018 5:14:24,Laurel,Yes,,No,,Male,25-30,Laurelville,Southeast
+5/16/2018 5:14:24,Laurel,Yes,40,Yes,40,Male,25-30,Finland,
+5/16/2018 5:15:44,Laurel,Yes,,No,,Male,30-35,Canada,Northeast
+5/16/2018 5:16:14,Yanney,No,,No,,Male,35-40,,Northeast
+5/16/2018 5:16:28,Laurel,Yes,42,Yes,38,Male,<18,"Australia, Victoria, Melbourne",
+5/16/2018 5:16:40,Laurel,Yes,60,Yes,44,Male,25-30,New York City,Northeast
+5/16/2018 5:17:12,Yanney,No,,Yes,32,Male,18-25,England,
+5/16/2018 5:19:21,Laurel,Yes,44,Yes,42,Male,18-25,"England, liverpool",
+5/16/2018 5:19:30,Laurel,No,,Yes,34,Male,35-40,,
+5/16/2018 5:20:39,Laurel,No,,No,,Male,25-30,,
+5/16/2018 5:23:27,Laurel,Yes,40,Yes,32,Male,35-40,.,Midwest
+5/16/2018 5:24:29,Laurel,Yes,36,Yes,64,Male,18-25,,Midwest
+5/16/2018 5:25:20,Laurel,Yes,30,Yes,50,Male,18-25,America ,Northeast
+5/16/2018 5:25:44,Yanney,No,,,58,Male,<18,Australia,
+5/16/2018 5:26:31,Laurel,Yes,56,Yes,34,Male,18-25,,
+5/16/2018 5:27:17,Laurel,No,,Yes,48,Male,25-30,us,Northeast
+5/16/2018 5:28:29,Laurel,Yes,66,Yes,34,Male,25-30,unitied kingdom ,
+5/16/2018 5:29:16,Laurel,Yes,30,Yes,52,Male,25-30,Texas,Southwest
+5/16/2018 5:30:52,Yanney,Yes,60,Yes,48,Male,18-25,US,Northeast
+5/16/2018 5:30:57,Laurel,No,,No,,Male,18-25,United Kingdom,
+5/16/2018 5:33:15,Laurel,Yes,30,Yes,36,Female,25-30,USA,Northeast
+5/16/2018 5:33:45,Laurel,Yes,42,Yes,40,Male,18-25,,West
+5/16/2018 5:33:54,Yanney,No,,No,,Male,18-25,US,Midwest
+5/16/2018 5:34:01,Laurel,No,,Yes,32,Male,25-30,,Midwest
+5/16/2018 5:34:53,Laurel,No,,Yes,36,Male,30-35,USA,Midwest
+5/16/2018 5:36:46,Laurel,No,,Yes,32,Male,18-25,Australia,
+5/16/2018 5:37:56,Yanney,Yes,66,Yes,34,Male,35-40,Belgium,
+5/16/2018 5:38:25,Laurel,Yes,30,Yes,32,Gender-fluid/Non-binary/Other,35-40,,West
+5/16/2018 5:39:23,Laurel,Yes,48,Yes,36,Female,25-30,,Midwest
+5/16/2018 5:39:50,Yanney,Yes,48,Yes,38,Female,25-30,New York City,Northeast
+5/16/2018 5:40:27,Laurel,Yes,40,Yes,36,Male,35-40,Tennessee,Southeast
+5/16/2018 5:41:05,Yanney,No,,No,,Male,30-35,USA,
+5/16/2018 5:41:25,Laurel,Yes,36,Yes,36,Male,18-25,Uk,
+5/16/2018 5:42:15,Laurel,Yes,42,Yes,40,Male,18-25,Spain,
+5/16/2018 5:42:18,Laurel,No,,Yes,32,Male,18-25,Michigan,Midwest
+5/16/2018 5:44:13,Yanney,No,,Yes,58,Male,25-30,England,Southwest
+5/16/2018 5:46:19,Yanney,Yes,40,Yes,46,Male,18-25,United Kingdom,
+5/16/2018 5:47:13,Yanney,Yes,58,Yes,52,Male,18-25,Texas,Southwest
+5/16/2018 5:48:00,Yanney,No,,No,,Male,25-30,Belgium,
+5/16/2018 5:48:50,Laurel,Yes,48,Yes,40,Female,40-45,,Midwest
+5/16/2018 5:49:45,,,,,,,,,
+5/16/2018 5:51:24,Laurel,Yes,34,Yes,34,Male,25-30,,Northeast
+5/16/2018 5:51:40,Yanney,No,,No,,Male,30-35,US,Midwest
+5/16/2018 5:51:53,Yanney,No,,Yes,38,Male,25-30,Virginia Untied States,Southeast
+5/16/2018 5:52:03,Laurel,Yes,46,Yes,36,Male,25-30,Norway,
+5/16/2018 5:52:40,Laurel,Yes,42,Yes,42,Male,35-40,Texas ,Southwest
+5/16/2018 5:54:54,Yanney,Yes,60,Yes,40,Male,25-30,Scotland,
+5/16/2018 5:55:06,Yanney,No,,No,,Male,25-30,Australia,
+5/16/2018 5:55:07,Laurel,Yes,30,Yes,38,Male,25-30,Florida,Northeast
+5/16/2018 5:58:32,Laurel,Yes,42,Yes,40,Male,18-25,US,Northeast
+5/16/2018 5:59:13,Laurel,No,,Yes,40,Male,25-30,South Africa,
+5/16/2018 6:00:05,Yanney,No,,No,,Female,30-35,Tennessee,Southeast
+5/16/2018 6:00:52,Laurel,Yes,44,Yes,42,Female,25-30,The Netherlands,
+5/16/2018 6:01:10,Yanney,Yes,48,No,,Gender-fluid/Non-binary/Other,25-30,,Southwest
+5/16/2018 6:02:40,Laurel,No,,Yes,32,Male,18-25,,
+5/16/2018 6:02:43,Yanney,Yes,48,Yes,42,Male,25-30,,Southeast
+5/16/2018 6:03:07,Laurel,No,,,,Male,30-35,Norway,
+5/16/2018 6:07:09,Yanney,No,46,No,32,Male,25-30,spain,
+5/16/2018 6:07:30,Yanney,No,54,No,46,Prefer not to say,25-30,berlin,
+5/16/2018 6:07:49,Laurel,Yes,38,Yes,48,Male,25-30,Australia,
+5/16/2018 6:07:50,Laurel,Yes,42,Yes,38,Male,35-40,Australia,
+5/16/2018 6:08:15,Yanney,No,,No,,Male,25-30,US,Southwest
+5/16/2018 6:09:30,Yanney,No,,No,,Male,18-25,uk,
+5/16/2018 6:10:44,Laurel,No,,Yes,32,Male,30-35,USA,Southeast
+5/16/2018 6:12:37,Laurel,Yes,30,Yes,34,Female,30-35,US,Southeast
+5/16/2018 6:13:36,Laurel,Yes,,No,,Male,,,
+5/16/2018 6:13:44,Yanney,No,,No,,Male,25-30,,Northeast
+5/16/2018 6:14:19,Laurel,No,,No,,Male,30-35,uk,
+5/16/2018 6:14:48,Yanney,Yes,52,Yes,48,Male,18-25,The internet,
+5/16/2018 6:15:19,Yanney,No,,Yes,52,Male,40-45,,
+5/16/2018 6:17:06,Yanney,No,32,No,32,Male,18-25,Denmark,
+5/16/2018 6:18:27,Laurel,Yes,46,Yes,40,Male,18-25,"England, UK",
+5/16/2018 6:18:54,Laurel,Yes,42,Yes,40,Male,18-25,aus,
+5/16/2018 6:21:00,Laurel,Yes,30,Yes,38,Male,30-35,Atlanta,Southeast
+5/16/2018 6:21:07,Yanney,Yes,48,Yes,58,Female,30-35,"Huntsville, AL",Southeast
+5/16/2018 6:21:20,Laurel,Yes,42,Yes,40,Male,18-25,,
+5/16/2018 6:21:21,Yanney,No,66,Yes,32,Male,<18,Arkansas,Southeast
+5/16/2018 6:24:15,Yanney,No,,No,,Female,18-25,Texas,Midwest
+5/16/2018 6:22:45,Yanney,Yes,40,Yes,38,Female,25-30,Austria,
+5/16/2018 6:22:56,Laurel,No,44,Yes,36,Male,30-35,Croatia,
+5/16/2018 6:23:12,Laurel,Yes,42,Yes,38,Male,30-35,,Southeast
+5/16/2018 6:23:15,Laurel,Yes,40,Yes,40,Male,30-35,Rochester NY,Northeast
+5/16/2018 6:23:34,,,,,,,,,
+5/16/2018 6:24:01,Yanney,No,,No,,Male,25-30,Ireland,
+5/16/2018 6:24:06,Laurel,Yes,48,Yes,42,Male,18-25,Australia,
+5/16/2018 6:24:20,Laurel,Yes,46,Yes,48,Male,30-35,"Texas, US",Midwest
+5/16/2018 6:24:36,Laurel,Yes,30,No,,Male,18-25,Australia,
+5/16/2018 6:25:06,Laurel,,,,,,,,
+5/16/2018 6:25:33,Laurel,Yes,46,Yes,36,Male,25-30,UK,
+5/16/2018 6:27:29,Laurel,Yes,42,Yes,38,Female,25-30,Canada ,
+5/16/2018 6:28:16,Laurel,Yes,30,No,,Male,18-25,Canada,
+5/16/2018 6:28:18,Yanney,Yes,56,Yes,42,Male,30-35,Georgia,Southeast
+5/16/2018 6:28:35,Laurel,Yes,40,Yes,40,Female,18-25,Australia,
+5/16/2018 6:30:04,Laurel,Yes,46,Yes,38,Male,30-35,uk,
+5/16/2018 6:31:47,Laurel,Yes,,Yes,,Male,18-25,US,Northeast
+5/16/2018 6:32:40,Yanney,No,,Yes,66,Female,30-35,Georgia,Southeast
+5/16/2018 6:33:55,Laurel,Yes,40,Yes,38,Male,25-30,U.S.,Southeast
+5/16/2018 6:34:24,Laurel,Yes,38,Yes,32,Male,25-30,ca,
+5/16/2018 6:34:28,Yanney,No,,No,,Male,25-30,uk,
+5/16/2018 6:34:46,Laurel,No,30,Yes,48,Male,25-30,Norway,
+5/16/2018 6:35:30,Yanney,No,,Yes,64,Male,18-25,Canada,
+5/16/2018 6:35:48,Laurel,Yes,42,Yes,40,Male,25-30,Australia,
+5/16/2018 6:36:24,Laurel,Yes,,Yes,,Male,25-30,,
+5/16/2018 6:36:51,Laurel,No,,No,,Male,18-25,,
+5/16/2018 6:37:33,Laurel,No,,No,,Male,18-25,Florida,Southeast
+5/16/2018 6:38:19,Laurel,Yes,42,Yes,42,Male,25-30,United States,Southeast
+5/16/2018 6:39:15,Yanney,No,,No,,Male,<18,Finland,
+5/16/2018 6:39:38,Yanney,No,,Yes,56,Female,18-25,,
+5/16/2018 6:40:55,Laurel,Yes,46,Yes,36,Male,18-25,Us,Northeast
+5/16/2018 6:41:13,Yanney,Yes,64,Yes,56,Male,18-25,Norway,
+5/16/2018 6:42:16,Laurel,Yes,42,Yes,42,Male,25-30,India,
+5/16/2018 6:43:49,Yanney,No,58,No,44,Male,18-25,South africa,
+5/16/2018 6:46:43,Laurel,No,30,No,66,Male,25-30,US,Midwest
+5/16/2018 6:47:59,Yanney,Yes,56,Yes,36,Male,18-25,United Kingdom,
+5/16/2018 6:48:12,Yanney,No,,No,,Male,25-30,,
+5/16/2018 6:48:38,Yanney,No,,No,,Female,30-35,,West
+5/16/2018 6:49:16,Yanney,No,,No,,Male,25-30,england,
+5/16/2018 6:49:31,Yanney,No,,No,,Male,30-35,Toronto,
+5/16/2018 6:49:33,Laurel,No,40,Yes,40,Male,18-25,,West
+5/16/2018 6:50:53,Laurel,Yes,40,Yes,38,Male,35-40,Louisiana,Southeast
+5/16/2018 6:52:15,Yanney,No,,No,,Male,25-30,Californian,West
+5/16/2018 6:53:56,Laurel,Yes,30,Yes,38,Male,18-25,Canada,
+5/16/2018 6:54:25,Laurel,Yes,42,No,,Male,35-40,Virginis,Southeast
+5/16/2018 6:54:30,Yanney,No,44,Yes,38,Male,25-30,denmark,
+5/16/2018 6:54:34,Laurel,Yes,48,Yes,42,Male,25-30,Australia,
+5/16/2018 6:55:32,Yanney,Yes,62,Yes,62,Male,25-30,,Northeast
+5/16/2018 6:55:55,Yanney,No,,No,,Male,18-25,us,Southeast
+5/16/2018 6:56:27,Laurel,No,52,No,44,Male,30-35,Us,Northeast
+5/16/2018 6:56:42,Laurel,Yes,44,,40,Male,35-40,US,Northeast
+5/16/2018 6:59:02,Yanney,No,,Yes,52,Male,18-25,us,Northeast
+5/16/2018 6:59:18,Laurel,No,44,No,56,Male,25-30,Connecticut,Northeast
+5/16/2018 6:59:46,Yanney,Yes,52,Yes,52,Male,18-25,Denmark,"Hawaii, Alaska or other territory"
+5/16/2018 7:00:12,Yanney,No,,No,,Male,35-40,USA,Northeast
+5/16/2018 7:00:12,Laurel,Yes,46,Yes,32,Male,18-25,Australia,
+5/16/2018 7:00:23,Laurel,Yes,30,Yes,54,Female,18-25,,Northeast
+5/16/2018 7:01:09,Yanney,No,,Yes,48,Male,25-30,Sweden,
+5/16/2018 7:01:13,Laurel,Yes,46,Yes,32,,,,
+5/16/2018 7:02:25,Laurel,Yes,48,Yes,42,,,,
+5/16/2018 7:03:15,Yanney,Yes,60,Yes,36,Male,18-25,Mexico,
+5/16/2018 7:04:03,Laurel,Yes,42,Yes,34,Male,30-35,usa,Northeast
+5/16/2018 7:04:29,Laurel,Yes,30,Yes,42,Female,25-30,,
+5/16/2018 7:04:52,Yanney,Yes,64,No,36,Male,30-35,Uk,
+5/16/2018 7:07:22,Yanney,No,30,No,66,Male,18-25,Ireland,
+5/16/2018 7:10:22,Yanney,No,,No,,Male,18-25,US,Northeast
+5/16/2018 7:11:32,Laurel,Yes,30,,40,Male,25-30,Canada,
+5/16/2018 7:12:01,Yanney,No,50,No,50,Male,25-30,Oklahoma,Midwest
+5/16/2018 7:13:52,Laurel,Yes,30,Yes,36,Male,25-30,,
+5/16/2018 7:15:42,Laurel,Yes,30,Yes,40,Male,<18,"Serbia,europe",
+5/16/2018 7:18:01,Laurel,Yes,54,Yes,50,Male,35-40,Texas,Southwest
+5/16/2018 7:18:07,Laurel,No,,Yes,32,Male,25-30,,Southwest
+5/16/2018 7:18:23,Yanney,No,,No,,Male,30-35,,
+5/16/2018 7:18:40,Laurel,Yes,44,Yes,44,Female,40-45,India,West
+5/16/2018 7:18:47,Laurel,Yes,,No,,Male,30-35,,Midwest
+5/16/2018 7:18:58,Yanney,No,,No,,Male,18-25,UK,
+5/16/2018 7:20:06,Yanney,No,,Yes,48,Male,25-30,NJ,
+5/16/2018 7:20:57,Laurel,Yes,40,Yes,62,Male,18-25,us,West
+5/16/2018 7:22:03,Laurel,No,,Yes,40,Male,25-30,IRELAND,
+5/16/2018 7:23:43,Yanney,No,,No,,Male,18-25,Finland,
+5/16/2018 7:23:47,Laurel,No,,No,,Male,18-25,finland,
+5/16/2018 7:23:51,Laurel,Yes,44,Yes,44,Male,25-30,Pittsburgh,Northeast
+5/16/2018 7:23:58,Yanney,No,,No,,Female,<18,texas,Southeast
+5/16/2018 7:24:01,,,,,,,,,
+5/16/2018 7:24:02,,,38,Yes,,,,,
+5/16/2018 7:24:23,Laurel,No,46,Yes,32,Male,18-25,NY,Northeast
+5/16/2018 7:24:33,Laurel,Yes,44,Yes,44,Male,25-30,Pittsburgh,Northeast
+5/16/2018 7:26:59,Laurel,No,,Yes,44,Male,18-25,Australia,
+5/16/2018 7:27:15,Laurel,No,42,Yes,46,Female,30-35,Tennessee,Southeast
+5/16/2018 7:28:17,Yanney,Yes,56,Yes,,Male,18-25,,Midwest
+5/16/2018 7:29:25,Yanney,No,,No,,Male,35-40,,Southeast
+5/16/2018 7:29:26,Laurel,No,,No,,Male,25-30,Ontario,
+5/16/2018 7:30:29,Yanney,Yes,60,Yes,38,Male,18-25,,Southeast
+5/16/2018 7:31:37,Yanney,No,,No,,Male,25-30,,Southwest
+5/16/2018 7:31:51,Laurel,No,,No,,Male,25-30,,
+5/16/2018 7:32:25,Laurel,Yes,60,Yes,34,Male,18-25,,Northeast
+5/16/2018 7:35:08,Yanney,Yes,44,Yes,38,Male,40-45,Kansas,Midwest
+5/16/2018 7:35:42,Yanney,No,,No,,Female,18-25,USA,Midwest
+5/16/2018 7:35:57,Laurel,Yes,64,Yes,32,Male,<18,Portugal,
+5/16/2018 7:36:07,Laurel,Yes,44,Yes,42,Male,>60,Hong Kong,Midwest
+5/16/2018 7:36:22,Yanney,Yes,54,Yes,36,Female,18-25,,
+5/16/2018 7:36:35,Yanney,Yes,52,Yes,40,Male,18-25,Vegas ,West
+5/16/2018 7:37:01,Laurel,No,,Yes,34,Male,25-30,,
+5/16/2018 7:37:48,Laurel,Yes,42,Yes,36,Male,25-30,US,Northeast
+5/16/2018 7:38:16,Laurel,Yes,50,Yes,34,Male,35-40,South Africa,
+5/16/2018 7:38:22,Yanney,No,,No,,Male,18-25,,
+5/16/2018 7:39:15,Laurel,No,,Yes,36,Male,30-35,USA,Southeast
+5/16/2018 7:39:31,Laurel,No,,No,,Male,40-45,,Southwest
+5/16/2018 7:40:31,Laurel,No,,Yes,32,Female,40-45,Minnesota,Midwest
+5/16/2018 7:41:17,Yanney,No,,No,,Male,25-30,,West
+5/16/2018 7:41:51,Yanney,No,58,No,,Male,18-25,,Midwest
+5/16/2018 7:41:58,Laurel,No,,Yes,38,Male,18-25,Qatar,
+5/16/2018 7:43:16,Yanney,Yes,46,Yes,46,Male,18-25,US,West
+5/16/2018 7:43:43,Yanney,No,66,No,34,Male,<18,US,Northeast
+5/16/2018 7:45:20,Yanney,Yes,50,Yes,48,Male,18-25,India,
+5/16/2018 7:45:23,Yanney,Yes,60,Yes,38,Male,18-25,Canada,
+5/16/2018 7:46:27,Laurel,Yes,46,Yes,42,Prefer not to say,Prefer not to say,,
+5/16/2018 7:47:05,Yanney,Yes,54,Yes,36,Male,25-30,Netherlands,
+5/16/2018 7:47:38,Laurel,No,64,No,32,,,,
+5/16/2018 7:48:39,Laurel,No,42,Yes,42,Male,25-30,MN,Midwest
+5/16/2018 7:48:40,Laurel,Yes,46,Yes,42,Female,18-25,Midwest,Midwest
+5/16/2018 7:49:47,Laurel,No,,No,,Male,30-35,,West
+5/16/2018 7:50:23,Laurel,Yes,62,Yes,64,Male,25-30,,
+5/16/2018 7:50:34,Yanney,No,,No,,Male,18-25,norway,
+5/16/2018 7:50:44,Laurel,Yes,42,Yes,36,Male,35-40,US,Northeast
+5/16/2018 7:51:02,Yanney,Yes,40,Yes,52,Male,30-35,Washington,West
+5/16/2018 7:53:16,Laurel,Yes,,,,,,,
+5/16/2018 7:53:23,Laurel,Yes,44,Yes,38,Male,25-30,Ireland,
+5/16/2018 7:53:46,Laurel,Yes,50,Yes,40,Male,30-35,Us,Northeast
+5/16/2018 7:56:56,Laurel,Yes,30,Yes,40,Male,35-40,Australia,
+5/16/2018 7:57:20,Yanney,No,,No,,Male,40-45,,Southeast
+5/16/2018 7:57:52,Laurel,Yes,46,Yes,44,Male,25-30,"Chicago, IL",Midwest
+5/16/2018 7:58:24,Yanney,Yes,44,Yes,48,Male,25-30,,West
+5/16/2018 8:00:44,Laurel,Yes,42,Yes,38,Male,25-30,USA,Southeast
+5/16/2018 8:01:21,Laurel,Yes,42,Yes,36,Male,25-30,Austin,Southwest
+5/16/2018 8:01:56,Yanney,Yes,58,Yes,38,Male,<18,China,
+5/16/2018 8:01:59,Yanney,Yes,50,Yes,46,Prefer not to say,Prefer not to say,,"Hawaii, Alaska or other territory"
+5/16/2018 8:02:00,Yanney,No,,No,,Female,18-25,,
+5/16/2018 8:02:00,Laurel,Yes,56,Yes,42,Male,18-25,,
+5/16/2018 8:03:02,Yanney,No,,No,,Male,<18,,Northeast
+5/16/2018 8:04:02,Laurel,Yes,30,Yes,36,Male,25-30,Sweden,
+5/16/2018 8:04:25,Yanney,Yes,42,Yes,38,Male,18-25,Denmark ,
+5/16/2018 8:06:01,,,,,,,,,
+5/16/2018 8:07:19,Laurel,Yes,48,Yes,32,Male,25-30,"Phoenix, AZ",Southwest
+5/16/2018 8:07:37,Laurel,Yes,36,Yes,36,Male,18-25,,
+5/16/2018 8:10:24,Yanney,Yes,50,Yes,48,Male,25-30,,West
+5/16/2018 8:10:40,Yanney,Yes,52,Yes,44,Male,25-30,CANADA,
+5/16/2018 8:11:38,Yanney,Yes,56,No,,Female,25-30,Finland,
+5/16/2018 8:12:55,Laurel,Yes,,,,Male,18-25,Canada,
+5/16/2018 8:13:24,Yanney,No,,No,,Male,35-40,,Midwest
+5/16/2018 8:13:37,Yanney,No,,Yes,62,Male,18-25,us,Southeast
+5/16/2018 8:15:24,Laurel,Yes,48,Yes,42,Male,35-40,usa,Midwest
+5/16/2018 8:15:41,Yanney,Yes,66,Yes,50,Male,25-30,USA,Southwest
+5/16/2018 8:15:42,Laurel,No,,Yes,36,Male,25-30,US,Southeast
+5/16/2018 8:17:06,Yanney,No,,Yes,,Male,30-35,Us,Northeast
+5/16/2018 8:18:46,Yanney,No,,No,,Male,30-35,Your Moms Vagina,Southwest
+5/16/2018 8:19:39,Yanney,No,,,,Male,25-30,CAnada,
+5/16/2018 8:20:39,Laurel,No,32,Yes,36,Male,18-25,New York ,Northeast
+5/16/2018 8:20:39,Laurel,Yes,38,Yes,38,Male,25-30,,West
+5/16/2018 8:22:00,Yanney,Yes,60,Yes,40,Female,40-45,US,Midwest
+5/16/2018 8:23:30,Yanney,Yes,48,No,,Male,18-25,,Northeast
+5/16/2018 8:23:41,Yanney,Yes,52,Yes,60,Male,30-35,US,West
+5/16/2018 8:25:26,Laurel,Yes,46,Yes,40,Male,30-35,us,West
+5/16/2018 8:26:18,Laurel,No,44,Yes,36,Male,25-30,US,Northeast
+5/16/2018 8:27:19,Yanney,Yes,50,Yes,44,Prefer not to say,,,
+5/16/2018 8:29:28,Yanney,No,46,Yes,32,Male,18-25,San Diego,Southwest
+5/16/2018 8:30:01,Yanney,No,,No,,Female,18-25,Canada ,
+5/16/2018 8:30:28,Laurel,No,,Yes,32,Male,18-25,,Southwest
+5/16/2018 8:31:27,Yanney,No,,No,,Male,18-25,England London,
+5/16/2018 8:32:24,Yanney,No,,Yes,64,Male,18-25,UK,
+5/16/2018 8:33:30,Laurel,Yes,42,Yes,32,Female,30-35,Ontario,
+5/16/2018 8:33:39,Yanney,Yes,62,Yes,48,Male,18-25,us,Southeast
+5/16/2018 8:34:50,Laurel,No,,No,,Male,30-35,US,Southeast
+5/16/2018 8:35:44,Yanney,Yes,66,Yes,46,Male,18-25,Michigan ,Midwest
+5/16/2018 8:36:08,Yanney,Yes,62,Yes,48,Male,25-30,Seattle,West
+5/16/2018 8:36:29,Laurel,Yes,30,Yes,46,Female,30-35,Canada,
+5/16/2018 8:36:37,Laurel,Yes,50,Yes,36,Male,18-25,Europe,
+5/16/2018 8:37:33,Laurel,No,,No,,Male,30-35,USA,West
+5/16/2018 8:39:31,Yanney,No,,No,,Male,25-30,,
+5/16/2018 8:39:42,Laurel,No,46,Yes,40,Male,25-30,Oregon,Midwest
+5/16/2018 8:39:54,Yanney,Yes,44,Yes,50,Male,30-35,California,Southwest
+5/16/2018 8:41:09,Yanney,No,,No,,Male,30-35,,
+5/16/2018 8:41:15,Laurel,Yes,44,Yes,38,Male,18-25,United Kingdom,
+5/16/2018 8:41:42,Laurel,No,,No,,Male,30-35,USA,West
+5/16/2018 8:42:27,Laurel,Yes,50,Yes,36,Male,18-25,Ohio,Northeast
+5/16/2018 8:45:07,Yanney,No,,No,,Male,25-30,US,West
+5/16/2018 8:45:26,Laurel,No,46,No,44,Male,18-25,south carolina,Southeast
+5/16/2018 8:46:36,Yanney,Yes,60,No,,Male,18-25,norway,
+5/16/2018 8:46:58,Yanney,No,,No,,Female,35-40,Us,Northeast
+5/16/2018 8:48:08,Laurel,No,30,Yes,32,Male,35-40,,Midwest
+5/16/2018 8:49:31,Laurel,Yes,40,Yes,38,Male,25-30,United States,Southeast
+5/16/2018 8:49:37,Yanney,No,,Yes,34,Male,18-25,ut,West
+5/16/2018 8:50:02,Laurel,No,,No,,Female,<18,Usa,Midwest
+5/16/2018 8:50:26,Yanney,Yes,64,Yes,58,Female,30-35,,
+5/16/2018 8:51:27,Yanney,No,,No,,Male,18-25,,Midwest
+5/16/2018 8:51:55,Laurel,Yes,40,Yes,40,Male,18-25,US,Southwest
+5/16/2018 8:52:22,Laurel,Yes,46,Yes,38,Male,30-35,UK,
+5/16/2018 8:55:16,Yanney,No,,No,,Female,40-45,Florida,
+5/16/2018 8:57:41,Laurel,Yes,32,Yes,42,Male,25-30,GA,Southeast
+5/16/2018 8:58:44,Yanney,No,50,No,40,Female,18-25,Uk ,
+5/16/2018 8:58:45,Laurel,No,,Yes,38,Male,18-25,Netherlands,
+5/16/2018 9:00:00,Laurel,No,,Yes,,Male,35-40,,West
+5/16/2018 9:00:04,Yanney,No,44,No,44,Female,25-30,Texas,Midwest
+5/16/2018 9:00:10,Yanney,No,,Yes,52,Male,25-30,,
+5/16/2018 9:00:10,Laurel,Yes,56,Yes,56,Male,35-40,,
+5/16/2018 9:00:10,Yanney,Yes,48,Yes,56,Female,<18,US,"Hawaii, Alaska or other territory"
+5/16/2018 9:01:21,Laurel,No,,Yes,32,Male,25-30,UK ,
+5/16/2018 9:01:55,Yanney,No,58,Yes,38,Male,30-35,Los Angeles,West
+5/16/2018 9:02:59,Laurel,No,,No,,Male,35-40,UK,
+5/16/2018 9:03:53,Yanney,No,50,Yes,48,Gender-fluid/Non-binary/Other,18-25,,Midwest
+5/16/2018 9:08:11,Yanney,No,,No,,Male,25-30,finland,
+5/16/2018 9:09:21,Laurel,Yes,40,Yes,60,Prefer not to say,Prefer not to say,United states,Northeast
+5/16/2018 9:09:50,Laurel,No,,Yes,32,Male,18-25,United States,Northeast
+5/16/2018 9:10:02,Laurel,No,48,No,44,Male,35-40,Florida,Southeast
+5/16/2018 9:12:18,Laurel,No,,No,,Male,25-30,Canada,
+5/16/2018 9:12:21,Yanney,Yes,40,Yes,62,Male,25-30,Uk,
+5/16/2018 9:12:22,Laurel,Yes,36,Yes,44,Female,18-25,Wales,
+5/16/2018 9:13:05,Yanney,Yes,56,Yes,42,Male,18-25,Georgia,Southeast
+5/16/2018 9:13:09,Yanney,No,,Yes,50,Male,18-25,America,Midwest
+5/16/2018 9:14:18,Laurel,Yes,48,Yes,40,Female,25-30,Michigan,Midwest
+5/16/2018 9:15:28,Laurel,No,,Yes,34,Male,30-35,EU,
+5/16/2018 9:18:14,Laurel,Yes,54,Yes,32,Male,18-25,Missouri,Midwest
+5/16/2018 9:18:39,Laurel,Yes,38,Yes,38,Male,18-25,Boston,Northeast
+5/16/2018 9:19:25,Yanney,No,32,No,46,Female,25-30,US,Southeast
+5/16/2018 9:19:44,Laurel,Yes,46,Yes,42,Male,18-25,United States,Northeast
+5/16/2018 9:19:56,Yanney,Yes,50,Yes,38,Male,25-30,USA,Midwest
+5/16/2018 9:20:21,Laurel,Yes,38,Yes,38,Male,35-40,,
+5/16/2018 9:22:35,Yanney,No,,No,,Male,18-25,Malaysia,"Hawaii, Alaska or other territory"
+5/16/2018 9:24:55,,,,,,,,,
+5/16/2018 9:25:18,Laurel,Yes,32,Yes,,Male,25-30,,
+5/16/2018 9:25:56,Laurel,Yes,44,Yes,42,Female,18-25,United Kingdom,
+5/16/2018 9:26:24,Yanney,Yes,46,Yes,36,Male,>60,Fairfield CT,Northeast
+5/16/2018 9:31:27,Laurel,Yes,54,Yes,42,Male,40-45,US,Northeast
+5/16/2018 9:32:48,Yanney,Yes,,Yes,,Male,25-30,,West
+5/16/2018 9:33:57,Yanney,Yes,66,No,,Male,30-35,Canada,
+5/16/2018 9:35:42,Laurel,No,46,Yes,36,Male,35-40,hong kong,
+5/16/2018 9:36:25,Laurel,Yes,42,Yes,38,Male,30-35,"Lubbock, America",Southwest
+5/16/2018 9:39:05,Laurel,Yes,30,Yes,44,Male,<18,Finland,
+5/16/2018 9:39:31,Laurel,Yes,46,Yes,32,Male,18-25,US,Southwest
+5/16/2018 9:39:48,Yanney,Yes,,No,,Male,<18,The Netherlands ,
+5/16/2018 9:40:28,Laurel,No,,Yes,46,Male,18-25,México,
+5/16/2018 9:41:08,Yanney,Yes,30,Yes,58,Prefer not to say,Prefer not to say,,
+5/16/2018 9:41:39,Laurel,Yes,54,Yes,40,Male,25-30,America,Southeast
+5/16/2018 9:41:44,Yanney,No,,Yes,52,Male,18-25,,"Hawaii, Alaska or other territory"
+5/16/2018 9:42:11,Laurel,No,66,No,32,Male,25-30,USA,Northeast
+5/16/2018 9:42:55,Yanney,No,,No,,Male,40-45,USA,Northeast
+5/16/2018 9:43:06,Laurel,Yes,42,Yes,42,Male,25-30,Ireland,
+5/16/2018 9:43:18,Laurel,Yes,44,Yes,40,Male,18-25,usa,Northeast
+5/16/2018 9:44:03,Laurel,No,,Yes,50,Male,25-30,sweden,
+5/16/2018 9:45:51,Laurel,Yes,46,Yes,42,Male,30-35,Germany ,
+5/16/2018 9:45:53,Laurel,Yes,46,Yes,34,Male,40-45,,
+5/16/2018 9:45:54,Yanney,No,,No,,Female,40-45,Alabama,Southeast
+5/16/2018 9:48:33,Laurel,No,,Yes,38,Female,25-30,California ,West
+5/16/2018 9:48:46,,,,,,,,,
+5/16/2018 9:49:39,Yanney,Yes,64,No,32,Male,25-30,CANADA,
+5/16/2018 9:50:32,Laurel,Yes,42,Yes,40,Male,25-30,USA,Southeast
+5/16/2018 9:51:38,Laurel,Yes,30,Yes,66,Male,18-25,,West
+5/16/2018 9:53:14,Laurel,Yes,40,Yes,34,Male,35-40,Mississippi,Southeast
+5/16/2018 9:53:50,Laurel,No,38,No,36,Male,35-40,usa,Midwest
+5/16/2018 9:55:21,Yanney,Yes,42,Yes,48,Male,18-25,United States,Northeast
+5/16/2018 10:00:54,Yanney,Yes,62,No,60,Female,35-40,Iowa,Midwest
+5/16/2018 9:56:41,Laurel,Yes,30,Yes,32,Male,30-35,Finland,
+5/16/2018 9:58:11,Yanney,No,48,Yes,50,Female,18-25,Norway,
+5/16/2018 9:59:58,Laurel,No,,No,,Male,18-25,us,
+5/16/2018 10:00:22,Laurel,Yes,46,Yes,36,Male,18-25,New Hampshire,Northeast
+5/16/2018 10:00:58,Laurel,No,42,No,54,Female,<18,US,Midwest
+5/16/2018 10:03:08,Laurel,No,,No,,Male,18-25,California,West
+5/16/2018 10:04:37,Yanney,No,,No,,Female,18-25,Québec,
+5/16/2018 10:04:49,Laurel,Yes,30,Yes,40,Female,35-40,My mama,Midwest
+5/16/2018 10:05:04,Laurel,Yes,66,Yes,32,Male,25-30,USA,West
+5/16/2018 10:05:04,Yanney,No,,No,,Female,35-40,,Northeast
+5/16/2018 10:05:57,Yanney,Yes,66,Yes,42,Male,30-35,UK,
+5/16/2018 10:08:06,Laurel,No,,Yes,38,Male,18-25,Sweden,
+5/16/2018 10:09:27,Laurel,No,40,Yes,,Male,25-30,Singapore ,
+5/16/2018 10:09:33,Laurel,Yes,32,Yes,60,Female,18-25,Texas ,Midwest
+5/16/2018 10:10:05,Laurel,Yes,40,Yes,40,Male,18-25,United States,Northeast
+5/16/2018 10:10:17,Laurel,No,44,Yes,52,Male,25-30,,Southwest
+5/16/2018 10:10:51,Laurel,No,40,Yes,,Male,25-30,Singapore ,
+5/16/2018 10:11:14,Yanney,No,,No,,Male,18-25,,
+5/16/2018 10:11:19,Laurel,Yes,48,Yes,42,Male,30-35,us,Northeast
+5/16/2018 10:15:04,Yanney,Yes,30,Yes,38,Male,30-35,Canada,
+5/16/2018 10:18:51,Laurel,Yes,30,Yes,36,Male,25-30,UK,
+5/16/2018 10:20:41,Yanney,Yes,60,Yes,52,Male,55-60,Maryland,Northeast
+5/16/2018 10:20:45,Laurel,Yes,30,Yes,32,Male,35-40,Ohio,Midwest
+5/16/2018 10:21:43,Laurel,Yes,40,Yes,36,Male,50-55,Michigan,Midwest
+5/16/2018 10:24:33,Laurel,Yes,48,Yes,48,Male,18-25,United States,Northeast
+5/16/2018 10:24:48,Laurel,Yes,40,Yes,40,Male,25-30,Austria,
+5/16/2018 10:26:12,Laurel,No,,Yes,,Male,,,
+5/16/2018 10:26:57,Yanney,Yes,42,Yes,52,Female,25-30,United States,Midwest
+5/16/2018 10:27:11,Laurel,Yes,44,Yes,48,Male,18-25,United States,Southwest
+5/16/2018 10:27:25,Yanney,Yes,50,Yes,50,Female,25-30,"Oregon, United States",West
+5/16/2018 10:27:30,Yanney,Yes,56,Yes,48,Female,25-30,Canada,
+5/16/2018 10:28:11,Laurel,Yes,42,Yes,62,Male,35-40,netherlands,
+5/16/2018 10:28:31,Laurel,No,,Yes,38,Male,30-35,,Midwest
+5/16/2018 10:28:51,Laurel,Yes,48,Yes,36,Male,25-30,Netherlands,
+5/16/2018 10:29:15,Laurel,No,40,Yes,60,Male,18-25,Dallas,Southeast
+5/16/2018 10:29:20,Laurel,Yes,30,Yes,42,Male,25-30,Illinois,Midwest
+5/16/2018 10:29:53,Yanney,No,,No,,Female,25-30,Scotland,
+5/16/2018 10:30:06,Yanney,Yes,44,Yes,42,Male,35-40,Nashville,Southeast
+5/16/2018 10:30:48,Laurel,Yes,30,Yes,32,Male,25-30,Norway,
+5/16/2018 10:31:12,Laurel,Yes,30,Yes,46,Male,18-25,,
+5/16/2018 10:33:01,Laurel,No,,Yes,36,Male,30-35,Germany,
+5/16/2018 10:34:19,Laurel,Yes,44,Yes,38,Male,25-30,"Norway, Sandnes",
+5/16/2018 10:34:20,Laurel,Yes,44,No,,Male,35-40,Phoenix,Southwest
+5/16/2018 10:34:49,Laurel,Yes,40,Yes,40,Male,18-25,USA,Northeast
+5/16/2018 10:36:08,Laurel,Yes,46,No,38,Male,18-25,Boston,Northeast
+5/16/2018 10:36:16,Laurel,Yes,34,Yes,34,Male,18-25,washington,West
+5/16/2018 10:37:28,Yanney,Yes,50,Yes,44,Male,30-35,California,West
+5/16/2018 10:37:36,Laurel,Yes,40,Yes,40,Male,25-30,USA,Northeast
+5/16/2018 10:38:15,Laurel,Yes,34,Yes,56,Male,25-30,Portugal,
+5/16/2018 10:38:54,Laurel,No,,Yes,32,Male,18-25,,Southeast
+5/16/2018 10:39:14,Laurel,No,,No,,Male,18-25,norway,
+5/16/2018 10:39:28,Laurel,No,,Yes,40,Female,25-30,Utah,Midwest
+5/16/2018 10:40:31,Yanney,Yes,48,Yes,38,Male,18-25,USA,West
+5/16/2018 10:40:50,Laurel,Yes,42,Yes,42,Female,25-30,USA,Midwest
+5/16/2018 10:44:19,Laurel,Yes,36,Yes,50,Male,25-30,,Southwest
+5/16/2018 10:45:00,Laurel,Yes,48,Yes,54,Female,25-30,United States,Northeast
+5/16/2018 10:45:48,Yanney,Yes,64,Yes,48,Male,18-25,UK,
+5/16/2018 10:45:52,Laurel,Yes,64,Yes,34,Male,<18,Austria ,
+5/16/2018 10:46:57,Yanney,No,,Yes,52,Female,25-30,Maryland ,Northeast
+5/16/2018 10:47:12,Yanney,No,,Yes,52,Male,25-30,sweden,
+5/16/2018 10:49:29,Laurel,Yes,40,Yes,38,Male,25-30,Sweden,
+5/16/2018 10:51:41,Laurel,No,36,Yes,36,Female,30-35,Canada,
+5/16/2018 10:52:28,Yanney,No,,No,,Female,40-45,,Midwest
+5/16/2018 10:54:11,Laurel,Yes,30,Yes,50,Female,50-55,"Plymouth, MI",Midwest
+5/16/2018 10:56:14,Laurel,Yes,,Yes,,Male,25-30,New York,Northeast
+5/16/2018 10:56:54,Laurel,Yes,44,Yes,48,Male,18-25,US,Southwest
+5/16/2018 10:57:15,Laurel,No,,Yes,,Male,30-35,,West
+5/16/2018 10:58:24,Laurel,Yes,42,Yes,38,Male,35-40,Estonia,
+5/16/2018 10:59:06,Yanney,No,,No,,Female,18-25,Texas,Southwest
+5/16/2018 11:00:28,Yanney,Yes,54,Yes,54,Male,18-25,,
+5/16/2018 11:00:56,Yanney,Yes,52,Yes,38,Male,18-25,England ,
+5/16/2018 11:02:05,Laurel,No,34,Yes,40,Female,18-25,new york,Northeast
+5/16/2018 11:05:49,Yanney,No,,No,,Male,25-30,,West
+5/16/2018 11:07:14,Laurel,Yes,40,Yes,38,Male,18-25,Canada,
+5/16/2018 11:07:54,Laurel,No,,Yes,32,Female,18-25,Austin,Southeast
+5/16/2018 11:08:48,Yanney,Yes,50,Yes,36,Female,18-25,France,Northeast
+5/16/2018 11:08:59,Laurel,Yes,50,Yes,50,Male,<18,United States,Southeast
+5/16/2018 11:09:53,Laurel,Yes,42,Yes,38,Male,18-25,US,Midwest
+5/16/2018 11:10:30,Laurel,Yes,60,Yes,38,Male,25-30,San Diego,
+5/16/2018 11:12:46,Laurel,Yes,,No,,,,,Northeast
+5/16/2018 11:12:51,Laurel,Yes,44,Yes,40,Male,25-30,USA,Southeast
+5/16/2018 11:13:37,Laurel,No,,Yes,32,Male,18-25,Ireland,
+5/16/2018 11:17:23,Laurel,No,46,Yes,52,Prefer not to say,30-35,USA,Midwest
+5/16/2018 11:18:49,Laurel,Yes,42,Yes,36,Male,45-50,UK,
+5/16/2018 11:19:09,Laurel,Yes,,,54,Female,18-25,Pennsylvania USA,Midwest
+5/16/2018 11:19:17,Laurel,Yes,36,Yes,36,Male,30-35,England,
+5/16/2018 11:20:11,Yanney,No,30,No,48,Female,18-25,US,Midwest
+5/16/2018 11:22:07,Laurel,Yes,44,Yes,34,Male,35-40,canada,
+5/16/2018 11:23:00,Laurel,Yes,30,Yes,42,Male,<18,Greece,
+5/16/2018 11:23:23,Laurel,Yes,42,Yes,40,Male,25-30,"Amsterdam, Netherlands",
+5/16/2018 11:24:40,Yanney,No,,No,,Male,25-30,,Southwest
+5/16/2018 11:25:26,Laurel,Yes,30,Yes,50,Female,25-30,USA,West
+5/16/2018 11:26:41,Laurel,Yes,40,No,,Male,25-30,,West
+5/16/2018 11:26:55,Yanney,No,,No,,Female,30-35,,
+5/16/2018 11:28:21,Yanney,No,,No,,Male,18-25,Lebanon,
+5/16/2018 11:29:15,Laurel,Yes,40,Yes,36,Male,18-25,Sweden,
+5/16/2018 11:31:06,Yanney,Yes,52,Yes,44,Male,18-25,AZ,Southwest
+5/16/2018 11:31:20,Yanney,Yes,38,Yes,48,Female,18-25,,Midwest
+5/16/2018 11:31:38,Yanney,Yes,64,No,,Male,25-30,,West
+5/16/2018 11:33:22,Yanney,No,,No,,Prefer not to say,18-25,"St. Louis, MO",Midwest
+5/16/2018 11:34:06,Laurel,Yes,46,Yes,44,Male,18-25,Canada,
+5/16/2018 11:34:26,Laurel,Yes,42,Yes,40,Male,18-25,United States,Southeast
+5/16/2018 11:34:48,Laurel,No,,No,,Female,30-35,UK,
+5/16/2018 11:36:02,Yanney,No,,Yes,44,Prefer not to say,30-35,,
+5/16/2018 11:39:52,Laurel,Yes,38,Yes,38,Male,<18,Sweden,
+5/16/2018 11:41:40,Laurel,No,,No,,Prefer not to say,18-25,United States,Southeast
+5/16/2018 11:41:57,,,,,,,,,
+5/16/2018 11:42:16,Yanney,Yes,48,Yes,40,Male,18-25,Belgium,
+5/16/2018 11:42:26,Laurel,Yes,44,Yes,34,Female,25-30,St. Louis,Southwest
+5/16/2018 11:42:42,Laurel,Yes,42,Yes,42,Male,18-25,Dallas,Southwest
+5/16/2018 11:44:25,Laurel,No,62,Yes,42,Male,25-30,US,Southeast
+5/16/2018 11:45:44,Laurel,Yes,34,No,66,Female,25-30,Mississippi,Southeast
+5/16/2018 11:46:06,Laurel,Yes,44,Yes,40,Female,30-35,Estonia,
+5/16/2018 11:47:08,Laurel,Yes,30,No,,Male,25-30,nj,Northeast
+5/16/2018 11:47:20,Yanney,No,,Yes,52,Female,18-25,California,West
+5/16/2018 11:48:34,Laurel,Yes,40,Yes,38,Male,18-25,Arizona,Southwest
+5/16/2018 11:49:00,Yanney,Yes,64,Yes,50,Male,18-25,,Southeast
+5/16/2018 11:50:00,Laurel,Yes,48,Yes,40,Male,18-25,UAE,
+5/16/2018 11:51:29,Yanney,Yes,60,Yes,40,Male,18-25,CA,West
+5/16/2018 11:52:07,Laurel,Yes,42,Yes,36,Male,18-25,"Raleigh, NC",Southeast
+5/16/2018 11:53:55,Yanney,Yes,60,Yes,40,Male,18-25,California,West
+5/16/2018 11:54:19,Laurel,Yes,38,Yes,38,Male,18-25,United States,Northeast
+5/16/2018 11:55:36,Laurel,No,,Yes,48,Male,18-25,Houston,Southwest
+5/16/2018 11:57:25,Laurel,,,Yes,38,Male,18-25,"US- there wasn't another place for input so I'll say it here: I originally hear Laurel. The questions for the speed-up seem to assume that I'll continue to hear Laurel until a certain number is hit, but for me as I heard Yanny from 30-88 and Laurel for 40+. It was the same as when I heard it in the opposite direction.",Midwest
+5/16/2018 11:57:42,Yanney,Yes,38,Yes,56,Male,18-25,Massachusetts ,Northeast
+5/16/2018 11:59:11,Laurel,No,,Yes,38,Male,18-25,Netherlands,
+5/16/2018 11:59:13,Laurel,Yes,42,No,58,Prefer not to say,30-35,,West
+5/16/2018 11:59:32,Laurel,Yes,50,Yes,38,Male,30-35,Ukraine,
+5/16/2018 12:01:35,Laurel,No,66,No,44,Female,35-40,"Traverse City, michigan",Midwest
+5/16/2018 12:02:19,Laurel,Yes,32,Yes,38,Male,35-40,norway,
+5/16/2018 12:02:29,Laurel,Yes,44,Yes,50,Male,18-25,Sweden,
+5/16/2018 12:02:59,Laurel,Yes,44,Yes,38,Male,25-30,UK,
+5/16/2018 12:04:08,Yanney,No,,No,,Male,18-25,USA,Northeast
+5/16/2018 12:04:23,Yanney,Yes,60,Yes,48,Male,18-25,My mom,West
+5/16/2018 12:05:12,Yanney,No,,No,,Male,18-25,uk,
+5/16/2018 12:06:57,Laurel,Yes,52,No,,Male,25-30,USA,Midwest
+5/16/2018 12:08:39,Yanney,Yes,54,Yes,46,Male,30-35,Ukraine,
+5/16/2018 12:10:06,Laurel,Yes,42,Yes,36,Male,25-30,USA,Southwest
+5/16/2018 12:10:13,Laurel,No,,Yes,,Male,,,West
+5/16/2018 12:10:57,Laurel,Yes,64,Yes,34,Male,18-25,US,Northeast
+5/16/2018 12:11:09,Laurel,Yes,42,Yes,42,Female,30-35,Florida,Southeast
+5/16/2018 12:11:42,,,44,,48,Female,25-30,Colombia,
+5/16/2018 12:13:48,Yanney,Yes,34,Yes,38,Male,<18,Amsterdam,
+5/16/2018 12:15:30,Laurel,Yes,30,No,66,Male,30-35,New Jersey,Northeast
+5/16/2018 12:15:34,Laurel,Yes,46,Yes,36,Male,<18,germany,
+5/16/2018 12:16:29,Yanney,Yes,50,Yes,36,Male,18-25,Britain,
+5/16/2018 12:16:42,Yanney,No,,No,,Male,18-25,Finland,
+5/16/2018 12:17:03,Laurel,No,,No,,Male,25-30,,
+5/16/2018 12:17:05,Laurel,Yes,62,Yes,62,Male,25-30,Texas,Southwest
+5/16/2018 12:17:11,Laurel,No,,Yes,34,Female,25-30,USA,Midwest
+5/16/2018 12:17:40,Yanney,Yes,46,Yes,44,Male,30-35,,Northeast
+5/16/2018 12:18:15,Laurel,Yes,60,No,,Male,25-30,,
+5/16/2018 12:19:14,Yanney,Yes,50,Yes,,,45-50,Belgium,
+5/16/2018 12:20:15,Laurel,Yes,46,Yes,36,Male,18-25,UK,
+5/16/2018 12:21:04,Laurel,Yes,42,Yes,40,Male,18-25,US,Northeast
+5/16/2018 12:23:53,Laurel,No,,Yes,32,Female,40-45,,Midwest
+5/16/2018 12:23:54,Yanney,Yes,44,Yes,38,Male,25-30,United Kingdom,
+5/16/2018 12:25:10,Laurel,Yes,32,Yes,60,Male,18-25,EU,
+5/16/2018 12:25:28,Yanney,Yes,58,Yes,52,Female,18-25,Delaware ,Northeast
+5/16/2018 12:25:39,Laurel,Yes,48,Yes,40,Male,18-25,Indon,
+5/16/2018 12:27:37,Yanney,Yes,58,Yes,46,Male,18-25,United States,Midwest
+5/16/2018 12:27:49,Yanney,Yes,66,Yes,32,Male,40-45,,
+5/16/2018 12:28:32,Yanney,No,,Yes,,Male,<18,Texas,
+5/16/2018 12:28:49,Laurel,Yes,30,No,,Male,18-25,Canada,
+5/16/2018 12:29:31,Laurel,Yes,40,Yes,34,Male,<18,United States,Midwest
+5/16/2018 12:31:44,Laurel,Yes,38,Yes,38,Male,25-30,portland,West
+5/16/2018 12:32:27,Laurel,No,,No,,Female,35-40,USA,Northeast
+5/16/2018 12:33:58,Yanney,Yes,66,Yes,54,Male,25-30,,
+5/16/2018 12:35:01,Laurel,No,,No,,Male,25-30,Texas,Southwest
+5/16/2018 12:35:46,Yanney,No,,No,,Female,35-40,,Northeast
+5/16/2018 12:36:37,Laurel,Yes,46,Yes,42,Male,25-30,,Midwest
+5/16/2018 12:37:27,Yanney,No,58,Yes,34,Female,30-35,Belgium ,
+5/16/2018 12:38:26,Laurel,No,,,,,,,
+5/16/2018 12:41:33,Yanney,No,,No,,Female,50-55,Nova Scotia,
+5/16/2018 12:42:05,Yanney,No,,No,,Male,30-35,New York,Northeast
+5/16/2018 12:42:27,Laurel,Yes,30,Yes,40,Male,<18,Antarctica,
+5/16/2018 12:43:15,Yanney,Yes,56,Yes,42,Male,30-35,不能说的秘密,"Hawaii, Alaska or other territory"
+5/16/2018 12:44:50,Laurel,Yes,36,Yes,36,Male,18-25,oregon,West
+5/16/2018 12:45:10,Laurel,Yes,46,Yes,38,Male,30-35,Chicago,Midwest
+5/16/2018 12:45:11,Laurel,Yes,52,Yes,44,Female,30-35,UK,
+5/16/2018 12:45:46,Yanney,Yes,48,Yes,52,Male,35-40,Finland,
+5/16/2018 12:46:13,,,,,,,,,
+5/16/2018 12:46:55,Yanney,No,,Yes,66,Male,40-45,New Jersey,Northeast
+5/16/2018 12:51:55,Laurel,Yes,40,Yes,32,Prefer not to say,Prefer not to say,Europe,
+5/16/2018 12:53:26,Laurel,Yes,42,Yes,44,Male,18-25,United Kingdom,
+5/16/2018 12:54:47,Laurel,No,,No,,Male,30-35,,West
+5/16/2018 12:55:51,Laurel,No,,Yes,46,Male,18-25,,Northeast
+5/16/2018 12:55:54,Laurel,No,,No,,Male,25-30,canada,
+5/16/2018 12:56:20,Laurel,No,,No,,Male,25-30,Ireland,
+5/16/2018 12:56:25,Laurel,No,,No,,Male,35-40,,Midwest
+5/16/2018 12:56:35,Laurel,Yes,30,Yes,38,Female,30-35,,Midwest
+5/16/2018 12:57:13,Laurel,Yes,42,Yes,42,Female,25-30,VA,Southwest
+5/16/2018 12:59:43,Yanney,No,,Yes,,Male,25-30,United Kingdom,
+5/16/2018 13:01:40,Laurel,No,,Yes,32,Male,35-40,,
+5/16/2018 13:02:33,Laurel,No,,No,,Male,25-30,,Southwest
+5/16/2018 13:04:19,Laurel,Yes,38,Yes,40,Female,30-35,USA,Northeast
+5/16/2018 13:05:28,Laurel,Yes,30,Yes,48,Male,25-30,san diego,West
+5/16/2018 13:05:34,Laurel,No,,Yes,42,Male,25-30,los angeles ca,West
+5/16/2018 13:06:56,Yanney,Yes,,,56,Male,25-30,Uk,
+5/16/2018 13:07:11,Laurel,Yes,44,Yes,42,Male,18-25,Greece,
+5/16/2018 13:07:22,Laurel,Yes,42,Yes,42,Male,18-25,US,West
+5/16/2018 13:08:21,,,,,,,,,
+5/16/2018 13:08:25,Yanney,No,,No,,Male,25-30,Jordan,
+5/16/2018 13:09:07,Yanney,Yes,60,Yes,66,Male,18-25,Canada,
+5/16/2018 13:10:05,Yanney,Yes,54,No,,Male,18-25,,
+5/16/2018 13:15:35,Yanney,Yes,44,Yes,50,Male,18-25,Finland,
+5/16/2018 13:16:34,Laurel,Yes,46,Yes,42,Male,25-30,Somewhere in Europe,
+5/16/2018 13:17:57,Laurel,Yes,48,Yes,44,Female,18-25,Germany,
+5/16/2018 13:18:14,Laurel,No,,No,,Male,40-45,texas,Southwest
+5/16/2018 13:18:21,Yanney,No,,No,,Male,18-25,Los Angeles ,Southwest
+5/16/2018 13:18:58,Laurel,Yes,64,Yes,32,Male,25-30,,Northeast
+5/16/2018 13:19:30,Laurel,No,,Yes,36,Female,25-30,virginia,Southeast
+5/16/2018 13:19:56,Laurel,Yes,42,Yes,38,Male,18-25,Canada,
+5/16/2018 13:20:08,Yanney,No,,Yes,44,Male,35-40,Arizona,Southwest
+5/16/2018 13:23:22,Laurel,No,,Yes,38,Male,25-30,Texas,Southwest
+5/16/2018 13:27:36,Yanney,Yes,54,Yes,46,Male,18-25,ohio,Northeast
+5/16/2018 13:28:23,Yanney,No,,Yes,34,Male,30-35,South Africa ,
+5/16/2018 13:29:28,Yanney,No,,No,,Male,18-25,USA,Southeast
+5/16/2018 13:29:30,Laurel,No,,No,,Male,<18,Romania,
+5/16/2018 13:29:37,Laurel,Yes,46,Yes,44,Male,25-30,UK,
+5/16/2018 13:30:00,Yanney,No,,No,,Male,,,
+5/16/2018 13:31:13,Laurel,No,,Yes,32,Male,30-35,,Southwest
+5/16/2018 13:31:46,Laurel,No,,Yes,40,Male,18-25,,Southeast
+5/16/2018 13:32:50,Laurel,Yes,30,Yes,46,Male,35-40,,
+5/16/2018 13:34:11,Laurel,Yes,30,Yes,44,Male,30-35,Norway,
+5/16/2018 13:34:41,Yanney,Yes,50,Yes,46,Female,25-30,,West
+5/16/2018 13:37:13,Laurel,Yes,50,Yes,40,Male,18-25,Netherlands,
+5/16/2018 13:37:52,Yanney,Yes,54,Yes,60,Male,18-25,México,
+5/16/2018 13:38:53,Laurel,Yes,32,No,34,Female,18-25,canada,
+5/16/2018 13:41:05,Yanney,No,,No,,Female,18-25,California ,West
+5/16/2018 13:41:51,Yanney,Yes,58,Yes,48,Male,18-25,Finland,
+5/16/2018 13:43:20,Laurel,No,,Yes,36,Male,25-30,,Midwest
+5/16/2018 13:43:50,Laurel,No,38,No,56,Male,18-25,america,Midwest
+5/16/2018 13:45:06,Laurel,Yes,30,No,40,Male,25-30,United States,Southwest
+5/16/2018 13:45:14,Yanney,Yes,60,Yes,48,Male,25-30,,Northeast
+5/16/2018 13:46:15,Laurel,Yes,,,,Male,25-30,,Southeast
+5/16/2018 13:47:56,Laurel,Yes,30,Yes,,Male,35-40,California,West
+5/16/2018 13:49:02,Laurel,Yes,32,Yes,40,Male,30-35,Canada,
+5/16/2018 13:49:22,Yanney,No,,No,,Male,18-25,us,Southeast
+5/16/2018 13:51:30,Yanney,Yes,,No,,Male,25-30,Tennessee,Southeast
+5/16/2018 13:51:42,Laurel,Yes,60,No,,Male,35-40,US,Southwest
+5/16/2018 13:52:14,Yanney,Yes,36,Yes,36,Male,,,Northeast
+5/16/2018 13:53:32,Laurel,No,,Yes,32,Female,18-25,Canada,
+5/16/2018 13:55:31,Yanney,Yes,46,Yes,46,Male,<18,florida ,Southeast
+5/16/2018 13:56:09,Yanney,No,,No,,Male,35-40,South Dakota,Midwest
+5/16/2018 13:57:36,Laurel,Yes,30,Yes,36,Male,25-30,USA,West
+5/16/2018 14:00:03,Laurel,Yes,38,,,Male,25-30,California,Southwest
+5/16/2018 14:00:03,Yanney,No,,No,,Male,25-30,Ireland,
+5/16/2018 14:01:54,Yanney,Yes,40,Yes,38,Male,<18,Canada,
+5/16/2018 14:04:52,Laurel,Yes,44,Yes,44,Female,18-25,Portugal ,
+5/16/2018 14:05:21,Laurel,Yes,50,Yes,32,Female,25-30,Philadelphia,West
+5/16/2018 14:08:48,Yanney,Yes,46,Yes,48,Male,<18,,Northeast
+5/16/2018 14:09:09,Yanney,Yes,46,Yes,48,Male,<18,,Northeast
+5/16/2018 14:12:08,Yanney,Yes,46,Yes,36,Male,18-25,Brazil,
+5/16/2018 14:12:55,Laurel,Yes,,Yes,,Male,18-25,,
+5/16/2018 14:19:01,Yanney,No,,Yes,62,Male,40-45,USA,Southwest
+5/16/2018 14:19:35,Yanney,No,,No,,Female,<18,Netherlands,
+5/16/2018 14:20:21,Laurel,Yes,44,Yes,44,Male,25-30,London UK,
+5/16/2018 14:21:19,Laurel,Yes,60,Yes,60,Female,40-45,,Southwest
+5/16/2018 14:21:38,Laurel,Yes,42,Yes,34,Male,18-25,,Northeast
+5/16/2018 14:22:10,Laurel,No,,Yes,34,Male,35-40,Utah,West
+5/16/2018 14:22:39,Laurel,Yes,44,Yes,46,Male,40-45,London,
+5/16/2018 14:24:05,Laurel,Yes,44,No,,Male,25-30,Ohio,Midwest
+5/16/2018 14:25:50,Laurel,Yes,46,Yes,48,Female,<18,England,
+5/16/2018 14:26:34,Yanney,No,,No,,Male,18-25,,
+5/16/2018 14:27:33,Laurel,No,,Yes,38,Female,18-25,Usa,Northeast
+5/16/2018 14:32:31,Laurel,No,,Yes,32,Male,<18,Somewhere,West
+5/16/2018 14:32:46,Laurel,Yes,36,Yes,38,Female,25-30,Denver,Southwest
+5/16/2018 14:34:05,Laurel,Yes,44,Yes,48,Male,18-25,Canada,
+5/16/2018 14:38:51,Laurel,Yes,30,Yes,34,Male,<18,,West
+5/16/2018 14:41:38,Laurel,Yes,34,No,,Male,18-25,,
+5/16/2018 14:43:41,Laurel,Yes,64,Yes,38,Female,30-35,,Midwest
+5/16/2018 14:44:19,Laurel,Yes,46,Yes,42,,,,
+5/16/2018 14:44:24,Yanney,No,,Yes,60,Male,30-35,,Midwest
+5/16/2018 14:44:55,Yanney,Yes,42,Yes,50,Male,<18,United states,Northeast
+5/16/2018 14:51:52,Laurel,Yes,30,Yes,44,Male,18-25,Finland,
+5/16/2018 14:52:49,Yanney,No,,No,,Male,18-25,,
+5/16/2018 14:54:44,Laurel,No,30,Yes,,Male,18-25,United States,Northeast
+5/16/2018 14:55:36,Yanney,No,,No,,Prefer not to say,,,Northeast
+5/16/2018 14:59:11,Laurel,No,,Yes,38,Male,,,West
+5/16/2018 15:00:12,Laurel,Yes,30,No,,Female,,,
+5/16/2018 15:01:19,Yanney,Yes,58,Yes,62,Male,<18,Canada,
+5/16/2018 15:04:57,,No,,No,,Female,25-30,UK,
+5/16/2018 15:06:19,Laurel,Yes,30,Yes,40,Male,25-30,Nyc,Northeast
+5/16/2018 15:06:31,Laurel,Yes,42,Yes,42,Male,45-50,California ,Southwest
+5/16/2018 15:07:25,Yanney,Yes,58,Yes,64,Male,30-35,,Northeast
+5/16/2018 15:07:39,Yanney,No,,No,,Male,18-25,United States,West
+5/16/2018 15:08:36,Yanney,Yes,,Yes,,Prefer not to say,<18,,Midwest
+5/16/2018 15:10:16,Laurel,No,,Yes,38,Male,35-40,,West
+5/16/2018 15:12:39,Laurel,Yes,46,Yes,44,Female,<18,Canada,
+5/16/2018 15:13:02,Yanney,No,,No,,Male,<18,The USA,Midwest
+5/16/2018 15:14:07,Laurel,Yes,32,Yes,52,Female,18-25,Arizona,Southwest
+5/16/2018 15:15:51,Laurel,Yes,,,,,,,
+5/16/2018 15:16:26,Laurel,Yes,48,Yes,42,Female,18-25,Denver,Midwest
+5/16/2018 15:17:57,Laurel,Yes,30,Yes,50,Male,40-45,USA,Southwest
+5/16/2018 15:19:02,Laurel,No,44,Yes,36,Prefer not to say,Prefer not to say,,West
+5/16/2018 15:22:00,Yanney,No,64,No,32,Female,<18,US,Southeast
+5/16/2018 15:26:01,Laurel,Yes,42,Yes,40,Male,55-60,Indiana,Midwest
+5/16/2018 15:26:47,Yanney,No,,No,,Male,<18,us,Northeast
+5/16/2018 15:28:18,Yanney,No,,No,,Male,18-25,glorious yurop,"Hawaii, Alaska or other territory"
+5/16/2018 15:29:30,Laurel,Yes,44,Yes,42,Male,30-35,,Southeast
+5/16/2018 15:29:32,Yanney,No,,No,,Male,18-25,United States,Northeast
+5/16/2018 15:30:58,Laurel,Yes,40,Yes,52,Male,18-25,,West
+5/16/2018 15:31:00,Laurel,Yes,40,Yes,40,Male,40-45,Montana,West
+5/16/2018 15:34:13,Laurel,No,,No,,Female,40-45,Michigan,Southwest
+5/16/2018 15:34:48,Yanney,Yes,56,Yes,32,Male,18-25,sweden,
+5/16/2018 15:34:58,Yanney,No,,No,,Male,<18,"Mississauga, Ontario, Canada",
+5/16/2018 15:35:31,Yanney,Yes,50,No,,Male,25-30,,
+5/16/2018 15:36:12,Laurel,Yes,48,Yes,36,Male,25-30,Brazil,
+5/16/2018 15:36:43,Laurel,Yes,40,Yes,46,Male,25-30,"Watsonville, CA",West
+5/16/2018 15:36:45,Laurel,No,46,Yes,56,Male,25-30,Alabama,Southeast
+5/16/2018 15:40:32,Yanney,Yes,54,No,,Male,30-35,USA,Southeast
+5/16/2018 15:40:46,Laurel,Yes,44,,36,Male,18-25,Canada,
+5/16/2018 15:41:01,Yanney,Yes,38,Yes,48,Male,,,
+5/16/2018 15:43:56,Laurel,Yes,46,No,36,Male,30-35,,
+5/16/2018 15:47:55,Laurel,Yes,42,Yes,38,Male,30-35,satx,Southwest
+5/16/2018 15:48:29,Laurel,Yes,30,Yes,50,Male,30-35,,Midwest
+5/16/2018 15:48:32,Laurel,No,30,Yes,50,Gender-fluid/Non-binary/Other,<18,uk,
+5/16/2018 15:50:34,Laurel,Yes,40,Yes,46,Male,25-30,Los Angeles,West
+5/16/2018 15:50:44,Laurel,Yes,48,Yes,40,Male,30-35,Boston,Northeast
+5/16/2018 15:51:42,Laurel,No,,No,,Male,<18,,Midwest
+5/16/2018 15:52:03,Yanney,No,,No,,Male,18-25,"New Jersey, U.S.A",Northeast
+5/16/2018 15:57:21,Yanney,Yes,48,Yes,46,Male,18-25,canada,
+5/16/2018 16:02:53,Laurel,Yes,30,Yes,38,Male,50-55,California,West
+5/16/2018 16:04:22,,,,,,,,,
+5/16/2018 16:09:29,Yanney,Yes,62,Yes,46,Female,30-35,NYC ,Northeast
+5/16/2018 16:10:07,Laurel,Yes,48,Yes,42,Male,18-25,UK,
+5/16/2018 16:10:30,Yanney,No,,No,,Male,18-25,uk,
+5/16/2018 16:17:32,Yanney,No,,Yes,48,Male,18-25,,Northeast
+5/16/2018 16:18:29,Laurel,Yes,50,Yes,32,Male,18-25,"Atlanta, GA",Southeast
+5/16/2018 16:19:13,Laurel,No,48,Yes,34,Male,18-25,Minnesota,Midwest
+5/16/2018 16:20:37,Laurel,Yes,30,Yes,44,Male,18-25,Honduras,Southwest
+5/16/2018 16:20:48,Laurel,Yes,32,Yes,40,Male,18-25,Texas,Southwest
+5/16/2018 16:24:46,Laurel,Yes,,Yes,48,Male,<18,Indiana,Northeast
+5/16/2018 16:24:55,Yanney,No,,No,,Female,25-30,,
+5/16/2018 16:26:33,Laurel,Yes,46,Yes,44,Male,18-25,,Southeast
+5/16/2018 16:27:44,Yanney,No,,No,,Male,25-30,Toronto,
+5/16/2018 16:28:17,Laurel,Yes,32,Yes,38,Male,35-40,,West
+5/16/2018 16:29:14,Laurel,Yes,,Yes,,Male,<18,United States ,Northeast
+5/16/2018 16:32:32,Yanney,No,,No,,Male,,Aus,
+5/16/2018 16:34:14,Laurel,Yes,46,,44,Male,25-30,Canada,
+5/16/2018 16:37:05,Laurel,No,,No,,Male,18-25,Nj,Northeast
+5/16/2018 16:37:41,Laurel,Yes,30,Yes,34,Male,25-30,Canada,
+5/16/2018 16:43:19,Laurel,Yes,38,Yes,,Female,35-40,Texas,Midwest
+5/16/2018 16:43:51,Laurel,Yes,40,Yes,40,Male,45-50,US,Northeast
+5/16/2018 16:45:03,Laurel,Yes,36,Yes,38,Male,25-30,Scotland,Northeast
+5/16/2018 16:46:23,Yanney,No,,No,,Male,35-40,,Southeast
+5/16/2018 16:47:03,Yanney,Yes,44,Yes,58,Female,25-30,Memphis,Southeast
+5/16/2018 16:47:35,Yanney,No,,No,,Female,40-45,,Midwest
+5/16/2018 16:47:45,Yanney,No,,No,,Female,40-45,,Midwest
+5/16/2018 16:48:01,,,,,,,,,
+5/16/2018 16:49:21,Yanney,No,,No,,Male,18-25,United States,Northeast
+5/16/2018 16:52:08,Laurel,No,50,Yes,40,Male,25-30,canada,
+5/16/2018 16:52:29,Laurel,Yes,40,,60,Male,18-25,"Canada, Would like to add that I noticed two turning points in video",
+5/16/2018 16:57:27,Yanney,Yes,38,Yes,32,Male,25-30,,West
+5/16/2018 17:06:20,Yanney,Yes,66,Yes,34,Female,30-35,Canada,
+5/16/2018 17:08:13,Laurel,Yes,30,Yes,66,Male,18-25,Miami,Southeast
+5/16/2018 17:17:40,Laurel,No,58,Yes,36,Male,25-30,NC,Southeast
+5/16/2018 17:19:51,Yanney,No,,Yes,62,Male,30-35,,Southeast
+5/16/2018 17:26:46,Yanney,No,30,No,,Gender-fluid/Non-binary/Other,<18,Canada,Northeast
+5/16/2018 17:28:19,Laurel,No,,No,,Female,,,Southeast
+5/16/2018 17:29:27,Yanney,No,,Yes,40,Female,25-30,California,West
+5/16/2018 17:31:58,Laurel,Yes,50,Yes,40,Male,25-30,Nh ,West
+5/16/2018 17:32:14,Laurel,Yes,60,Yes,38,Female,18-25,US,Southwest
+5/16/2018 17:33:24,Yanney,Yes,64,Yes,50,Female,25-30,USA,Northeast
+5/16/2018 17:37:26,Laurel,Yes,64,Yes,42,Gender-fluid/Non-binary/Other,25-30,Canada,
+5/16/2018 17:37:52,Laurel,Yes,38,Yes,34,Male,25-30,United States,Northeast
+5/16/2018 17:38:10,Yanney,No,,No,,Male,25-30,,Northeast
+5/16/2018 17:38:21,Laurel,Yes,38,Yes,36,Female,25-30,,Northeast
+5/16/2018 17:47:26,Laurel,Yes,40,Yes,38,Male,18-25,,Northeast
+5/16/2018 17:52:21,Laurel,Yes,30,Yes,36,Male,<18,,
+5/16/2018 17:53:11,Yanney,No,66,Yes,66,Male,30-35,,
+5/16/2018 17:53:18,Yanney,Yes,44,Yes,44,Female,45-50,Pittsburgh,Northeast
+5/16/2018 17:53:20,Laurel,Yes,30,Yes,40,Female,25-30,"Wales, UK",
+5/16/2018 17:55:15,Laurel,Yes,64,Yes,58,Male,30-35,,Southwest
+5/16/2018 17:57:31,Yanney,No,,No,,Male,25-30,Central Oregon,West
+5/16/2018 18:01:10,Yanney,No,,No,,Male,18-25,US,Southeast
+5/16/2018 18:03:02,Laurel,No,,,,Male,25-30,,Southeast
+5/16/2018 18:06:09,Yanney,No,,Yes,46,Female,30-35,Australia,
+5/16/2018 18:11:34,Laurel,Yes,46,Yes,42,Female,Prefer not to say,,
+5/16/2018 18:16:10,,No,,No,,Male,50-55,"san jose , ca",West
+5/16/2018 18:17:54,Laurel,Yes,,Yes,,Male,,,
+5/16/2018 18:18:12,Yanney,No,,No,,Female,35-40,US,Southeast
+5/16/2018 18:20:43,Laurel,Yes,,Yes,34,Female,18-25,Netherlands,
+5/16/2018 18:27:12,Yanney,No,66,No,48,Female,25-30,California,Southwest
+5/16/2018 18:27:28,Laurel,Yes,54,Yes,54,Female,18-25,Canada,
+5/16/2018 18:27:32,Yanney,Yes,46,Yes,40,Male,18-25,India,Southwest
+5/16/2018 18:30:19,Laurel,Yes,30,Yes,48,Female,25-30,Canada,
+5/16/2018 18:35:22,Laurel,Yes,48,Yes,40,Female,25-30,Ct,Northeast
+5/16/2018 18:36:34,Yanney,Yes,38,No,,Male,18-25,,Northeast
+5/16/2018 18:39:55,Yanney,Yes,46,Yes,62,Male,Prefer not to say,,Northeast
+5/16/2018 18:40:29,Laurel,Yes,44,Yes,40,Gender-fluid/Non-binary/Other,25-30,California,West
+5/16/2018 18:41:23,Laurel,Yes,34,Yes,42,Male,>60,Indiana,Midwest
+5/16/2018 18:43:46,Laurel,No,,No,,Male,25-30,,Midwest
+5/16/2018 18:46:30,Yanney,No,30,Yes,,Male,25-30,Canada,
+5/16/2018 18:47:56,Laurel,No,,Yes,36,Male,30-35,US,Northeast
+5/16/2018 18:48:05,Yanney,Yes,54,Yes,34,Male,18-25,,Southeast
+5/16/2018 18:51:26,Laurel,Yes,58,Yes,34,Male,<18,United States,Southeast
+5/16/2018 18:51:42,Laurel,No,,,38,Male,18-25,Sweden,
+5/16/2018 18:59:01,Laurel,Yes,48,Yes,52,Female,25-30,CA,West
+5/16/2018 19:02:41,Yanney,Yes,46,Yes,36,Male,18-25,Brazil,
+5/16/2018 19:04:30,Laurel,Yes,30,Yes,40,Male,25-30,AMERICA!!!!!!,West
+5/16/2018 19:04:59,,,,,,,,,
+5/16/2018 19:07:50,Laurel,No,40,Yes,38,Female,25-30,"Long Island, NY",Northeast
+5/16/2018 19:08:36,Yanney,Yes,50,Yes,46,Male,Prefer not to say,Saudi Arabia,
+5/16/2018 19:12:39,Laurel,Yes,50,Yes,,Male,<18,Saudi Arabia,"Hawaii, Alaska or other territory"
+5/16/2018 19:13:10,Laurel,Yes,32,Yes,32,Male,30-35,USA,Midwest
+5/16/2018 19:13:11,Yanney,Yes,40,Yes,36,Male,<18,Saudi Arabia,Northeast
+5/16/2018 19:22:15,Laurel,Yes,44,Yes,44,Male,25-30,Massachusetts,Northeast
+5/16/2018 19:26:32,Laurel,Yes,,Yes,,Female,25-30,Mississippi ,West
+5/16/2018 19:28:18,Laurel,No,30,Yes,38,Male,18-25,uk,
+5/16/2018 19:31:52,Laurel,No,,Yes,42,Female,40-45,,Northeast
+5/16/2018 19:36:42,,,,,,,,,
+5/16/2018 19:39:31,Yanney,Yes,40,Yes,60,Male,<18,massachusetts ,Northeast
+5/16/2018 19:41:23,Laurel,No,,No,,Male,30-35,Iowa ,Midwest
+5/16/2018 19:41:50,Yanney,Yes,56,Yes,42,Female,35-40,US,Southeast
+5/16/2018 19:44:05,Laurel,No,46,Yes,42,Female,45-50,Minnesota,Southwest
+5/16/2018 19:46:02,Yanney,Yes,52,Yes,46,Male,30-35,Detroit area,Midwest
+5/16/2018 19:47:22,Yanney,Yes,56,Yes,48,Male,25-30,,Southeast
+5/16/2018 19:51:16,Yanney,Yes,42,Yes,44,Female,25-30,"Rochester, Ny",Northeast
+5/16/2018 19:51:21,Laurel,Yes,46,Yes,48,Male,18-25,United States,Northeast
+5/16/2018 19:53:28,Yanney,No,42,Yes,52,Male,25-30,NJ,Northeast
+5/16/2018 19:53:46,Laurel,Yes,38,Yes,42,Male,25-30,California,West
+5/16/2018 19:54:00,Yanney,No,,Yes,56,Male,18-25,US,West
+5/16/2018 19:55:56,Yanney,No,,No,,Male,18-25,Norway,
+5/16/2018 19:57:16,Laurel,Yes,66,Yes,34,Male,30-35,Canada,
+5/16/2018 19:57:42,Laurel,No,44,Yes,38,Male,18-25,Murica,Midwest
+5/16/2018 20:07:14,Yanney,No,54,No,44,Female,18-25,"Sydney, Australia",
+5/16/2018 20:09:29,Yanney,Yes,62,No,,Female,18-25,Australia,
+5/16/2018 20:15:16,Laurel,No,,No,,Male,18-25,CAYNADA,
+5/16/2018 20:15:17,,,,,,,,,
+5/16/2018 20:16:52,,,,,,,,,
+5/16/2018 20:21:25,Laurel,Yes,30,Yes,42,Female,30-35,Texas,Southwest
+5/16/2018 20:25:11,Yanney,Yes,46,Yes,46,Male,18-25,,Northeast
+5/16/2018 20:25:49,Laurel,Yes,36,Yes,50,Female,35-40,United States ,Southeast
+5/16/2018 20:26:48,Laurel,Yes,38,Yes,42,Male,18-25,USA,Southeast
+5/16/2018 20:31:39,Laurel,No,36,Yes,,Male,,,
+5/16/2018 20:32:46,Laurel,Yes,46,Yes,36,Male,30-35,Chicago,Midwest
+5/16/2018 20:32:49,Laurel,Yes,46,Yes,42,Male,25-30,"South-east England, moved to US aged 24",Midwest
+5/16/2018 20:33:18,Yanney,No,,No,,Female,45-50,Singapore,
+5/16/2018 20:35:53,Laurel,Yes,60,Yes,50,Male,18-25,California,West
+5/16/2018 20:38:27,Yanney,No,52,Yes,52,Male,18-25,"Spokane, WA",West
+5/16/2018 20:41:46,Laurel,No,,Yes,40,Female,25-30,,Southwest
+5/16/2018 20:44:44,Yanney,Yes,66,No,,Female,18-25,Alabama,Southeast
+5/16/2018 20:52:10,Yanney,No,,,,,,,
+5/16/2018 20:52:14,Laurel,Yes,52,Yes,44,Female,<18,"Columbus, OH.",Northeast
+5/16/2018 21:11:46,Yanney,Yes,46,Yes,52,Male,25-30,,
+5/16/2018 21:15:16,Laurel,No,,No,,Male,<18,USA,Northeast
+5/16/2018 21:18:56,Laurel,No,,Yes,40,Male,25-30,Australia,
+5/16/2018 21:19:05,Yanney,Yes,62,,36,Female,30-35,USA,Southeast
+5/16/2018 21:25:32,Laurel,Yes,32,Yes,42,Female,18-25,"Colorado, USA",Midwest
+5/16/2018 21:26:06,Yanney,No,,No,,Female,18-25,"Canada, Ontario",
+5/16/2018 21:29:57,Laurel,Yes,30,Yes,40,Male,18-25,USA,Midwest
+5/16/2018 21:31:33,Laurel,Yes,40,Yes,36,Male,35-40,,Northeast
+5/16/2018 21:33:32,,,,,,,,,
+5/16/2018 21:36:14,Yanney,No,,No,,Male,18-25,canada,
+5/16/2018 21:39:36,Yanney,Yes,64,Yes,50,Male,25-30,,
+5/16/2018 22:03:40,Yanney,Yes,66,Yes,38,Male,18-25,USA,West
+5/16/2018 22:04:37,Laurel,Yes,40,No,,Male,18-25,,
+5/16/2018 22:07:02,Laurel,Yes,30,Yes,56,Female,,,Southeast
+5/16/2018 22:09:33,Yanney,Yes,44,Yes,40,Female,40-45,,Northeast
+5/16/2018 22:10:22,Laurel,Yes,30,Yes,42,Male,18-25,Canada,
+5/16/2018 22:18:10,Yanney,No,50,No,,Male,18-25,California,West
+5/16/2018 22:20:36,Yanney,No,,No,,Female,35-40,,
+5/16/2018 22:27:55,Laurel,No,32,Yes,32,Male,30-35,,West
+5/16/2018 22:28:43,Laurel,Yes,44,Yes,50,Male,25-30,US,Southwest
+5/16/2018 22:32:41,Laurel,Yes,44,Yes,44,Male,18-25,,West
+5/16/2018 22:37:42,Yanney,No,,,48,,,,
+5/16/2018 22:37:50,Yanney,Yes,64,Yes,42,Male,<18,California ,Southeast
+5/16/2018 22:39:26,Laurel,No,50,Yes,42,Male,45-50,US,West
+5/16/2018 22:42:11,Laurel,Yes,44,Yes,44,Male,18-25,"Michigan, USA",Midwest
+5/16/2018 22:43:36,Laurel,Yes,38,No,48,Male,18-25,Wisco,Midwest
+5/16/2018 22:45:04,Yanney,No,,No,,Female,30-35,,Southwest
+5/16/2018 22:58:52,Laurel,Yes,42,Yes,42,Male,<18,Latvia,
+5/16/2018 23:04:08,Yanney,Yes,60,Yes,50,Female,<18,UK,
+5/16/2018 23:12:02,Yanney,Yes,44,No,32,Male,<18,California,West
+5/16/2018 23:17:20,Laurel,Yes,,No,,Female,,,
+5/16/2018 23:24:24,Yanney,No,,No,,Male,18-25,PL,
+5/16/2018 23:26:50,Yanney,Yes,66,No,,Female,45-50,California,West
+5/16/2018 23:31:45,Laurel,Yes,46,Yes,42,Male,18-25,Netherlands,
+5/16/2018 23:32:32,Yanney,Yes,,Yes,,Male,,,
+5/16/2018 23:34:42,Laurel,Yes,42,Yes,38,Female,18-25,Illinois,Midwest
+5/16/2018 23:40:40,Laurel,Yes,46,Yes,38,Male,25-30,,
+5/16/2018 23:41:03,Laurel,Yes,,Yes,,Female,18-25,sydney australia ,
+5/16/2018 23:42:02,Laurel,Yes,,,,Female,18-25,Australia ,
+5/16/2018 23:42:26,Laurel,No,,Yes,40,Male,25-30,Netherlands,
+5/16/2018 23:55:09,Laurel,Yes,64,Yes,54,Female,30-35,"Colorado, USA",Midwest
+5/16/2018 23:56:10,Yanney,No,,No,,Male,18-25,,Northeast
+5/17/2018 0:01:03,Yanney,Yes,52,Yes,50,Female,18-25,UK,
+5/17/2018 0:19:46,Laurel,No,,No,,Male,25-30,California,West
+5/17/2018 0:23:26,Yanney,No,,No,,Male,18-25,England,
+5/17/2018 0:44:14,Yanney,No,,No,,Female,18-25,,Midwest
+5/17/2018 0:50:47,Laurel,Yes,44,Yes,42,Male,18-25,United states of America,Northeast
+5/17/2018 0:51:33,Yanney,Yes,52,Yes,50,Male,35-40,Australia,
+5/17/2018 1:05:18,Laurel,Yes,50,Yes,56,Male,18-25,India,
+5/17/2018 1:58:12,Yanney,Yes,52,Yes,50,Female,25-30,"London, UK",
+5/17/2018 1:58:37,,,,,,,,,
+5/17/2018 2:01:53,Laurel,Yes,30,Yes,38,Male,30-35,WI,Midwest
+5/17/2018 2:09:02,Yanney,Yes,36,No,,Male,18-25,Bulgaria,
+5/17/2018 2:34:50,,,,,,,,,
+5/17/2018 2:38:36,Laurel,No,38,Yes,40,Male,30-35,,
+5/17/2018 2:38:42,Yanney,Yes,46,Yes,44,Male,18-25,Australia,
+5/17/2018 2:38:56,Yanney,Yes,30,No,,Male,25-30,australia,
+5/17/2018 2:53:13,Laurel,No,50,Yes,38,Male,<18,us,Midwest
+5/17/2018 2:58:47,Laurel,Yes,32,No,,Male,18-25,,
+5/17/2018 3:03:25,Laurel,Yes,48,Yes,42,Male,18-25,Liverpool,
+5/17/2018 3:14:06,Yanney,Yes,42,Yes,52,Male,18-25,Italy,
+5/17/2018 3:16:16,Laurel,Yes,58,Yes,56,Male,18-25,USA,West
+5/17/2018 3:19:39,Laurel,No,44,Yes,46,Male,35-40,UK,
+5/17/2018 3:22:38,Yanney,No,,No,,Male,25-30,Germany,
+5/17/2018 3:27:52,Laurel,Yes,,Yes,,Female,18-25,sydney australia ,
+5/17/2018 3:50:57,Yanney,Yes,52,Yes,46,,,,
+5/17/2018 3:53:10,Yanney,Yes,,Yes,,Female,<18,Michigan ,Midwest
+5/17/2018 3:59:04,Yanney,Yes,66,Yes,34,Male,25-30,,Southeast
+5/17/2018 4:06:43,Yanney,No,,No,,Male,18-25,England,
+5/17/2018 4:07:20,Yanney,Yes,46,Yes,52,Male,25-30,UK,
+5/17/2018 4:14:01,Yanney,No,,No,,Male,18-25,Boston,Southwest
+5/17/2018 4:41:07,Laurel,Yes,42,Yes,42,Male,<18,Hungary,
+5/17/2018 4:41:44,Yanney,Yes,46,No,,Male,<18,United states,Northeast
+5/17/2018 4:49:25,Laurel,Yes,46,Yes,40,Male,30-35,Spain,
+5/17/2018 4:50:25,Laurel,Yes,32,Yes,44,Male,18-25,England,
+5/17/2018 4:57:16,Yanney,No,,No,,Female,35-40,Europe,
+5/17/2018 5:04:15,Yanney,No,,No,,Male,18-25,,
+5/17/2018 5:05:15,Laurel,Yes,44,Yes,40,Male,18-25,Australia,
+5/17/2018 5:09:40,Yanney,No,,No,,Male,25-30,,Midwest
+5/17/2018 5:12:34,Laurel,Yes,38,Yes,52,Female,,,
+5/17/2018 5:18:21,Laurel,No,48,,,,,,
+5/17/2018 5:20:21,Laurel,No,,Yes,32,Male,25-30,Argentina,
+5/17/2018 6:05:27,Yanney,Yes,60,Yes,56,Male,18-25,India,
+5/17/2018 6:16:37,Laurel,Yes,,,,,,,
+5/17/2018 6:16:44,Laurel,Yes,32,No,,Male,30-35,,"Hawaii, Alaska or other territory"
+5/17/2018 6:44:33,Laurel,Yes,32,Yes,60,Female,30-35,Uk,
+5/17/2018 6:49:04,Yanney,No,,No,,Male,35-40,Usa,Southeast
+5/17/2018 7:07:50,Yanney,No,,Yes,66,Female,25-30,Brooklyn,Northeast
+5/17/2018 7:17:14,Laurel,No,44,Yes,52,Male,25-30,Arizona,Southwest
+5/17/2018 7:20:39,Yanney,No,,No,,Male,18-25,toronto,
+5/17/2018 7:31:27,Yanney,No,,No,,Male,30-35,Germany,
+5/17/2018 7:37:51,Yanney,No,,Yes,44,Female,18-25,"Detroit, MI",Midwest
+5/17/2018 7:41:47,Yanney,Yes,42,No,,,,,
+5/17/2018 7:50:36,Laurel,Yes,44,Yes,32,Male,25-30,england,
+5/17/2018 7:58:10,Laurel,No,,Yes,40,Female,18-25,North Carolina,Northeast
+5/17/2018 7:58:20,Yanney,Yes,60,No,38,Male,30-35,,Midwest
+5/17/2018 7:59:48,Laurel,Yes,40,Yes,34,Male,18-25,Austria,
+5/17/2018 8:04:22,Yanney,No,,Yes,50,Male,25-30,Costa Rica,
+5/17/2018 8:11:25,Yanney,Yes,66,Yes,54,Female,25-30,Costa Rica,
+5/17/2018 8:15:17,Laurel,Yes,46,Yes,34,Male,30-35,Costa Rica,
+5/17/2018 8:27:08,Yanney,No,,No,,Female,30-35,,Southeast
+5/17/2018 8:27:17,Laurel,Yes,38,Yes,58,Male,18-25,,
+5/17/2018 8:32:48,Yanney,No,,No,,Female,18-25,Wisconsin,Midwest
+5/17/2018 8:37:24,Laurel,Yes,40,Yes,32,Male,18-25,Sweden,
+5/17/2018 8:44:06,Laurel,Yes,30,Yes,44,Male,25-30,Colorado,West
+5/17/2018 8:54:34,Laurel,Yes,46,Yes,52,Female,18-25,Michigan,Northeast
+5/17/2018 8:54:38,Laurel,Yes,40,Yes,36,Female,40-45,Michigan,Midwest
+5/17/2018 9:01:15,Laurel,Yes,48,Yes,34,Female,35-40,,Southeast
+5/17/2018 9:02:08,Yanney,No,,No,,Female,30-35,,Southeast
+5/17/2018 9:13:03,Laurel,Yes,40,Yes,40,Male,35-40,Canada,
+5/17/2018 9:15:29,Laurel,Yes,46,Yes,38,Male,18-25,United Kingdom,Southwest
+5/17/2018 9:23:08,Yanney,Yes,54,Yes,46,Female,30-35,Florida,Southeast
+5/17/2018 9:25:56,Laurel,Yes,30,Yes,66,Male,18-25,Usa,Midwest
+5/17/2018 9:38:41,Laurel,Yes,42,Yes,40,Male,35-40,,Southwest
+5/17/2018 9:40:59,Laurel,Yes,30,Yes,34,Female,<18,UK,
+5/17/2018 9:56:25,Laurel,Yes,38,Yes,38,Male,35-40,,Southeast
+5/17/2018 9:56:48,Laurel,Yes,40,Yes,46,Male,25-30,Netherlands,
+5/17/2018 9:59:49,Yanney,No,,No,,Male,30-35,,
+5/17/2018 10:05:52,Laurel,Yes,40,Yes,36,Male,35-40,California,Southwest
+5/17/2018 10:06:17,Yanney,Yes,48,Yes,54,Male,35-40,New Jersey,Northeast
+5/17/2018 10:09:59,Yanney,Yes,60,Yes,40,Female,18-25,Italy,
+5/17/2018 10:11:57,Yanney,No,64,No,42,Female,18-25,Italy,
+5/17/2018 10:12:16,Laurel,No,,Yes,36,Male,25-30,,
+5/17/2018 10:13:43,Laurel,Yes,30,Yes,54,Female,25-30,USA,West
+5/17/2018 10:16:46,Laurel,No,,,,,,,
+5/17/2018 10:26:53,Yanney,Yes,44,Yes,44,Male,18-25,,
+5/17/2018 10:44:18,Yanney,Yes,58,Yes,58,Female,25-30,Italy,
+5/17/2018 10:49:08,Yanney,No,,Yes,48,Male,35-40,,
+5/17/2018 10:50:23,Yanney,Yes,30,Yes,46,Female,25-30,,Southeast
+5/17/2018 10:51:08,Yanney,Yes,,,,,,,
+5/17/2018 10:52:34,Laurel,Yes,30,Yes,50,Male,18-25,Australia,
+5/17/2018 10:57:57,Laurel,Yes,,Yes,,Male,55-60,,Northeast
+5/17/2018 10:58:12,Yanney,Yes,62,Yes,38,Female,25-30,Italt,
+5/17/2018 10:58:43,Yanney,No,,No,,Male,30-35,USA,Southeast
+5/17/2018 10:58:49,Yanney,Yes,48,Yes,48,Male,35-40,Spain,
+5/17/2018 11:01:13,Laurel,Yes,40,Yes,40,Male,<18,UK,
+5/17/2018 11:07:47,Laurel,Yes,46,Yes,40,Male,30-35,,
+5/17/2018 11:09:04,Yanney,Yes,56,Yes,46,Male,18-25,US,Southwest
+5/17/2018 11:12:06,Laurel,Yes,40,No,44,Male,18-25,,Southwest
+5/17/2018 11:13:12,Laurel,Yes,38,Yes,38,Male,18-25,US,Northeast
+5/17/2018 11:15:44,Yanney,No,,No,,Female,18-25,Turkey,
+5/17/2018 11:18:28,Laurel,Yes,42,Yes,40,Female,25-30,Europe,
+5/17/2018 11:20:38,Yanney,No,,No,,Female,30-35,US,Southeast
+5/17/2018 11:22:47,Laurel,Yes,,,,Female,50-55,CA,West
+5/17/2018 11:26:20,Laurel,Yes,44,Yes,42,Male,18-25,Usa,Southeast
+5/17/2018 11:29:07,Laurel,No,50,No,44,Male,18-25,Utah,West
+5/17/2018 11:31:08,Laurel,Yes,30,Yes,38,Male,30-35,,Midwest
+5/17/2018 11:33:54,Yanney,No,,No,,Male,25-30,US,Southeast
+5/17/2018 11:36:07,Laurel,No,46,Yes,36,Male,25-30,USA,Southeast
+5/17/2018 11:41:33,Yanney,No,,Yes,44,Male,18-25,USA,Northeast
+5/17/2018 11:43:56,Laurel,Yes,30,Yes,40,Female,18-25,,
+5/17/2018 11:46:10,Laurel,Yes,44,Yes,44,Female,18-25,,Southeast
+5/17/2018 11:47:35,Laurel,No,,No,,Male,40-45,,West
+5/17/2018 11:50:01,Yanney,Yes,48,Yes,46,Male,30-35,Germany,
+5/17/2018 11:50:59,Yanney,Yes,58,Yes,50,Male,25-30,Chicago,Midwest
+5/17/2018 11:56:41,Laurel,Yes,50,Yes,38,Male,18-25,Canada,
+5/17/2018 12:00:21,Laurel,Yes,44,Yes,42,Male,30-35,Canada,
+5/17/2018 12:05:04,Laurel,Yes,44,Yes,42,Female,35-40,Canada,
+5/17/2018 12:09:04,Laurel,Yes,42,Yes,44,Male,18-25,,
+5/17/2018 12:09:07,Laurel,Yes,36,No,36,Male,18-25,Canada,
+5/17/2018 12:12:27,Laurel,Yes,32,Yes,,,,,
+5/17/2018 12:14:02,Laurel,Yes,42,Yes,40,Male,30-35,France,
+5/17/2018 12:27:46,Laurel,Yes,50,Yes,40,Male,25-30,us,Northeast
+5/17/2018 12:31:33,Laurel,No,,Yes,32,Male,25-30,US,Southwest
+5/17/2018 12:33:01,Laurel,Yes,30,,,Male,25-30,,"Hawaii, Alaska or other territory"
+5/17/2018 12:33:04,Yanney,No,,,,,,,
+5/17/2018 12:37:49,Yanney,No,,Yes,38,Male,18-25,Canada,
+5/17/2018 12:42:03,Yanney,Yes,64,Yes,38,Male,25-30,,Northeast
+5/17/2018 12:43:22,Yanney,No,,No,,Male,45-50,Beloit,Midwest
+5/17/2018 12:46:26,Laurel,No,,No,,Male,25-30,Sacramento,West
+5/17/2018 12:49:21,Laurel,Yes,44,Yes,40,Female,30-35,United States,Southeast
+5/17/2018 12:52:55,Laurel,,,,,,,,
+5/17/2018 12:53:02,Laurel,,,,,,,,
+5/17/2018 12:53:23,Laurel,Yes,42,Yes,42,Male,18-25,UK,
+5/17/2018 13:05:38,,,,,,,,,
+5/17/2018 13:06:03,Yanney,Yes,50,Yes,50,Male,35-40,US,Northeast
+5/17/2018 13:08:43,Laurel,Yes,46,Yes,44,Male,18-25,United Kingdom,
+5/17/2018 13:10:17,Laurel,Yes,50,Yes,36,Male,18-25,California,West
+5/17/2018 13:11:08,Yanney,Yes,60,No,54,Female,18-25,Earth,West
+5/17/2018 13:12:17,Laurel,Yes,42,Yes,42,Male,18-25,United Kingdom,
+5/17/2018 13:12:54,,,,,,,,,
+5/17/2018 13:16:16,Laurel,Yes,30,No,,Male,18-25,Ohio,Northeast
+5/17/2018 13:17:10,Yanney,No,60,Yes,32,Male,18-25,Canada,
+5/17/2018 13:18:43,Laurel,Yes,30,Yes,56,Male,18-25,UK,
+5/17/2018 13:23:00,Laurel,Yes,40,Yes,40,Male,18-25,UK,
+5/17/2018 13:24:17,Laurel,Yes,46,Yes,38,Male,40-45,,West
+5/17/2018 13:26:18,Laurel,Yes,56,Yes,52,Male,25-30,,Midwest
+5/17/2018 13:28:22,Laurel,Yes,44,Yes,40,Male,40-45,Sweden,
+5/17/2018 13:30:55,Yanney,Yes,46,Yes,36,Male,30-35,Denmark,
+5/17/2018 13:35:06,Laurel,No,38,No,38,Female,18-25,Ohio,Northeast
+5/17/2018 13:39:44,Yanney,Yes,50,Yes,54,Female,30-35,Norway,
+5/17/2018 13:45:15,Yanney,Yes,66,No,,Female,18-25,Florida,Southeast
+5/17/2018 14:02:13,Laurel,No,,Yes,32,Female,18-25,United Kingdom,
+5/17/2018 14:04:09,Laurel,Yes,46,Yes,38,Female,18-25,Netherlands,
+5/17/2018 14:06:37,Laurel,No,66,No,66,Male,<18,Australia,
+5/17/2018 14:07:25,Laurel,Yes,40,Yes,40,Male,18-25,Germany,
+5/17/2018 14:12:57,Yanney,No,,No,,Female,18-25,Vietnam,
+5/17/2018 14:14:31,,,,,,,,,
+5/17/2018 14:14:38,Laurel,No,,Yes,32,Male,30-35,CA,West
+5/17/2018 14:15:34,Laurel,Yes,44,Yes,38,Male,25-30,USA,Midwest
+5/17/2018 14:18:10,Yanney,Yes,66,Yes,66,Male,<18,United States,Midwest
+5/17/2018 14:19:02,Laurel,Yes,36,Yes,36,Male,25-30,Us,West
+5/17/2018 14:19:27,Laurel,Yes,30,Yes,40,Male,30-35,Italy,
+5/17/2018 14:24:48,Yanney,No,,No,,Male,18-25,norway,
+5/17/2018 14:30:48,Laurel,Yes,,No,44,,,,
+5/17/2018 14:33:25,Yanney,Yes,40,Yes,34,Male,25-30,USA,Southeast
+5/17/2018 14:34:59,Laurel,Yes,42,Yes,32,Female,18-25,,Southeast
+5/17/2018 14:53:15,Yanney,No,,No,,Male,<18,,West
+5/17/2018 15:02:04,Laurel,No,,No,,Male,25-30,United States,West
+5/17/2018 15:02:36,Laurel,No,,No,,Male,30-35,,
+5/17/2018 15:13:17,Laurel,Yes,,Yes,,Male,30-35,US,Northeast
+5/17/2018 15:15:36,Yanney,Yes,44,No,,Female,25-30,USA,West
+5/17/2018 15:16:49,Yanney,No,,Yes,58,Female,25-30,Uk,"Hawaii, Alaska or other territory"
+5/17/2018 15:20:29,Laurel,Yes,48,Yes,36,Male,18-25,US,West
+5/17/2018 15:21:58,Laurel,Yes,30,Yes,34,Male,25-30,,
+5/17/2018 15:36:58,Yanney,No,,No,,Female,30-35,,Northeast
+5/17/2018 15:41:57,Yanney,No,,Yes,44,Male,30-35,,Northeast
+5/17/2018 15:46:54,Yanney,Yes,50,Yes,46,Male,35-40,Australia,
+5/17/2018 15:48:35,Yanney,No,,No,,Female,45-50,Texas,Midwest
+5/17/2018 15:49:47,Laurel,Yes,32,No,,Male,18-25,Cape Cod,Northeast
+5/17/2018 15:58:56,Laurel,Yes,40,Yes,40,Male,18-25,Italy,
+5/17/2018 15:59:37,Laurel,Yes,,Yes,,Male,>60,,West
+5/17/2018 16:02:21,Laurel,Yes,44,Yes,38,Male,30-35,Belgium,
+5/17/2018 16:03:06,Laurel,Yes,42,Yes,42,Male,18-25,Sweden,
+5/17/2018 16:12:17,Yanney,No,,No,,Male,25-30,United States,Midwest
+5/17/2018 16:15:45,Yanney,No,,No,,Female,30-35,,"Hawaii, Alaska or other territory"
+5/17/2018 16:21:27,Yanney,Yes,46,Yes,44,Male,18-25,Portugal,
+5/17/2018 16:26:21,Yanney,No,,No,,Male,30-35,,West
+5/17/2018 16:26:56,Laurel,Yes,42,No,,Male,30-35,,Northeast
+5/17/2018 16:40:49,Yanney,Yes,44,Yes,42,Male,<18,US,Southeast
+5/17/2018 16:49:17,Laurel,Yes,46,Yes,42,Male,30-35,Canada,
+5/17/2018 16:55:22,Yanney,Yes,46,Yes,64,Female,25-30,,
+5/17/2018 16:59:32,Laurel,No,,Yes,,Male,18-25,,
+5/17/2018 17:00:25,Laurel,Yes,44,Yes,36,Female,18-25,,Southwest
+5/17/2018 17:00:54,Laurel,No,,No,,Male,,Us,Northeast
+5/17/2018 17:01:24,Yanney,Yes,40,Yes,54,Gender-fluid/Non-binary/Other,18-25,,Southeast
+5/17/2018 17:02:34,Laurel,Yes,44,Yes,36,Female,18-25,,Southwest
+5/17/2018 17:04:34,Laurel,No,60,Yes,36,Male,18-25,UK,
+5/17/2018 17:04:56,,,,,,,,,
+5/17/2018 17:05:29,Yanney,Yes,,No,,Male,18-25,Sweden,
+5/17/2018 17:09:36,Yanney,Yes,56,No,,Female,<18,California,West
+5/17/2018 17:10:45,Laurel,Yes,,Yes,,Female,<18,Poland ,
+5/17/2018 17:17:09,Laurel,No,,Yes,38,Female,25-30,,Northeast
+5/17/2018 17:21:57,Laurel,No,,No,,Male,25-30,US,Midwest
+5/17/2018 17:24:35,Laurel,Yes,46,Yes,36,Male,35-40,US,Southeast
+5/17/2018 17:36:24,Laurel,No,,No,,Female,>60,,Southeast
+5/17/2018 17:37:12,Laurel,No,,Yes,40,Female,<18,US,Northeast
+5/17/2018 17:39:11,Yanney,No,,No,,Female,18-25,,Southwest
+5/17/2018 17:40:22,Yanney,No,,Yes,58,Male,25-30,,
+5/17/2018 17:42:36,Laurel,Yes,44,Yes,40,Male,18-25,Oklahoma,Midwest
+5/17/2018 17:46:37,Yanney,Yes,50,Yes,48,Female,18-25,United Kingdom ,
+5/17/2018 17:50:48,Laurel,Yes,40,Yes,38,Male,25-30,US,Midwest
+5/17/2018 17:52:32,Laurel,Yes,40,No,,Female,18-25,,Midwest
+5/17/2018 17:55:17,,,,,,,,,
+5/17/2018 17:56:42,Laurel,No,,Yes,42,Female,45-50,Florida,Southeast
+5/17/2018 17:57:02,Laurel,Yes,46,Yes,46,Male,25-30,United States,Southeast
+5/17/2018 18:03:09,Laurel,Yes,34,No,,Male,30-35,,
+5/17/2018 18:03:23,Laurel,Yes,30,Yes,42,Male,25-30,Niagara,
+5/17/2018 18:09:11,Laurel,Yes,50,No,,Male,18-25,USA,West
+5/17/2018 18:10:27,Laurel,Yes,30,Yes,38,Male,25-30,Chile,
+5/17/2018 18:12:21,Yanney,Yes,64,Yes,54,Female,25-30,,Southeast
+5/17/2018 18:14:59,Laurel,Yes,48,Yes,54,Male,18-25,Canada,
+5/17/2018 18:21:29,Yanney,Yes,50,Yes,46,,,,
+5/17/2018 18:23:05,Laurel,Yes,40,No,36,Male,18-25,Long Beach,West
+5/17/2018 18:23:22,Yanney,No,,Yes,66,Male,30-35,usa,Northeast
+5/17/2018 18:25:34,Yanney,Yes,60,Yes,66,Male,25-30,usa,Northeast
+5/17/2018 18:29:39,Laurel,Yes,30,Yes,40,Female,25-30,,Southeast
+5/17/2018 18:34:26,Yanney,No,,No,,Male,30-35,California,West
+5/17/2018 18:40:22,Yanney,Yes,,No,,Male,40-45,,
+5/17/2018 18:49:51,Yanney,Yes,56,No,,Male,18-25,Denver,Midwest
+5/17/2018 18:55:31,Laurel,Yes,50,Yes,40,Male,18-25,,West
+5/17/2018 18:56:19,Yanney,No,58,No,,Male,25-30,usa,Northeast
+5/17/2018 18:59:17,Laurel,Yes,50,No,,Male,35-40,,Northeast
+5/17/2018 18:59:52,Laurel,Yes,32,Yes,34,Female,30-35,,Northeast
+5/17/2018 19:01:53,Laurel,Yes,,,,Male,35-40,,
+5/17/2018 19:02:01,Laurel,Yes,32,Yes,42,Female,40-45,"Nova Scotia, Canada",
+5/17/2018 19:07:04,Laurel,Yes,42,Yes,34,Male,30-35,us,Southeast
+5/17/2018 19:10:15,Laurel,Yes,46,Yes,38,Male,25-30,"Chattanooga, tn",Southeast
+5/17/2018 19:10:58,Laurel,Yes,60,Yes,38,Male,30-35,,Midwest
+5/17/2018 19:11:05,Yanney,No,,Yes,52,Female,18-25,Texas,Midwest
+5/17/2018 19:16:36,Yanney,Yes,46,Yes,50,Male,18-25,US,Northeast
+5/17/2018 19:18:43,Yanney,Yes,42,Yes,48,Female,18-25,"Houston, TX",Southwest
+5/17/2018 19:19:28,Laurel,Yes,40,Yes,,Male,25-30,,Midwest
+5/17/2018 19:38:19,Yanney,No,32,No,50,Female,45-50,Singapore,West
+5/17/2018 19:43:01,Laurel,Yes,40,,36,Male,30-35,California,West
+5/17/2018 19:45:58,Laurel,Yes,30,Yes,42,Male,<18,Kentucky,Southeast
+5/17/2018 19:49:58,Yanney,No,,No,,Male,30-35,US,West
+5/17/2018 19:50:34,Laurel,Yes,48,Yes,36,Female,18-25,Usa,Northeast
+5/17/2018 19:51:37,Laurel,Yes,50,Yes,40,Male,18-25,US,Northeast
+5/17/2018 19:55:59,Laurel,No,34,Yes,32,Male,35-40,"ROANOKE, VA",Southeast
+5/17/2018 19:56:09,Laurel,Yes,30,Yes,40,Male,25-30,,Southwest
+5/17/2018 19:56:30,Yanney,No,,No,,Female,18-25,US,Midwest
+5/17/2018 19:57:32,Laurel,Yes,42,Yes,42,Male,<18,,
+5/17/2018 19:58:31,Laurel,Yes,44,Yes,44,Male,18-25,Us,Northeast
+5/17/2018 19:59:54,Laurel,No,30,Yes,60,Prefer not to say,Prefer not to say,Canada,
+5/17/2018 20:06:07,Laurel,Yes,40,Yes,36,Male,18-25,,Northeast
+5/17/2018 20:10:11,Laurel,Yes,34,Yes,34,Male,<18,US,Midwest
+5/17/2018 20:11:22,Laurel,Yes,42,Yes,40,Gender-fluid/Non-binary/Other,25-30,US,Southeast
+5/17/2018 20:12:36,Yanney,Yes,,No,,Male,18-25,Ukraine,
+5/17/2018 20:14:51,Yanney,Yes,,Yes,,Male,18-25,,Midwest
+5/17/2018 20:20:18,Laurel,Yes,50,Yes,38,Male,25-30,Canada,
+5/17/2018 20:20:38,Laurel,Yes,34,Yes,36,Male,18-25,Colorado,West
+5/17/2018 20:22:00,Laurel,Yes,50,Yes,36,Male,18-25,Canada,
+5/17/2018 20:22:31,Yanney,Yes,66,Yes,38,Female,25-30,Chicago Illinois,Midwest
+5/17/2018 20:28:31,Laurel,Yes,46,Yes,32,Male,30-35,,
+5/17/2018 20:32:53,Yanney,No,,Yes,66,Gender-fluid/Non-binary/Other,18-25,Georgia,Southeast
+5/17/2018 20:35:58,Laurel,No,,Yes,40,Male,25-30,US,Southeast
+5/17/2018 20:36:24,,,,,,,,,
+5/17/2018 20:40:26,Yanney,Yes,60,Yes,50,Female,18-25,Ga,Southeast
+5/17/2018 20:44:32,Laurel,Yes,46,Yes,44,Female,18-25,,West
+5/17/2018 20:47:48,Laurel,Yes,30,No,42,Male,18-25,Canada,
+5/17/2018 20:49:16,Laurel,Yes,30,Yes,42,Male,18-25,United States,Midwest
+5/17/2018 20:50:29,Laurel,Yes,40,Yes,40,Male,18-25,,West
+5/17/2018 20:55:54,Laurel,Yes,44,Yes,44,Male,30-35,,
+5/17/2018 20:56:15,Laurel,No,30,Yes,36,Male,,nj,Northeast
+5/17/2018 20:58:23,Laurel,No,,No,,Male,,,
+5/17/2018 21:03:14,Laurel,Yes,48,Yes,46,Male,18-25,"Tacoma, Washington",West
+5/17/2018 21:05:05,Laurel,Yes,56,Yes,42,Female,18-25,USA,Southeast
+5/17/2018 21:05:19,Laurel,Yes,56,Yes,42,Female,,,Southeast
+5/17/2018 21:05:30,Laurel,Yes,40,Yes,42,Male,35-40,The land of klepto,
+5/17/2018 21:06:19,Laurel,No,,Yes,54,Male,<18,Canada,
+5/17/2018 21:07:23,Laurel,Yes,42,Yes,40,Male,25-30,Australia,
+5/17/2018 21:17:51,Laurel,Yes,66,Yes,,Female,18-25,United States ,Southeast
+5/17/2018 21:19:30,Laurel,No,,No,,Male,18-25,Seattle,West
+5/17/2018 21:19:45,Laurel,Yes,40,Yes,46,Male,18-25,US,Northeast
+5/17/2018 21:24:46,Laurel,Yes,44,Yes,40,Male,25-30,usa,Northeast
+5/17/2018 21:25:04,Laurel,Yes,30,Yes,32,Male,30-35,Hungary,
+5/17/2018 21:26:26,Laurel,No,,Yes,,Female,>60,,Midwest
+5/17/2018 21:27:09,Laurel,Yes,,Yes,,Male,18-25, New Orleans,Southeast
+5/17/2018 21:27:27,Laurel,Yes,44,Yes,44,Male,<18,America? ,Midwest
+5/17/2018 21:33:10,Laurel,No,,Yes,,Female,18-25,Texas,Southwest
+5/17/2018 21:34:22,Yanney,Yes,48,Yes,50,Female,30-35,California/Arizona,Southwest
+5/17/2018 21:36:07,Laurel,No,,Yes,42,Male,25-30,,
+5/17/2018 21:37:14,Laurel,No,46,Yes,44,Male,30-35,,Northeast
+5/17/2018 21:37:51,Laurel,No,46,Yes,44,Male,30-35,,Northeast
+5/17/2018 21:39:16,Laurel,Yes,,,,,,,
+5/17/2018 21:41:35,Laurel,No,,Yes,,Male,18-25,US,Southwest
+5/17/2018 21:41:41,Yanney,Yes,54,Yes,32,Male,18-25,USA,Northeast
+5/17/2018 21:44:19,Laurel,Yes,46,Yes,44,Male,18-25,U.S.,Southwest
+5/17/2018 21:50:34,Laurel,Yes,30,No,,Female,25-30,,Southeast
+5/17/2018 21:50:59,Laurel,Yes,42,Yes,38,Male,40-45,,
+5/17/2018 21:52:18,Laurel,Yes,30,Yes,66,Male,35-40,Hermiston Oregon,West
+5/17/2018 21:53:35,Laurel,Yes,42,Yes,52,Male,Prefer not to say,India,
+5/17/2018 22:00:50,Yanney,No,,Yes,60,Female,35-40,UK,
+5/17/2018 22:03:52,Yanney,Yes,56,Yes,42,Male,18-25,California,West
+5/17/2018 22:07:04,Yanney,Yes,48,Yes,48,Female,18-25,US,Southwest
+5/17/2018 22:08:05,Laurel,No,,No,,Male,18-25,,
+5/17/2018 22:10:23,Laurel,No,,,,,,,
+5/17/2018 22:15:35,Laurel,Yes,30,Yes,66,Female,18-25,"Portland, OR",West
+5/17/2018 22:15:58,Laurel,No,,Yes,34,Male,30-35,,Northeast
+5/17/2018 22:18:36,Yanney,Yes,44,Yes,40,Male,25-30,California,Midwest
+5/17/2018 22:20:51,Laurel,Yes,38,Yes,40,Male,55-60,U.s.,Southwest
+5/17/2018 22:29:04,Laurel,Yes,42,Yes,58,Female,25-30,United States,West
+5/17/2018 22:30:46,Laurel,Yes,44,Yes,38,Male,35-40,France,
+5/17/2018 22:33:28,Laurel,Yes,46,Yes,42,Male,25-30,"Maryland, USA",Northeast
+5/17/2018 22:34:08,Laurel,Yes,44,Yes,34,Female,35-40,US,West
+5/17/2018 22:34:27,Laurel,Yes,42,Yes,40,Female,,,
+5/17/2018 22:35:23,Laurel,Yes,42,Yes,40,Female,,,
+5/17/2018 22:40:15,Yanney,Yes,38,Yes,56,Male,18-25,,"Hawaii, Alaska or other territory"
+5/17/2018 22:43:34,Laurel,Yes,60,Yes,40,Male,30-35,Australia,
+5/17/2018 23:02:34,Laurel,No,,Yes,34,Female,25-30,Us,Southwest
+5/17/2018 23:07:03,Yanney,Yes,56,Yes,50,Male,25-30,LA,West
+5/17/2018 23:07:11,Yanney,No,,Yes,50,Male,25-30,,West
+5/17/2018 23:07:36,,,,,,,,,
+5/17/2018 23:10:26,Laurel,Yes,34,Yes,32,,,,
+5/17/2018 23:19:10,Laurel,Yes,30,Yes,62,Male,18-25,Canada,
+5/17/2018 23:19:10,Laurel,Yes,44,Yes,32,Male,18-25,,
+5/17/2018 23:23:31,Laurel,No,,Yes,40,Male,35-40,CA,West
+5/17/2018 23:25:14,Yanney,No,,,,Male,30-35,,
+5/17/2018 23:33:08,Laurel,Yes,30,Yes,38,Prefer not to say,<18,Australia,
+5/17/2018 23:40:43,Yanney,No,,No,,Female,25-30,US,Northeast
+5/17/2018 23:41:40,Laurel,Yes,48,Yes,56,Female,25-30,Canada,
+5/17/2018 23:47:04,Laurel,No,,Yes,32,Male,<18,,
+5/17/2018 23:47:23,Laurel,Yes,30,Yes,46,Male,30-35,California,West
+5/17/2018 23:54:35,Laurel,No,42,Yes,50,Male,55-60,gkjhg,Southwest
+5/17/2018 23:55:02,Laurel,Yes,30,Yes,56,Female,30-35,San Francisco,West
+5/18/2018 0:02:55,Laurel,Yes,30,Yes,34,Male,30-35,Canada ,
+5/18/2018 0:06:20,Laurel,No,,No,,Male,25-30,US,
+5/18/2018 0:27:11,Laurel,Yes,30,Yes,40,Male,18-25,Us,Northeast
+5/18/2018 0:33:07,Yanney,No,,No,,Gender-fluid/Non-binary/Other,35-40,San diego,Southwest
+5/18/2018 0:33:33,Laurel,Yes,34,Yes,60,Female,25-30,Singapore,
+5/18/2018 0:41:32,Laurel,No,,No,,Male,18-25,,West
+5/18/2018 0:42:24,Yanney,Yes,52,Yes,40,Male,40-45,Norway,
+5/18/2018 0:43:41,Laurel,Yes,38,Yes,38,Male,30-35,US,West
+5/18/2018 0:45:42,Laurel,No,,Yes,36,Female,25-30,Europe,
+5/18/2018 1:03:28,Yanney,Yes,58,Yes,36,,18-25,India,
+5/18/2018 1:03:58,Laurel,Yes,44,Yes,42,Male,18-25,Sweden,
+5/18/2018 1:19:38,Laurel,Yes,30,Yes,38,Male,25-30,,
+5/18/2018 1:23:01,Laurel,Yes,30,Yes,42,Female,18-25,Canada,
+5/18/2018 1:24:45,Yanney,No,,No,,Female,25-30,Canada,
+5/18/2018 1:31:45,Laurel,Yes,30,Yes,34,Male,18-25,Pa,Northeast
+5/18/2018 1:40:58,Yanney,No,,Yes,66,Male,18-25,,
+5/18/2018 1:47:03,Laurel,Yes,30,Yes,40,Female,25-30,USA,Northeast
+5/18/2018 1:50:58,Laurel,No,48,Yes,42,Male,18-25,America,Midwest
+5/18/2018 1:52:41,Laurel,No,,Yes,38,Male,25-30,NJ,Northeast
+5/18/2018 1:56:34,Laurel,Yes,,,44,Male,18-25,Georgia,
+5/18/2018 1:56:55,Laurel,Yes,,,44,Male,18-25,Georgia,
+5/18/2018 2:53:00,Yanney,Yes,30,Yes,40,Prefer not to say,18-25,Canada,
+5/18/2018 3:08:16,Yanney,No,,No,,Male,18-25,CA,West
+5/18/2018 3:08:18,Laurel,Yes,46,Yes,40,Male,18-25,Australia,
+5/18/2018 3:11:34,Laurel,Yes,46,Yes,42,Male,25-30,,Midwest
+5/18/2018 3:23:30,Yanney,Yes,52,Yes,48,Male,18-25,Scotland,
+5/18/2018 3:26:01,Laurel,Yes,42,Yes,42,Male,25-30,,"Hawaii, Alaska or other territory"
+5/18/2018 3:39:28,Laurel,Yes,46,Yes,40,Male,30-35,Germany,
+5/18/2018 3:47:07,,,,,,,,,
+5/18/2018 3:55:56,Laurel,Yes,30,Yes,36,Male,18-25,,
+5/18/2018 4:14:32,Yanney,No,,No,,Male,<18,US,Midwest
+5/18/2018 4:34:53,Yanney,Yes,40,No,36,Female,25-30,Latvia,
+5/18/2018 4:46:12,Laurel,No,,Yes,40,Male,25-30,France,
+5/18/2018 4:46:51,Laurel,No,,,,,,,
+5/18/2018 4:48:15,Yanney,No,34,Yes,64,Male,30-35,italy,
+5/18/2018 4:58:44,Yanney,Yes,,Yes,58,Male,40-45,Us ,Midwest
+5/18/2018 5:01:14,Laurel,Yes,42,Yes,40,Male,25-30,Australia ,
+5/18/2018 5:01:45,,,,,,,,,
+5/18/2018 5:09:35,Laurel,No,,No,,Male,18-25,Portugal,
+5/18/2018 5:10:35,Laurel,Yes,,Yes,36,Female,45-50,,Southeast
+5/18/2018 5:28:30,Yanney,No,,Yes,38,Male,<18,Pakistan,
+5/18/2018 5:30:52,Laurel,Yes,44,,38,Male,35-40,,
+5/18/2018 5:33:56,Laurel,Yes,32,Yes,38,Male,18-25,,
+5/18/2018 5:34:48,Laurel,Yes,,,46,Male,30-35,UK,
+5/18/2018 5:38:58,Laurel,Yes,48,Yes,48,Male,35-40,Canada,
+5/18/2018 5:39:54,Yanney,Yes,60,Yes,32,Male,18-25,Pakistan,
+5/18/2018 5:40:54,Laurel,Yes,30,Yes,,Gender-fluid/Non-binary/Other,25-30,,Southeast
+5/18/2018 5:44:22,Laurel,Yes,30,Yes,60,Female,18-25,United States,Midwest
+5/18/2018 5:49:55,Yanney,Yes,42,Yes,52,Male,<18,Finland,
+5/18/2018 5:50:05,Yanney,Yes,,Yes,,,,,
+5/18/2018 5:50:59,Laurel,Yes,30,Yes,40,Male,<18,Ireland,
+5/18/2018 6:06:10,Yanney,No,,No,,Male,18-25,DENMARK,
+5/18/2018 6:08:51,Laurel,Yes,46,Yes,44,Male,18-25,US,Southwest
+5/18/2018 6:19:36,Laurel,Yes,42,Yes,40,Male,25-30,,
+5/18/2018 6:19:58,Laurel,Yes,50,Yes,36,Female,18-25,England ,
+5/18/2018 6:28:09,Laurel,Yes,44,Yes,46,Male,25-30,,
+5/18/2018 6:34:29,Yanney,No,,Yes,60,Male,25-30,,
+5/18/2018 6:40:45,Laurel,Yes,32,Yes,48,Male,18-25,Buttown,Southeast
+5/18/2018 6:57:10,Laurel,Yes,44,Yes,40,Male,18-25,Canada,
+5/18/2018 7:06:18,Laurel,Yes,46,Yes,32,Male,18-25,Germany,
+5/18/2018 7:06:32,Yanney,No,42,Yes,62,Female,18-25,Canada,
+5/18/2018 7:10:01,Laurel,Yes,42,Yes,42,Female,25-30,South Africa,
+5/18/2018 7:18:15,Laurel,No,46,Yes,46,Male,<18,Spain,
+5/18/2018 7:21:00,Yanney,No,44,Yes,48,Male,30-35,UK,
+5/18/2018 7:44:31,Laurel,Yes,66,Yes,32,Male,25-30,Canada,
+5/18/2018 7:48:05,Laurel,Yes,30,Yes,42,Male,25-30,"Reno, NV",West
+5/18/2018 7:49:29,Yanney,No,,No,,Male,18-25,,Northeast
+5/18/2018 7:57:40,Laurel,Yes,30,Yes,50,Male,25-30,Usa,Southeast
+5/18/2018 8:17:05,Laurel,No,,Yes,38,Male,25-30,US,Southeast
+5/18/2018 8:37:21,Laurel,Yes,42,Yes,46,Prefer not to say,25-30,,Southeast
+5/18/2018 8:40:11,Laurel,Yes,46,Yes,38,Male,25-30,Germany,
+5/18/2018 8:44:37,Laurel,Yes,46,Yes,40,Male,18-25,,Southeast
+5/18/2018 8:44:39,Laurel,Yes,40,Yes,34,Male,25-30,Norway,
+5/18/2018 8:52:50,Laurel,Yes,,No,38,Male,18-25,,Southeast
+5/18/2018 9:06:17,Laurel,Yes,44,Yes,34,Male,30-35,los angeles ,West
+5/18/2018 9:11:44,Laurel,No,42,Yes,36,Male,25-30,US,Midwest
+5/18/2018 9:13:19,Yanney,No,,No,,Male,40-45,,Southeast
+5/18/2018 9:13:25,Laurel,Yes,42,Yes,40,Male,18-25,NJ,Northeast
+5/18/2018 9:13:40,Laurel,Yes,42,Yes,40,Male,18-25,NJ,Northeast
+5/18/2018 9:19:35,Laurel,No,,Yes,32,Male,18-25,US,Midwest
+5/18/2018 9:21:28,Laurel,Yes,42,Yes,36,Male,25-30,Austria ,
+5/18/2018 9:30:51,Laurel,Yes,46,Yes,42,Male,40-45,US,Southeast
+5/18/2018 9:30:54,Yanney,No,,No,,Male,18-25,Russia,
+5/18/2018 9:31:45,Laurel,No,,No,,Male,30-35,serbia,
+5/18/2018 9:35:25,Laurel,No,42,Yes,36,Male,18-25,Germany,
+5/18/2018 9:41:58,Laurel,Yes,48,Yes,58,Male,18-25,Iowa,Midwest
+5/18/2018 9:44:05,Laurel,Yes,40,Yes,40,Male,30-35,Australia,
+5/18/2018 9:47:59,Yanney,No,,No,,Female,25-30,Manchester UK ,
+5/18/2018 9:50:46,Laurel,No,,Yes,32,Female,18-25,,Midwest
+5/18/2018 9:52:04,Yanney,No,,No,,Male,18-25,US,Midwest
+5/18/2018 9:57:33,Laurel,No,,Yes,66,Male,18-25,US,West
+5/18/2018 9:59:37,Yanney,No,,,,Female,45-50,,Northeast
+5/18/2018 10:00:13,Laurel,Yes,42,Yes,36,Male,18-25,New York,Northeast
+5/18/2018 10:06:50,Yanney,Yes,60,Yes,54,Male,18-25,Chicago,Midwest
+5/18/2018 10:09:06,Laurel,Yes,44,Yes,44,Male,25-30,"Canada, live in Ohio",Midwest
+5/18/2018 10:10:29,Laurel,No,62,Yes,40,Female,25-30,Uk,
+5/18/2018 10:26:46,Yanney,No,,No,,Male,25-30,,
+5/18/2018 10:32:25,Laurel,Yes,30,Yes,48,Female,25-30,Paraguay,
+5/18/2018 10:39:54,Laurel,No,,No,,Male,18-25,H,Midwest
+5/18/2018 10:42:21,Yanney,Yes,50,Yes,46,Male,18-25,Australia,
+5/18/2018 10:55:58,Laurel,Yes,42,Yes,40,Male,25-30,poland,
+5/18/2018 10:57:38,Yanney,Yes,58,No,36,Male,25-30,Italy,
+5/18/2018 11:01:42,Laurel,Yes,42,Yes,40,Female,25-30,US,Midwest
+5/18/2018 11:18:54,Laurel,No,38,Yes,36,Male,18-25,US,West
+5/18/2018 11:27:45,Yanney,Yes,40,,52,Male,<18,Finland,
+5/18/2018 11:37:33,Yanney,No,,No,,Male,30-35,,
+5/18/2018 11:47:05,Laurel,No,,Yes,42,Male,30-35,Indiana,Midwest
+5/18/2018 11:56:36,Laurel,Yes,40,Yes,42,Male,18-25,The Netherlands,
+5/18/2018 12:01:13,Yanney,No,42,Yes,58,Male,<18,England,
+5/18/2018 12:07:50,Laurel,Yes,30,No,46,Male,18-25,,Northeast
+5/18/2018 12:23:32,Yanney,No,,No,,Female,30-35,USA,Midwest
+5/18/2018 12:27:01,Yanney,No,,No,,Male,40-45,Raleigh,Southeast
+5/18/2018 12:33:38,Laurel,Yes,50,Yes,48,Female,18-25,"Michigan, U.S.",Northeast
+5/18/2018 12:35:00,Yanney,No,,No,,Male,,,Northeast
+5/18/2018 12:38:45,Laurel,No,,No,,Male,45-50,North Carolina,Southeast
+5/18/2018 12:44:29,Yanney,No,,No,,Male,40-45,us,Midwest
+5/18/2018 12:55:01,Laurel,No,,Yes,46,Female,18-25,Norway,
+5/18/2018 12:57:59,Laurel,Yes,60,Yes,50,Male,18-25,MI,Northeast
+5/18/2018 12:58:27,Laurel,Yes,54,Yes,34,Male,18-25,UK,
+5/18/2018 13:27:04,Yanney,Yes,44,Yes,34,Male,18-25,India,
+5/18/2018 13:32:52,Laurel,Yes,46,Yes,38,Female,25-30,US,Southwest
+5/18/2018 14:00:34,Yanney,Yes,64,Yes,56,Female,<18,England,
+5/18/2018 14:03:03,Laurel,No,,Yes,46,Male,18-25,Texas,Southwest
+5/18/2018 14:13:56,Laurel,No,,No,,Male,18-25,Netherlands,
+5/18/2018 14:20:40,Laurel,Yes,40,Yes,42,Male,25-30,oregon,West
+5/18/2018 14:29:32,Yanney,No,52,Yes,52,Male,35-40,,
+5/18/2018 14:43:50,Laurel,No,50,No,,Male,25-30,,Southeast
+5/18/2018 14:53:05,Laurel,Yes,40,Yes,36,Male,30-35,Sweden,
+5/18/2018 15:27:43,Laurel,Yes,30,No,,Female,18-25,Australia ,
+5/18/2018 15:33:47,Laurel,No,46,Yes,46,Male,18-25,russia,
+5/18/2018 16:44:28,Yanney,No,32,No,32,Female,25-30,Mn,Midwest
+5/18/2018 16:55:14,Laurel,Yes,44,Yes,36,Male,30-35,USA,West
+5/18/2018 17:30:41,Laurel,No,,Yes,38,Male,18-25,US,West
+5/18/2018 17:33:09,Laurel,Yes,30,Yes,36,Male,18-25,,
+5/18/2018 18:13:07,Yanney,No,,No,,Female,18-25,US,Northeast
+5/18/2018 18:17:49,Laurel,Yes,44,Yes,42,Male,18-25,Canada,
+5/18/2018 18:18:16,Laurel,Yes,42,Yes,44,Male,18-25,Canada,
+5/18/2018 18:22:56,Laurel,Yes,40,Yes,32,Prefer not to say,40-45,USA. ,Southeast
+5/18/2018 18:46:00,Yanney,Yes,50,Yes,46,Prefer not to say,<18,,Northeast
+5/18/2018 19:00:09,Laurel,Yes,48,Yes,40,Gender-fluid/Non-binary/Other,35-40,,Northeast
+5/18/2018 19:07:21,Laurel,No,66,Yes,32,Female,<18,sneep snop,"Hawaii, Alaska or other territory"
+5/18/2018 19:21:03,Laurel,Yes,42,Yes,38,Male,40-45,US,West
+5/18/2018 20:12:22,Laurel,Yes,30,Yes,34,Male,25-30,US,West
+5/18/2018 20:29:17,,,,,,,,,
+5/18/2018 20:50:08,Yanney,Yes,58,Yes,46,Female,30-35,USA,West
+5/18/2018 21:08:38,Laurel,Yes,50,Yes,32,Male,30-35,,Northeast
+5/18/2018 21:12:51,,,,,,,,,
+5/18/2018 21:14:40,Laurel,Yes,48,Yes,48,Male,18-25,,West
+5/18/2018 21:26:08,Laurel,Yes,42,Yes,40,Male,18-25,US,Southeast
+5/18/2018 21:28:39,Laurel,Yes,,,,,,,
+5/18/2018 21:43:33,Laurel,Yes,44,Yes,58,Male,,,West
+5/18/2018 22:45:43,Laurel,No,,Yes,32,Male,18-25,Huh?,
+5/18/2018 22:50:31,Yanney,No,,No,,Male,<18,US,West
+5/18/2018 23:00:35,Laurel,No,,Yes,36,Female,25-30,"Texas, USA",Southwest
+5/19/2018 0:02:29,Laurel,No,,Yes,,Female,18-25,Canada,
+5/19/2018 1:19:18,Laurel,Yes,44,Yes,42,Male,18-25,UK,
+5/19/2018 1:29:23,Laurel,Yes,30,Yes,44,Male,<18,,
+5/19/2018 1:41:48,Yanney,No,30,Yes,,Male,25-30,Denmark,Midwest
+5/19/2018 2:15:47,Laurel,Yes,60,Yes,,Male,<18,Portugal,
+5/19/2018 2:22:48,Laurel,Yes,44,No,50,Male,18-25,Uk,
+5/19/2018 2:46:37,Yanney,No,,No,,Male,25-30,United Kingdom,
+5/19/2018 3:20:12,Laurel,Yes,30,Yes,34,Male,<18,Poland,
+5/19/2018 3:34:25,Laurel,Yes,30,Yes,38,Male,18-25,California ,West
+5/19/2018 3:58:24,Laurel,Yes,52,,38,Male,,,
+5/19/2018 4:41:31,Laurel,Yes,42,Yes,40,Male,30-35,,Midwest
+5/19/2018 5:21:44,Laurel,Yes,40,Yes,48,Male,35-40,Vermont,Northeast
+5/19/2018 5:22:30,Laurel,No,,Yes,36,Male,18-25,India,
+5/19/2018 6:06:06,Yanney,No,,No,,Male,18-25,Serbia,
+5/19/2018 6:49:01,Laurel,No,46,Yes,46,Prefer not to say,Prefer not to say,EU,West
+5/19/2018 7:40:44,,,,,,,,,
+5/19/2018 7:51:17,Yanney,Yes,50,Yes,42,Male,30-35,US,Southeast
+5/19/2018 8:05:32,Laurel,Yes,48,Yes,56,Male,45-50,"Mobile, Alabama",Southeast
+5/19/2018 8:08:44,Yanney,Yes,64,No,,Male,<18,United Kingdom,
+5/19/2018 8:23:59,Laurel,Yes,30,Yes,38,Male,40-45,Chicago,Midwest
+5/19/2018 8:42:40,Laurel,No,,Yes,32,Female,18-25,United States,West
+5/19/2018 8:48:00,Laurel,Yes,30,Yes,38,Female,35-40,Illinois,Midwest
+5/19/2018 8:59:37,Laurel,Yes,42,Yes,36,Male,18-25,United States of America,Midwest
+5/19/2018 9:14:59,Yanney,Yes,56,Yes,44,Male,18-25,Brazil,"Hawaii, Alaska or other territory"
+5/19/2018 9:16:47,Laurel,Yes,46,Yes,38,Male,25-30,Tulsa,Midwest
+5/19/2018 9:30:10,Yanney,No,,No,,Male,18-25,,Midwest
+5/19/2018 9:38:15,Laurel,Yes,50,Yes,42,Male,30-35,Illinois,Midwest
+5/19/2018 10:30:32,Yanney,No,50,No,50,Female,18-25,Canada,
+5/19/2018 10:32:06,Yanney,Yes,44,Yes,38,Male,18-25,,
+5/19/2018 11:01:33,Laurel,Yes,38,Yes,38,Male,18-25,,
+5/19/2018 11:07:58,Laurel,No,,No,,Male,18-25,Finland,
+5/19/2018 11:25:54,Laurel,Yes,44,Yes,32,Male,25-30,Romania,
+5/19/2018 11:32:04,Laurel,Yes,44,Yes,44,Male,25-30,Kansas,Midwest
+5/19/2018 11:50:05,Yanney,Yes,46,Yes,42,Female,25-30,Italy,
+5/19/2018 11:58:54,Yanney,No,,No,,Female,18-25,,Southeast
+5/19/2018 12:24:36,Yanney,No,,No,,Male,25-30,,Northeast
+5/19/2018 13:26:07,Laurel,Yes,44,Yes,40,Male,25-30,Colorado,Midwest
+5/19/2018 13:36:21,Yanney,Yes,52,Yes,58,Female,<18,UK,
+5/19/2018 13:38:37,Laurel,,46,Yes,50,Male,18-25,UK ,
+5/19/2018 13:41:36,Yanney,Yes,64,Yes,46,Male,30-35,NY,Northeast
+5/19/2018 13:55:28,Laurel,No,,No,,Male,25-30,,
+5/19/2018 14:15:46,Yanney,Yes,50,Yes,60,Male,25-30,,Southwest
+5/19/2018 14:19:04,Laurel,No,,No,,Female,,,West
+5/19/2018 14:33:29,Laurel,Yes,62,Yes,32,Male,40-45,,Northeast
+5/19/2018 15:00:16,Yanney,No,,Yes,38,,,,
+5/19/2018 15:22:31,Yanney,No,30,No,34,Male,25-30,Straya,
+5/19/2018 16:09:10,Yanney,Yes,56,Yes,32,Male,<18,U.S,Northeast
+5/19/2018 16:30:01,Laurel,Yes,42,Yes,58,Male,25-30,,
+5/19/2018 17:16:23,Yanney,No,,,,Male,25-30,,Midwest
+5/19/2018 17:31:11,Laurel,Yes,42,Yes,42,Male,18-25,,
+5/19/2018 19:09:53,Yanney,No,40,No,36,Female,25-30,Sg,
+5/19/2018 20:00:05,Laurel,No,,Yes,32,Male,18-25,US,Southwest
+5/19/2018 20:59:51,Laurel,Yes,38,Yes,40,Prefer not to say,Prefer not to say,,
+5/19/2018 21:28:01,Laurel,Yes,38,Yes,54,Male,25-30,,Midwest
+5/19/2018 21:39:46,Laurel,Yes,58,Yes,32,Male,18-25,United States,Midwest
+5/19/2018 22:02:35,Laurel,Yes,32,No,,Female,35-40,Illinois,Midwest
+5/20/2018 0:48:33,Yanney,Yes,60,Yes,46,Male,18-25,,
+5/20/2018 0:51:27,Laurel,Yes,44,Yes,44,Male,25-30,UK,
+5/20/2018 2:00:22,Yanney,Yes,,Yes,,Male,18-25,,
+5/20/2018 3:53:14,Laurel,No,,No,,Male,18-25,Usa,West
+5/20/2018 3:58:52,Laurel,Yes,46,Yes,40,Male,25-30,,Midwest
+5/20/2018 4:19:23,Laurel,Yes,30,Yes,38,Male,25-30,Sweden,
+5/20/2018 5:15:23,Laurel,,,,,,,,
+5/20/2018 6:35:28,Yanney,No,,Yes,60,Male,25-30,,Midwest
+5/20/2018 6:38:06,Laurel,Yes,46,Yes,44,Male,18-25,Canada,
+5/20/2018 7:01:47,Yanney,No,,No,,Male,25-30,,
+5/20/2018 7:57:02,Yanney,No,,No,,Male,18-25,Austria,
+5/20/2018 10:20:16,Laurel,Yes,30,Yes,48,Male,18-25,mexico,
+5/20/2018 10:52:58,Laurel,Yes,42,Yes,34,Male,<18,uk,
+5/20/2018 11:43:11,Yanney,No,,No,,Male,30-35,Chile,
+5/20/2018 12:47:22,Laurel,Yes,44,No,46,Male,<18,trv,"Hawaii, Alaska or other territory"
+5/20/2018 13:32:55,Laurel,No,,Yes,32,Female,35-40,Texas,Southwest
+5/20/2018 13:55:09,Laurel,Yes,44,Yes,44,Male,25-30,Idaho,West
+5/20/2018 14:30:47,Yanney,No,,No,,Male,30-35,UK,
+5/20/2018 16:00:31,Laurel,Yes,42,Yes,42,Female,25-30,"Kansas City, Missouri ",Midwest
+5/20/2018 17:43:47,Laurel,Yes,30,Yes,40,Male,25-30,USA,Southeast
+5/20/2018 20:45:08,Yanney,No,60,Yes,32,Male,18-25,,Northeast
+5/20/2018 21:07:44,Laurel,Yes,42,Yes,44,Male,35-40,LA,Southwest
+5/20/2018 21:14:02,Laurel,Yes,48,Yes,44,Male,18-25,Germany,
+5/20/2018 22:30:30,Laurel,Yes,,Yes,,Male,30-35,,Northeast
+5/20/2018 22:56:52,Laurel,Yes,44,Yes,38,Male,18-25,US,West
+5/20/2018 23:25:40,Laurel,,,,,,,,
+5/20/2018 23:59:37,Laurel,Yes,48,Yes,52,Male,40-45,U.S.,Southeast
+5/21/2018 1:19:10,Laurel,Yes,40,Yes,42,Male,18-25,Australia,
+5/21/2018 5:11:09,Yanney,,,,,,,,
+5/21/2018 8:14:45,Laurel,Yes,30,Yes,46,Male,<18,United Kingdom,
+5/21/2018 8:15:00,Laurel,Yes,30,Yes,46,Male,<18,United Kingdom,
+5/21/2018 8:15:04,Laurel,Yes,30,Yes,46,Male,<18,United Kingdom,
+5/21/2018 11:15:42,Yanney,No,,No,,Male,25-30,Russia,
+5/21/2018 12:54:30,Laurel,No,,No,,Female,35-40,,Northeast
+5/21/2018 14:16:33,Laurel,Yes,38,Yes,36,Male,25-30,US,Midwest
+5/21/2018 19:01:27,Yanney,Yes,58,No,,Male,<18,,West
+5/21/2018 20:50:25,Yanney,Yes,50,Yes,36,Male,18-25,,
+5/21/2018 21:37:48,Yanney,Yes,48,Yes,,Female,Prefer not to say,Lol,Northeast
+5/21/2018 21:46:30,Laurel,Yes,56,Yes,54,Male,18-25,,
+5/21/2018 22:57:10,Laurel,Yes,40,Yes,42,Male,35-40,Usa,West
+5/22/2018 0:10:56,Yanney,Yes,60,Yes,48,Female,25-30,United States,Midwest
+5/22/2018 0:12:53,Yanney,Yes,60,Yes,48,Female,25-30,United States,Midwest
+5/22/2018 3:27:02,Laurel,No,,Yes,40,Male,30-35,Charlotte,Southeast
+5/22/2018 5:30:44,Laurel,Yes,48,Yes,34,Male,25-30,,
+5/22/2018 8:19:07,Laurel,Yes,30,Yes,66,Male,25-30,,Midwest
+5/22/2018 8:45:52,Yanney,No,,No,,Male,18-25,,
+5/22/2018 8:58:47,Laurel,No,,Yes,40,Male,18-25,England,
+5/22/2018 10:43:01,Laurel,No,,No,,Male,18-25,Brazil,
+5/22/2018 11:39:59,Laurel,Yes,38,Yes,38,Male,25-30,United States,Midwest
+5/22/2018 12:08:22,Laurel,No,,Yes,32,Male,25-30,India,Southeast
+5/22/2018 14:31:11,Laurel,No,44,Yes,42,Male,18-25,"Fall River, MA",Northeast
+5/22/2018 16:08:08,Laurel,Yes,40,Yes,38,Male,35-40,US,West
+5/22/2018 16:10:53,Laurel,Yes,58,Yes,52,Male,<18,USA,Northeast
+5/22/2018 20:14:21,Laurel,Yes,40,Yes,40,Female,18-25,US,Southeast
+5/22/2018 21:31:45,Laurel,Yes,42,Yes,54,Male,18-25,,
+5/23/2018 1:10:54,Laurel,Yes,46,Yes,42,Male,25-30,New Zealand,
+5/23/2018 2:02:28,Laurel,Yes,58,Yes,44,Male,25-30,India,
+5/23/2018 5:30:03,Laurel,Yes,42,Yes,38,Male,25-30,China,
+5/23/2018 7:39:10,Laurel,Yes,38,Yes,38,Male,18-25,Norway,
+5/23/2018 9:34:51,Yanney,No,,No,,Female,35-40,USA,Northeast
+5/23/2018 13:23:04,Yanney,Yes,46,,38,Male,25-30,Germany,Southeast
+5/23/2018 13:59:26,Yanney,Yes,64,Yes,50,Male,Prefer not to say,USA,Northeast
+5/23/2018 15:15:17,Laurel,No,,Yes,34,Female,18-25,Europe,
+5/23/2018 15:22:06,Laurel,Yes,38,Yes,38,Male,25-30,Uk,
+5/23/2018 15:32:06,Laurel,No,,No,,Gender-fluid/Non-binary/Other,30-35,,Midwest
+5/23/2018 15:32:58,Yanney,No,,No,,Male,18-25,,Northeast
+5/23/2018 16:22:07,Laurel,Yes,42,Yes,36,Male,30-35,USA,West
+5/23/2018 17:00:15,Yanney,Yes,40,Yes,,Male,,,
+5/23/2018 17:27:08,,,,,,,,,
+5/23/2018 17:51:23,Laurel,No,,Yes,44,Male,25-30,denmark,
+5/23/2018 21:06:45,Yanney,No,,Yes,34,Female,35-40,USA ,Southeast
+5/24/2018 0:57:53,Yanney,Yes,46,Yes,38,Gender-fluid/Non-binary/Other,35-40,Australia,
+5/24/2018 0:59:30,Laurel,Yes,62,Yes,34,Female,25-30,France,
+5/24/2018 1:10:15,Yanney,Yes,48,Yes,34,Male,30-35,France,
+5/24/2018 9:27:19,Laurel,Yes,42,Yes,42,Male,18-25,,
+5/24/2018 10:16:51,Laurel,Yes,54,Yes,50,Male,25-30,,
+5/24/2018 10:44:43,Laurel,Yes,46,Yes,58,Gender-fluid/Non-binary/Other,18-25,Minnesota,Midwest
+5/24/2018 11:55:01,Yanney,Yes,60,Yes,50,Male,35-40,London,
+5/24/2018 15:00:03,Laurel,Yes,,,34,Male,25-30,Ukraine,"Hawaii, Alaska or other territory"
+5/24/2018 16:19:00,Laurel,Yes,42,Yes,38,Male,30-35,US,West
+5/24/2018 16:28:25,Laurel,No,,Yes,40,Male,25-30,Australia,
+5/24/2018 16:56:16,Yanney,No,52,No,,Male,,,
+5/24/2018 20:28:09,Yanney,Yes,66,No,,Male,<18,,West
+5/24/2018 21:21:50,Laurel,Yes,42,Yes,38,Male,25-30,usa,Southeast
+5/25/2018 4:27:04,Yanney,Yes,,Yes,62,Male,30-35,FR,
+5/25/2018 9:35:58,Yanney,Yes,48,No,50,Male,18-25,,Southeast
+5/25/2018 12:48:37,Laurel,Yes,44,Yes,40,Female,30-35,"San Diego, CA, USA",West
+5/25/2018 15:30:26,Laurel,Yes,48,Yes,38,Male,Prefer not to say,,
+5/25/2018 21:32:50,Laurel,Yes,44,Yes,42,Male,25-30,US,Northeast
+5/26/2018 1:01:28,Yanney,Yes,38,Yes,60,Male,18-25,California ,Southwest
+5/26/2018 2:15:30,Laurel,Yes,44,Yes,44,Male,18-25,,
+5/26/2018 2:41:55,Laurel,No,30,Yes,64,Female,18-25,Usa,West
+5/26/2018 3:03:05,Laurel,Yes,36,Yes,36,Prefer not to say,18-25,Prefer not to say,
+5/26/2018 16:22:19,Laurel,No,50,Yes,46,Male,<18,Choose not to answer,Southeast
+5/26/2018 23:37:45,Laurel,Yes,30,Yes,66,Male,18-25,US,Southeast
+5/27/2018 13:57:10,Laurel,Yes,44,Yes,38,Male,25-30,France,
+5/27/2018 17:53:41,Laurel,Yes,42,Yes,40,Male,<18,United States,Northeast
+5/27/2018 17:55:02,Laurel,Yes,38,Yes,38,Male,18-25,UK,
+5/27/2018 17:57:47,Laurel,Yes,48,Yes,34,Male,18-25,Argentina,
+5/28/2018 10:29:34,Laurel,Yes,62,Yes,48,Male,30-35,,Northeast
+5/28/2018 16:12:50,Laurel,Yes,46,Yes,44,Male,25-30,US,Midwest
+5/29/2018 13:16:17,Yanney,No,,No,,Male,<18,Nigeria,
+5/29/2018 13:16:23,Yanney,No,,No,,Male,<18,Nigeria,
+5/29/2018 17:50:59,Laurel,No,,Yes,38,Male,18-25,,Northeast
+5/31/2018 3:06:11,Laurel,No,,Yes,34,Male,18-25,united states,Southeast
+5/31/2018 7:28:24,Laurel,Yes,30,Yes,50,Male,18-25,United Kingdom,
+6/1/2018 6:53:40,Laurel,No,,Yes,44,Male,18-25,,
+6/5/2018 7:28:08,Yanney,Yes,52,Yes,46,Male,25-30,,
+6/5/2018 7:28:16,Yanney,Yes,52,Yes,46,Male,25-30,,
+6/6/2018 18:25:26,Yanney,No,,No,,Male,25-30,,
+6/9/2018 7:16:25,Laurel,Yes,42,Yes,42,Male,30-35,Canada,
+6/9/2018 22:05:51,Laurel,Yes,30,Yes,42,Male,18-25,Canada,
+6/14/2018 21:35:40,Laurel,Yes,44,Yes,40,Male,18-25,US,Midwest
+6/18/2018 7:32:14,Laurel,Yes,40,Yes,36,Male,25-30,Denmark,
+6/28/2018 14:48:33,Laurel,Yes,44,Yes,40,Male,30-35,US,Northeast
+6/28/2018 14:49:21,Laurel,Yes,44,Yes,40,Male,30-35,US,Northeast
+6/30/2018 4:34:14,Laurel,Yes,60,Yes,44,Male,40-45,FL,Southwest
+6/30/2018 19:16:29,Laurel,Yes,42,Yes,38,Male,35-40,USA,Southeast
+6/30/2018 19:19:12,Laurel,Yes,42,Yes,38,Male,35-40,USA,Southeast
+7/1/2018 16:04:35,Laurel,Yes,64,Yes,34,Male,18-25,Germany,
+7/2/2018 20:13:09,Laurel,Yes,42,Yes,36,Male,18-25,Washington,West
+7/7/2018 15:44:30,Laurel,Yes,44,Yes,38,Male,18-25,US,Southwest
+7/9/2018 4:34:58,Yanney,Yes,60,Yes,60,Male,18-25,Spain,
+7/10/2018 7:22:50,Laurel,Yes,48,Yes,42,Male,18-25,Mexico,
+7/11/2018 10:24:10,Laurel,Yes,50,Yes,,Male,<18,uk,
+7/12/2018 19:54:16,Laurel,Yes,42,Yes,38,Gender-fluid/Non-binary/Other,35-40,"Denver, CO",West
+7/14/2018 15:03:15,Laurel,Yes,44,Yes,40,Male,40-45,United States,Midwest
+7/14/2018 19:53:09,Laurel,Yes,42,Yes,42,Male,25-30,US,Northeast
+7/19/2018 17:11:00,Laurel,Yes,30,Yes,38,Male,Prefer not to say,England,
+7/22/2018 21:57:57,Laurel,Yes,,,,,,,
+7/23/2018 19:51:41,Laurel,Yes,42,Yes,44,Male,25-30,Australia,
+7/28/2018 3:38:18,Laurel,Yes,,No,,,,,
+7/30/2018 13:21:13,Laurel,Yes,36,Yes,38,Male,30-35,Finland,
+7/30/2018 13:21:20,Laurel,Yes,36,Yes,38,Male,30-35,Finland,
+7/30/2018 13:22:51,Laurel,Yes,36,Yes,36,Male,30-35,,
+7/30/2018 13:35:46,,,,,,,,,
+8/1/2018 18:47:31,Yanney,Yes,54,Yes,52,Male,18-25,Virginia,Southeast
+8/4/2018 16:53:45,Laurel,Yes,42,No,,Male,25-30,Australia ,
+8/6/2018 6:33:56,Yanney,Yes,60,Yes,58,Male,<18,algeria,
+8/14/2018 7:18:43,Laurel,Yes,30,Yes,42,Male,25-30,USA,Southeast
+8/14/2018 8:11:20,Laurel,Yes,,,36,Prefer not to say,18-25,,Midwest
+8/19/2018 7:13:22,Yanney,Yes,44,Yes,44,Male,25-30,secret,
+8/21/2018 14:07:29,Yanney,Yes,52,Yes,46,Male,18-25,"Belmont, MA",Northeast
+8/25/2018 20:39:15,Yanney,Yes,46,Yes,46,Male,<18,,
+8/28/2018 14:51:33,Laurel,No,,Yes,32,Male,Prefer not to say,,West
+8/29/2018 14:40:36,Laurel,Yes,48,Yes,44,Male,25-30,uk,
+9/20/2018 13:56:04,Laurel,No,,No,,Male,18-25,Ger,
+9/22/2018 1:32:29,Yanney,No,,Yes,58,Male,18-25,,Southeast
+9/22/2018 7:15:47,Laurel,Yes,30,Yes,52,Female,<18,America,West
+9/23/2018 4:15:20,Laurel,Yes,46,Yes,60,Male,18-25,Poland,
+9/25/2018 19:44:57,Laurel,No,44,Yes,44,,18-25,,Southeast
+9/26/2018 21:34:43,Yanney,Yes,58,No,50,Male,Prefer not to say,south,Northeast
+10/6/2018 9:43:53,Laurel,Yes,42,Yes,42,Male,18-25,,Northeast
+10/24/2018 16:34:20,Laurel,Yes,44,Yes,38,Male,35-40,Texas,
+10/25/2018 9:07:59,Laurel,Yes,48,Yes,38,Male,30-35,Switzerland,
+10/26/2018 0:41:13,Laurel,Yes,42,Yes,42,Male,30-35,,West
+11/7/2018 8:41:59,Yanney,No,,No,,Male,18-25,Denmark,
+11/25/2018 19:41:13,Yanney,Yes,30,No,,Female,18-25,canada,
+11/25/2018 23:53:30,Yanney,Yes,58,No,34,Female,18-25,Romania,
+11/28/2018 11:08:23,Yanney,Yes,44,Yes,46,Male,18-25,Brazil,
+11/30/2018 2:43:44,Laurel,Yes,48,Yes,44,Male,18-25,Michigan,Midwest
+11/30/2018 3:39:44,Yanney,No,,No,,Male,18-25,,
+11/30/2018 17:22:31,Yanney,Yes,48,Yes,46,Male,18-25,germany,
+12/5/2018 20:22:00,Yanney,Yes,48,Yes,48,Female,18-25,California,West
+12/8/2018 8:48:39,Yanney,No,,No,32,Male,18-25,US,Midwest
+12/9/2018 17:45:48,Yanney,No,,No,,Male,18-25,X,
+12/13/2018 13:42:47,Laurel,Yes,56,Yes,48,Male,18-25,,
+12/15/2018 6:26:35,Yanney,No,,No,,Gender-fluid/Non-binary/Other,18-25,Canada,
+12/16/2018 5:28:49,Yanney,No,,,,Male,18-25,NZ,
+12/17/2018 10:50:38,Laurel,Yes,40,Yes,42,Male,45-50,Us,Southeast
+12/18/2018 16:58:28,Yanney,Yes,52,No,,Female,<18,Aus,
+12/21/2018 0:52:58,Yanney,No,,No,,Male,18-25,USA,Northeast
+12/21/2018 5:11:57,Yanney,Yes,54,Yes,36,Male,18-25,Bulgaria,Southwest
+12/23/2018 11:58:26,Yanney,Yes,64,No,,Female,35-40,Indiana,Midwest
+12/26/2018 2:45:26,Laurel,Yes,42,Yes,36,Male,25-30,Amsterdam ,
+12/26/2018 14:46:26,Laurel,Yes,42,Yes,50,Male,35-40,Netherlands ,
+12/27/2018 14:43:54,Laurel,Yes,,Yes,,Male,25-30,Scotland,
+12/28/2018 22:17:52,Laurel,Yes,30,Yes,44,Prefer not to say,Prefer not to say,,Midwest
+12/29/2018 6:58:13,Laurel,Yes,30,Yes,58,Male,25-30,Canada,
+1/1/2019 5:08:35,Laurel,Yes,44,Yes,44,Male,25-30,Uk,
+1/1/2019 13:03:27,Laurel,Yes,30,Yes,40,Male,18-25,sweden,
+1/4/2019 6:43:12,Yanney,Yes,56,Yes,40,Female,18-25,US,Northeast
+1/5/2019 13:37:36,Laurel,Yes,44,,34,Male,30-35,New Zealand,
+1/8/2019 17:03:47,Laurel,Yes,40,Yes,38,Male,18-25,New Zealand,
+1/8/2019 17:11:34,Yanney,No,,No,,Male,18-25,New Zealand,
+1/12/2019 0:34:58,Laurel,Yes,30,Yes,40,Male,18-25,Europe,
+1/12/2019 20:10:53,Laurel,Yes,44,Yes,52,Male,30-35,,Northeast
+1/17/2019 9:13:17,Laurel,No,,Yes,40,Male,25-30,US,Southeast
+1/18/2019 3:17:26,Laurel,Yes,30,Yes,34,Male,18-25,,
+1/21/2019 11:09:37,Laurel,Yes,,,,,,,
+1/25/2019 2:47:16,Laurel,Yes,42,Yes,36,Male,18-25,middle east,
+2/23/2019 7:24:47,Yanney,Yes,44,Yes,60,Male,25-30,Canada,
+3/19/2019 12:51:30,Laurel,Yes,44,Yes,40,Male,25-30,Switzerland,
+3/29/2019 8:51:19,,,,,,,,,
+3/31/2019 19:51:38,Yanney,Yes,56,Yes,58,Gender-fluid/Non-binary/Other,50-55,US,West
+4/1/2019 8:53:55,Laurel,Yes,44,Yes,38,Male,25-30,Russia,
+4/3/2019 9:25:29,Laurel,No,46,Yes,42,Male,18-25,United States,Midwest
+4/4/2019 12:40:00,Laurel,Yes,40,Yes,36,Male,30-35,The Netherlands,
+4/10/2019 0:39:24,Laurel,No,,Yes,40,Male,30-35,Ukraine,
+4/11/2019 16:29:02,Yanney,Yes,60,Yes,52,Female,18-25,Poland,
+4/13/2019 0:06:59,Laurel,Yes,42,Yes,40,Male,18-25,Australia,
+4/24/2019 17:30:39,Laurel,Yes,44,Yes,42,Male,18-25,Canada,
+4/29/2019 14:34:54,Laurel,Yes,30,No,,Male,18-25,Yugoslavia,
+5/8/2019 12:59:52,Yanney,No,,No,,Male,30-35,,
+5/13/2019 8:01:55,Yanney,Yes,48,Yes,52,Male,<18,Slovakia,
+6/2/2019 18:30:17,,,,,,,,,
+6/15/2019 5:35:06,Laurel,Yes,44,Yes,44,Male,18-25,Thai,West
+7/23/2019 16:00:31,Laurel,Yes,62,Yes,50,Male,18-25,,West
+7/26/2019 14:49:29,Yanney,Yes,58,Yes,44,Male,,,
+7/28/2019 11:42:16,Laurel,Yes,46,Yes,34,Male,18-25,Poland,
+8/9/2019 0:36:13,Yanney,No,,No,,Male,40-45,,West
+8/12/2019 23:15:02,Yanney,No,,No,,Female,25-30,canada,
+8/17/2019 9:52:22,Yanney,Yes,50,Yes,66,Prefer not to say,Prefer not to say,,
+8/17/2019 10:02:23,Yanney,Yes,46,No,50,Prefer not to say,Prefer not to say,,
+8/19/2019 10:49:04,Laurel,No,,No,,Male,35-40,Usa,Midwest
+8/26/2019 8:45:54,Laurel,Yes,30,Yes,42,Male,<18,not telling,Northeast
+9/1/2019 3:36:26,Laurel,No,,No,,Male,18-25,midwest usa,Midwest
+9/4/2019 7:40:23,Yanney,No,,No,,Male,,,
+9/6/2019 1:49:08,Laurel,Yes,46,Yes,32,Male,25-30,CA,West
+9/8/2019 7:18:25,Yanney,Yes,56,Yes,52,Male,<18,Romania,
+9/29/2019 12:51:51,Laurel,Yes,38,Yes,40,Female,30-35,UK,
+11/12/2019 0:38:45,Yanney,Yes,,,,Female,<18,Australia,
+12/1/2019 7:56:29,Yanney,Yes,66,Yes,64,Male,25-30,Chicago ,Midwest
+12/15/2019 11:38:15,Laurel,Yes,40,No,,Male,18-25,,
+12/24/2019 16:06:44,Laurel,Yes,30,Yes,42,Male,18-25,UK,
+1/10/2020 10:22:28,Laurel,Yes,,,,,,,
+1/14/2020 22:56:51,Laurel,Yes,30,Yes,40,Male,18-25,Canada,
+1/18/2020 19:34:48,Yanney,Yes,44,Yes,32,Male,<18,US,West
+1/22/2020 8:41:50,Laurel,Yes,30,Yes,44,Male,18-25,India,Southeast
+1/30/2020 1:23:14,Yanney,Yes,54,Yes,54,Male,<18,Nepal,Southwest
