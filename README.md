@@ -30,5 +30,6 @@ TEXT
 
 ## Drawbacks
 
-Google forms, in 2018, did not deal with integer inputs well. Age was therefore collected as a nominal rather than continuous variable.
+1. Google forms, in 2018, did not deal with integer inputs well. Age was therefore collected as a nominal rather than continuous variable.
+2. Survey respondents are primarily younger males.
 
