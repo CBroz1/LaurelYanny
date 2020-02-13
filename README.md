@@ -19,7 +19,12 @@ This script was made after the fact, with intent to publish to github. After dow
 
 ## R Script
 
-TEXT
+The R script is divided into sections for:
+1) *Packages:* installing and loading relevant packages into R.
+2) *Data:* Accessing and cleaning up the raw data file. Saves processed file
+3) *Stats:* Statistical tests.
+4) *Graphs:* Generating plots with ggplot
+5) *SPSS Code:* legacy SPSS code
 
 ## Results
 
