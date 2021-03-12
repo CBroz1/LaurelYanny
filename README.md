@@ -61,5 +61,5 @@ My first pass at the data with SPSS can be found [here](https://imgur.com/a/ICln
 	* Original perception. Greater perception of Laurel with age, but trend is driven by relatively few older respondents.
 	* Inflection point. Youngest and oldest respondents have highest and lowest inflection points respectively. 
 
-
-![Boxplot](https://github.com/CBroz1/LaurelYanny/blob/master/LY_Boxplot.png | width=200)
+<img src="https://github.com/CBroz1/LaurelYanny/blob/master/LY_Boxplot.png" width="300" height="210">
+![Boxplot]( | width=200)
