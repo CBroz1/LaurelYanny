@@ -62,4 +62,4 @@ My first pass at the data with SPSS can be found [here](https://imgur.com/a/ICln
 	* Inflection point. Youngest and oldest respondents have highest and lowest inflection points respectively. 
 
 
-![Boxplot](https://github.com/CBroz1/LaurelYanny/blob/master/LY_Boxplot.png=.2x)
+![Boxplot](https://github.com/CBroz1/LaurelYanny/blob/master/LY_Boxplot.png =.2x)
