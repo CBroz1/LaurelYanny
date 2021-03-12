@@ -98,9 +98,13 @@ library(tidyverse);library(ggpubr);library(rstatix);library(datarium)
   t.test(Pitch ~ Gender, data=dfl) # Sig higher for Female
   
   dfl$Gender <- factor(dfl$Gender, levels=c("M", "F"), labels=c("Male", "Female"))
-  dfl$Dir <- factor(dfl$Dir, levels=c("NumUp", "NumDn"), labels=c("Ascending", "Descending"))  
+  dfl$Direction <- factor(dfl$Dir, levels=c("NumUp", "NumDn"), labels=c("Ascending", "Descending"))  
   
-  ggboxplot(dfl,x="Gender",y="Pitch",color="Dir",facet.by="Orig")
+  ggsave(filename = "LY_Boxplot2.png",
+         ggboxplot(dfl,x="Gender",y="Pitch",color="Direction",facet.by="Orig",
+                   ylab = "Pitch (kHz) of Inflection",
+                   title = "Perception change Pitch by Gender and Original Perception"),
+         width = 10.2, height = 7.31, units="in")
   
 
 # Result 4 - Age is not a significant predictor, but trends indicate greater 
