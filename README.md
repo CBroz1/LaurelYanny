@@ -6,7 +6,7 @@ Publishing data collected based on the bistable auditory illusion.
 
 In May 2018, a small clip went viral as an auditory equivalent of the blue or gold dress. An auditory bistable illusion that sounded like "Laurel" to some and "Yanney" to others. Wired has since published a [video discussing the topic](https://www.youtube.com/watch?v=3km896XZ-J0).
 
-I recognized that an individual's perception would likely shift with with pitch shifts. I used ffmpeg to generate shifted versions of the original clip, and concatenated them together in rising and falling sequences, shown [here](https://youtu.be/oaMTXfAZzpE). The original video accumulated about 15k views before I delisted it, and reposted to my personal YouTube. Some commenters requested an even more extreme shift, as shown [here](https://youtu.be/Nu4Ax459hoU).
+I recognized that an individual's perception would likely shift with pitch shifts. I used ffmpeg to generate shifted versions of the original clip, and concatenated them together in rising and falling sequences, shown [here](https://youtu.be/oaMTXfAZzpE). The original video accumulated about 15k views before I delisted it, and reposted to my personal YouTube. Some commenters requested an even more extreme shift, as shown [here](https://youtu.be/Nu4Ax459hoU).
 
 ## EditVideo.sh
 
