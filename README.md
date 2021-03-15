@@ -57,6 +57,7 @@ My first pass at the data with SPSS can be found [here](https://imgur.com/a/ICln
 2. Interpretations are preserved with pitch changes. Inflection points are higher when going up and lower coming down. 
 3. Splitting results by original interpretation and gender.
 	* Women have higher inflection points than men.
+	* The gender gap is smaller among those who initially heard Laurel.
 4. Age, when treated as continuous, is a significant predictor of
 	* Original perception. Greater perception of Laurel with age, but trend is driven by relatively few older respondents.
 	* Inflection point. Youngest and oldest respondents have highest and lowest inflection points respectively. 
